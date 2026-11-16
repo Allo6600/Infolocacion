@@ -1,0 +1,2691 @@
+{
+ "topic": "日本の納豆をけなされたときのために、世界中の変な料理を国ごとに(195か国くらい)写真付きで集める",
+ "title": "納豆の仲間たち 世界の個性派ごはん図鑑",
+ "slug": "natto-friends-world-unique-foods",
+ "lead": "「納豆って変な食べ物だね」と言われたら、にっこり笑ってこのページを開きましょう。世界のどの国にも、よそから見ると驚くけれど、地元では愛されてやまない一皿があります。けなし合うためではなく、「うちもそっちも個性的でおいしいね」と笑い合うために、国ごとの自慢の個性派料理を写真付きで集めました。",
+ "created": "2026-11-16",
+ "engines": [
+  "claude"
+ ],
+ "groups": [
+  {
+   "name": "東アジア・東南アジア",
+   "items": [
+    {
+     "key": "日本",
+     "name": "納豆",
+     "text": "蒸した大豆を納豆菌で発酵させた食べ物。糸を引く粘りと独特の香りに初めての人は驚きますが、ご飯にのせる朝食の定番として長く愛され、この図鑑の出発点でもあります。",
+     "wiki_en": "Nattō",
+     "wiki_ja": "納豆",
+     "link": "https://en.wikipedia.org/wiki/Natto",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Matsunoya_Breakfast_20240421_102843.jpg/960px-Matsunoya_Breakfast_20240421_102843.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Matsunoya_Breakfast_20240421_102843.jpg",
+      "artist": "円周率３パーセント",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Matsunoya_Breakfast_20240421_102843.jpg"
+     }
+    },
+    {
+     "key": "中国",
+     "name": "臭豆腐(チョウドウフ)",
+     "text": "発酵させた漬け汁に豆腐を漬けて作る料理。遠くからでもわかる強い香りに驚かされますが、揚げると外はカリッと中はふんわりで、屋台や夜市の人気者として親しまれています。",
+     "wiki_en": "Stinky tofu",
+     "wiki_ja": "臭豆腐",
+     "link": "https://en.wikipedia.org/wiki/Stinky_tofu",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Stinkender_Tofu_1.JPG/960px-Stinkender_Tofu_1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Stinkender_Tofu_1.JPG",
+      "artist": "Pilzland",
+      "license": "CC0",
+      "page": "https://commons.wikimedia.org/wiki/File:Stinkender_Tofu_1.JPG"
+     }
+    },
+    {
+     "key": "韓国",
+     "name": "ホンオフェ(洪魚膾)",
+     "text": "ガンギエイを発酵させた刺身。鼻に抜ける強烈なアンモニアの刺激が驚きの的ですが、全羅道では祝いの席に欠かせず、ゆで豚やキムチと重ねる「三合」で楽しまれています。",
+     "wiki_en": "Hongeo-hoe",
+     "wiki_ja": "ホンオフェ",
+     "link": "https://en.wikipedia.org/wiki/Hongeo-hoe",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Korean_cuisine-Samhap-01.jpg/960px-Korean_cuisine-Samhap-01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Korean_cuisine-Samhap-01.jpg",
+      "artist": "egg (Hong, Yun Seon)",
+      "license": "CC BY 2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Korean_cuisine-Samhap-01.jpg"
+     }
+    },
+    {
+     "key": "北朝鮮",
+     "name": "平壌冷麺(ピョンヤンレンミョン)",
+     "text": "そば粉を使った麺を、きりっと冷やした澄んだスープで食べる料理。寒い土地で冷たい麺を味わう点に驚く人もいますが、平壌を代表する名物として大切にされています。",
+     "wiki_en": "Naengmyeon",
+     "wiki_ja": "冷麺",
+     "link": "https://en.wikipedia.org/wiki/Naengmyeon",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/58/Naengmyeon_%28cold_noodles%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Naengmyeon_(cold_noodles).jpg",
+      "artist": "wjlee4284",
+      "license": "CC BY 2.5",
+      "page": "https://commons.wikimedia.org/wiki/File:Naengmyeon_(cold_noodles).jpg"
+     }
+    },
+    {
+     "key": "モンゴル",
+     "name": "馬乳酒(アイラグ)",
+     "text": "馬の乳をかき混ぜながら発酵させた、酸味のある微発泡の飲み物。乳がお酒になることに驚かれますが、夏の草原では客人をもてなす一杯として、遊牧の暮らしに深く根づいています。",
+     "wiki_en": "Kumis",
+     "wiki_ja": "馬乳酒",
+     "link": "https://en.wikipedia.org/wiki/Kumis",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Kumys-bottle.jpg/960px-Kumys-bottle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Kumys-bottle.jpg",
+      "artist": "A.Savin",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Kumys-bottle.jpg"
+     }
+    },
+    {
+     "key": "ブルネイ",
+     "name": "アンブヤット",
+     "text": "サゴヤシのでんぷんを湯で練った、透明でのびる国民食。竹の箸で巻き取り、かまずに飲み込む食べ方が驚かれます。酸味のあるたれにつけ、家族や仲間と囲んで味わいます。",
+     "wiki_en": "Ambuyat",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Ambuyat",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Ambuyat_in_Bandar_Seri_Begawan_Brunei.jpg/960px-Ambuyat_in_Bandar_Seri_Begawan_Brunei.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Ambuyat_in_Bandar_Seri_Begawan_Brunei.jpg",
+      "artist": "e_chaya",
+      "license": "CC BY 2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Ambuyat_in_Bandar_Seri_Begawan_Brunei.jpg"
+     }
+    },
+    {
+     "key": "カンボジア",
+     "name": "プラホック",
+     "text": "淡水魚を塩漬けにして発酵させたペースト。力強い香りに驚く人が多い一方、スープやディップにうまみを与える調味料として、カンボジアの家庭料理を支える欠かせない存在です。",
+     "wiki_en": "Prahok",
+     "wiki_ja": "プラホック",
+     "link": "https://en.wikipedia.org/wiki/Prahok",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Fried_Prahok_meal.jpg/960px-Fried_Prahok_meal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Fried_Prahok_meal.jpg",
+      "artist": "Paxse",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Fried_Prahok_meal.jpg"
+     }
+    },
+    {
+     "key": "インドネシア",
+     "name": "テンペ",
+     "text": "ゆでた大豆をテンペ菌で発酵させ、白い菌糸で板状に固めた食べ物。見た目に驚かれますが、納豆と違って粘りはなく、揚げ物や炒め物として毎日の食卓に並ぶ、ジャワ島生まれの味です。",
+     "wiki_en": "Tempeh",
+     "wiki_ja": "テンペ",
+     "link": "https://en.wikipedia.org/wiki/Tempeh",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Tempeh_%288681605421%29.jpg/960px-Tempeh_%288681605421%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Tempeh_(8681605421).jpg",
+      "artist": "Veganbaking.net from USA",
+      "license": "CC BY-SA 2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Tempeh_(8681605421).jpg"
+     }
+    },
+    {
+     "key": "ラオス",
+     "name": "パデーク",
+     "text": "淡水魚を塩と米ぬかで長く漬け込んだ発酵調味料。魚の身が残る濃厚な見た目と香りに驚かされますが、青パパイヤのサラダなどに深いうまみを添える、ラオスの味の土台です。",
+     "wiki_en": "Padaek",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Padaek",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Lao_fish_sauce.jpg/960px-Lao_fish_sauce.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Lao_fish_sauce.jpg",
+      "artist": "Mx. Granger",
+      "license": "CC0",
+      "page": "https://commons.wikimedia.org/wiki/File:Lao_fish_sauce.jpg"
+     }
+    },
+    {
+     "key": "マレーシア",
+     "name": "テンポヤック",
+     "text": "果物の王様ドリアンの果肉に塩を加えて発酵させたもの。もともと強い香りに酸味が加わる点が驚きですが、唐辛子と合わせた薬味や魚の煮込みの味つけとして、各地で親しまれています。",
+     "wiki_en": "Tempoyak",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Tempoyak",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/YosriBelacanTempoyakDekat.jpg/960px-YosriBelacanTempoyakDekat.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:YosriBelacanTempoyakDekat.jpg",
+      "artist": "Yosri at ms.wikipedia",
+      "license": "GFDL",
+      "page": "https://commons.wikimedia.org/wiki/File:YosriBelacanTempoyakDekat.jpg"
+     }
+    },
+    {
+     "key": "ミャンマー",
+     "name": "ラペソー(食べるお茶)",
+     "text": "茶葉を蒸して漬け込み、発酵させた食べ物。お茶を飲まずに食べることに驚かれますが、揚げ豆やごまと和えたサラダは、もてなしやお茶うけの定番として広く愛されています。",
+     "wiki_en": "Lahpet",
+     "wiki_ja": "ラペソー",
+     "link": "https://en.wikipedia.org/wiki/Lahpet",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Green_tea_and_peanut_nibbles_%2810808703485%29.jpg/960px-Green_tea_and_peanut_nibbles_%2810808703485%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Green_tea_and_peanut_nibbles_(10808703485).jpg",
+      "artist": "ReflectedSerendipity from United Kingdom",
+      "license": "CC BY-SA 2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Green_tea_and_peanut_nibbles_(10808703485).jpg"
+     }
+    },
+    {
+     "key": "フィリピン",
+     "name": "バロット",
+     "text": "孵化しかけたアヒルの卵をゆでた料理。殻の中にひなの姿があることに驚かれますが、塩や酢をかけてスープごと味わう滋養ある軽食として、夜の街角の屋台で親しまれています。",
+     "wiki_en": "Balut (food)",
+     "wiki_ja": "バロット",
+     "link": "https://en.wikipedia.org/wiki/Balut_(food)",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/The_Balut.jpg/960px-The_Balut.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:The_Balut.jpg",
+      "artist": "JBYBIOSA",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:The_Balut.jpg"
+     }
+    },
+    {
+     "key": "シンガポール",
+     "name": "フィッシュヘッドカレー",
+     "text": "大きな魚の頭を丸ごと煮込んだカレー。皿からこちらを見つめる迫力に驚かれますが、頬や目のまわりの身はとろりとおいしく、南インドと中華の食文化が出会った名物として愛されています。",
+     "wiki_en": "Fish head curry",
+     "wiki_ja": "フィッシュヘッドカレー",
+     "link": "https://en.wikipedia.org/wiki/Fish_head_curry",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Fisheadcurry.JPG/960px-Fisheadcurry.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Fisheadcurry.JPG",
+      "artist": "User Chensiyuan on en.wikipedia",
+      "license": "Copyrighted free use",
+      "page": "https://commons.wikimedia.org/wiki/File:Fisheadcurry.JPG"
+     }
+    },
+    {
+     "key": "タイ",
+     "name": "ネーム",
+     "text": "豚肉と豚の皮、もち米、にんにくを合わせて発酵させた酸味のあるソーセージ。肉を発酵させて酸っぱくする点が驚かれますが、北部や東北部を中心に、おつまみや炒飯の具として人気です。",
+     "wiki_en": "Naem",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Naem"
+    },
+    {
+     "key": "東ティモール",
+     "name": "バタール・ダアン",
+     "text": "とうもろこしと緑豆、かぼちゃを一緒に煮込んだ素朴な料理。米ではなくとうもろこしが主役になる点が新鮮に映りますが、やさしい甘みの家庭の味として日々の食卓で親しまれています。",
+     "wiki_en": "Batar daan",
+     "wiki_ja": ""
+    },
+    {
+     "key": "ベトナム",
+     "name": "マムトム",
+     "text": "小エビを塩漬けにして発酵させた紫がかったペースト。強い香りに驚く人が多い調味料ですが、ライムや砂糖を混ぜて泡立て、揚げ豆腐と米麺の料理につけるたれとして、北部で特に愛されています。",
+     "wiki_en": "Mắm tôm",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Shrimp_paste",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/A_square_of_shrimp_paste_from_Hung_Kee_store.jpg/960px-A_square_of_shrimp_paste_from_Hung_Kee_store.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:A_square_of_shrimp_paste_from_Hung_Kee_store.jpg",
+      "artist": "Peachyeung316",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:A_square_of_shrimp_paste_from_Hung_Kee_store.jpg"
+     }
+    }
+   ]
+  },
+  {
+   "name": "南アジア・中央アジア",
+   "items": [
+    {
+     "key": "アフガニスタン",
+     "name": "クルト(Qurut)",
+     "text": "水切りしたヨーグルトを塩と丸めて天日で干した、石のように硬い乳製品。強い酸味と塩気に驚く人が多いが、保存がきく知恵の味として、そのままかじったり、湯で溶いてソースにして料理にかけたりと日々親しまれている。",
+     "wiki_en": "Qurut",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Kashk",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Jameed.JPG/960px-Jameed.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Jameed.JPG",
+      "artist": "Syrinje",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Jameed.JPG"
+     }
+    },
+    {
+     "key": "バングラデシュ",
+     "name": "パンタバット(Panta bhat)",
+     "text": "炊いたご飯を一晩水に浸し、ほんのり発酵させて食べる水ご飯。酸味のある冷たいご飯に驚かれるが、暑い季節の体にやさしい朝食で、ベンガル暦の新年には魚のフライや唐辛子を添えて祝う定番の一皿でもある。",
+     "wiki_en": "Panta bhat",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Panta_bhat",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Panta_Ilish.jpg/960px-Panta_Ilish.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Panta_Ilish.jpg",
+      "artist": "Tahmid Munaz from Dhaka, Bangladesh",
+      "license": "CC BY-SA 2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Panta_Ilish.jpg"
+     }
+    },
+    {
+     "key": "ブータン",
+     "name": "エマダツィ(Ema datshi)",
+     "text": "唐辛子をチーズで煮込んだ国民食。唐辛子を香辛料ではなく野菜としてたっぷり食べる点が驚かれる。赤米のご飯と相性がよく、家庭でも食堂でも毎日のように食卓にのぼる、ブータンを代表する料理である。",
+     "wiki_en": "Ema datshi",
+     "wiki_ja": "エマダツィ",
+     "link": "https://en.wikipedia.org/wiki/Ema_datshi",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Ema_datshi%28Dry_red_chilli_version%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Ema_datshi(Dry_red_chilli_version).jpg",
+      "artist": "Rigzen Dema",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Ema_datshi(Dry_red_chilli_version).jpg"
+     }
+    },
+    {
+     "key": "インド",
+     "name": "アクニ(Akhuni/Axone)",
+     "text": "北東部ナガランド州で作られる発酵大豆。煮た大豆を葉で包んで発酵させる、まさに納豆の親戚で、力強い香りが特徴。豚肉の煮込みやチャツネに加えると深いうま味が出るため、ナガの人々の台所に欠かせない。",
+     "wiki_en": "Akhuni",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Akhuni",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/de/Akhuni_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Akhuni_2025.jpg",
+      "artist": "Nux-vomica 1007",
+      "license": "CC BY 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Akhuni_2025.jpg"
+     }
+    },
+    {
+     "key": "イラン",
+     "name": "カレパチェ(Kale pache)",
+     "text": "羊の頭と足を一晩かけてじっくり煮込んだスープ料理。頭を丸ごと使う見た目に驚かれるが、とろりとした滋味深さが愛され、早朝に専門店へ出かけてパンと一緒に味わう、力のつく朝ごはんとして親しまれている。",
+     "wiki_en": "Khash (dish)",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Khash_(dish)",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Khash.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Khash.jpg",
+      "artist": "Chaojoker",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Khash.jpg"
+     }
+    },
+    {
+     "key": "モルディブ",
+     "name": "リハークル(Rihaakuru)",
+     "text": "カツオを長時間煮て残った煮汁を、さらに煮詰めて作る濃い茶色のペースト。凝縮された魚の香りと塩気が強烈だが、うま味のかたまりで、ご飯や薄焼きパンのロシに添えて食べる、島の暮らしに根づいた保存食である。",
+     "wiki_en": "Rihaakuru",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Rihaakuru",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Rihaakuru.JPEG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Rihaakuru.JPEG",
+      "artist": "Mohamed Ishan",
+      "license": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:Rihaakuru.JPEG"
+     }
+    },
+    {
+     "key": "ネパール",
+     "name": "キネマ(Kinema)",
+     "text": "東部の山あいでリンブーなどの人々が作る発酵大豆。糸を引き、香りも納豆によく似ていることで知られる。乾燥させて保存し、トマトや唐辛子と煮てカレー風のおかずにし、ご飯と一緒に食べるのが一般的である。",
+     "wiki_en": "Kinema",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Kinema",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Original_Kinema-nepal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Original_Kinema-nepal.jpg",
+      "artist": "Kaajakocks",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Original_Kinema-nepal.jpg"
+     }
+    },
+    {
+     "key": "パキスタン",
+     "name": "マガズ(Maghaz)",
+     "text": "羊や山羊、牛の脳を香辛料と炒め煮にしたカレー。食材に驚く人も多いが、白子のようにふんわりクリーミーな口当たりが魅力。ラホールなどの食堂で人気があり、焼きたてのナンと合わせるごちそうとして愛されている。",
+     "wiki_en": "Maghaz",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Maghaz",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Magaj.jpg/960px-Magaj.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Magaj.jpg",
+      "artist": "Joyson Fernandes",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Magaj.jpg"
+     }
+    },
+    {
+     "key": "スリランカ",
+     "name": "ミーキリ(水牛のカード)",
+     "text": "水牛の乳を素焼きの壺で固めた濃厚なヨーグルト。壺ごと店先に並ぶ姿が旅行者を驚かせる。クジャクヤシの花蜜を煮詰めた蜜キトゥル・パニをかけて食べるのが定番で、食後の甘味として広く親しまれている。",
+     "wiki_en": "Buffalo curd",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Dahi_(curd)",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Curd_in_a_traditional_Manipuri_earthen_pot.JPG/960px-Curd_in_a_traditional_Manipuri_earthen_pot.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Curd_in_a_traditional_Manipuri_earthen_pot.JPG",
+      "artist": "Goumisao",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Curd_in_a_traditional_Manipuri_earthen_pot.JPG"
+     }
+    },
+    {
+     "key": "カザフスタン",
+     "name": "クミス(馬乳酒)",
+     "text": "馬の乳を発酵させた、微発泡でわずかにアルコールを含む飲み物。酸味と独特の香りに初めての人は驚くが、遊牧の暮らしが育んだ夏の恵みであり、客人をもてなす一杯として今も大切に受け継がれている。",
+     "wiki_en": "Kumis",
+     "wiki_ja": "馬乳酒",
+     "link": "https://en.wikipedia.org/wiki/Kumis",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Kumys-bottle.jpg/960px-Kumys-bottle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Kumys-bottle.jpg",
+      "artist": "A.Savin",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Kumys-bottle.jpg"
+     }
+    },
+    {
+     "key": "キルギス",
+     "name": "ベシュバルマク(Beshbarmak)",
+     "text": "ゆでた羊肉や馬肉を刻み、平たい麺と合わせて肉のスープとともに味わう料理。名前は「五本の指」を意味し、もともと手で食べることに由来する。祝いの席や客人を迎える場に欠かせない、もてなしの象徴である。",
+     "wiki_en": "Beshbarmak",
+     "wiki_ja": "ベシュバルマク",
+     "link": "https://en.wikipedia.org/wiki/Beshbarmak",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/%D0%91%D0%B5%D1%88%D0%B1%D0%B0%D1%80%D0%BC%D0%B0%D0%BA_%D0%B8%D0%B7_%D0%B3%D0%BE%D0%B2%D1%8F%D0%B4%D0%B8%D0%BD%D1%8B_01.jpg/960px-%D0%91%D0%B5%D1%88%D0%B1%D0%B0%D1%80%D0%BC%D0%B0%D0%BA_%D0%B8%D0%B7_%D0%B3%D0%BE%D0%B2%D1%8F%D0%B4%D0%B8%D0%BD%D1%8B_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Бешбармак_из_говядины_01.jpg",
+      "artist": "Pannet",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:%D0%91%D0%B5%D1%88%D0%B1%D0%B0%D1%80%D0%BC%D0%B0%D0%BA_%D0%B8%D0%B7_%D0%B3%D0%BE%D0%B2%D1%8F%D0%B4%D0%B8%D0%BD%D1%8B_01.jpg"
+     }
+    },
+    {
+     "key": "タジキスタン",
+     "name": "クルトッブ(Qurutob)",
+     "text": "干したヨーグルト玉クルトを水で溶いた塩気のあるソースに、ちぎった薄焼きパンを浸し、炒め玉ねぎや野菜をのせた料理。大皿を皆で囲み、手で食べる流儀が驚かれる。国民食のひとつとして広く愛されている。",
+     "wiki_en": "Qurutob",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Qurutob",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Tajik_qurutob_with_meat.png/960px-Tajik_qurutob_with_meat.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Tajik_qurutob_with_meat.png",
+      "artist": "Zosya95",
+      "license": "CC0",
+      "page": "https://commons.wikimedia.org/wiki/File:Tajik_qurutob_with_meat.png"
+     }
+    },
+    {
+     "key": "トルクメニスタン",
+     "name": "チャル(Chal)",
+     "text": "ラクダの乳を発酵させた、白く泡立つ酸味のある飲み物。ラクダの乳というだけで驚かれるが、砂漠の暑さの中で喉をうるおす爽やかな一杯として、古くから人々の暮らしを支えてきた伝統の発酵飲料である。",
+     "wiki_en": "Chal",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Chal",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Shubat_vs_Kumis.jpg/960px-Shubat_vs_Kumis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Shubat_vs_Kumis.jpg",
+      "artist": "Upyernoz on Flickr",
+      "license": "CC BY 2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Shubat_vs_Kumis.jpg"
+     }
+    },
+    {
+     "key": "ウズベキスタン",
+     "name": "スマラク(Sumalak)",
+     "text": "発芽させた小麦を大鍋で一晩中かき混ぜながら煮詰めた、茶色く甘いペースト。砂糖を使わないのに甘いことが驚かれる。春の新年ナウルーズに人々が集い、歌いながら交代で鍋を混ぜて作る、祝いの味である。",
+     "wiki_en": "Samanu",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Samanu",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Samanu_for_7_sin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Samanu_for_7_sin.jpg",
+      "artist": "Myone63",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Samanu_for_7_sin.jpg"
+     }
+    }
+   ]
+  },
+  {
+   "name": "中東・コーカサス",
+   "items": [
+    {
+     "key": "アルメニア",
+     "name": "ハシュ(Khash)",
+     "text": "牛の足などを一晩かけて煮込んだ白濁スープ。味付けは食卓で塩とにんにくを加えるだけという素朴さに驚かされます。冬の早朝に仲間で集まり、乾燥させたラヴァシュを砕き入れて味わう行事食です。",
+     "wiki_en": "Khash (dish)",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Khash_(dish)",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Khash.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Khash.jpg",
+      "artist": "Chaojoker",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Khash.jpg"
+     }
+    },
+    {
+     "key": "アゼルバイジャン",
+     "name": "ドヴガ(Dovğa)",
+     "text": "ヨーグルトに米とたっぷりの香草を入れて煮たスープ。乳製品を温めて飲む発想と爽やかな酸味が初めての人には新鮮です。夏は冷やして、冬は温かく、祝いの席でも料理の合間に出されます。",
+     "wiki_en": "Dovga",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Dovga",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Dovga_e-citizen.JPG/960px-Dovga_e-citizen.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Dovga_e-citizen.JPG",
+      "artist": "Moonsun1981",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Dovga_e-citizen.JPG"
+     }
+    },
+    {
+     "key": "バーレーン",
+     "name": "マヒヤーワ(Mahyawa)",
+     "text": "小魚を塩と香辛料で発酵させて作る赤褐色の魚醤ソース。発酵由来の強い香りが印象的ですが、薄焼きパンに塗ると旨みが広がります。朝食の味として湾岸地域で長く愛されています。",
+     "wiki_en": "Mahyawa",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Mahyawa",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Mahyawa_2.jpg/960px-Mahyawa_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Mahyawa_2.jpg",
+      "artist": "作者不明",
+      "license": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:Mahyawa_2.jpg"
+     }
+    },
+    {
+     "key": "キプロス",
+     "name": "ハルーミ(Halloumi)",
+     "text": "羊や山羊の乳から作る、焼いても溶けないチーズ。噛むとキュッキュッと音が鳴る独特の歯ごたえに驚く人が多いです。網焼きにしたり、夏はスイカと合わせたりして日常的に食べられています。",
+     "wiki_en": "Halloumi",
+     "wiki_ja": "ハルーミ",
+     "link": "https://en.wikipedia.org/wiki/Halloumi",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/57/Halloumislice_zoom.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Halloumislice_zoom.jpg",
+      "artist": "Halloumislicefresh.jpg: J.P.Lon derivative work: Zlerman (ta",
+      "license": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:Halloumislice_zoom.jpg"
+     }
+    },
+    {
+     "key": "ジョージア",
+     "name": "チュルチヘラ(Churchkhela)",
+     "text": "糸に通したクルミを、煮詰めたぶどう果汁に何度も浸して干した伝統菓子。ろうそくやソーセージのような見た目に驚かされます。秋のぶどう収穫期に作られ、保存のきく栄養食として親しまれています。",
+     "wiki_en": "Churchkhela",
+     "wiki_ja": "チュルチヘラ",
+     "link": "https://en.wikipedia.org/wiki/Churchkhela",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Kakheti%2C_Georgia_%E2%80%94_Churchkhela.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Kakheti,_Georgia_—_Churchkhela.jpg",
+      "artist": "Levan Gokadze (uploaded by Giorgi Balakhadze)",
+      "license": "CC BY-SA 2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Kakheti,_Georgia_%E2%80%94_Churchkhela.jpg"
+     }
+    },
+    {
+     "key": "イラク",
+     "name": "マスグーフ(Masgouf)",
+     "text": "背開きにした大きな鯉を、焚き火のまわりに立てかけてじっくり炙る料理。魚を立てて焼く光景と焼き上がりまでの長い時間が印象的です。チグリス川沿いの名物で、国民的な料理として誇られています。",
+     "wiki_en": "Masgouf",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Masgouf",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Masgouf.jpg/960px-Masgouf.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Masgouf.jpg",
+      "artist": "Hill93",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Masgouf.jpg"
+     }
+    },
+    {
+     "key": "イスラエル",
+     "name": "ゲフィルテ・フィッシュ(Gefilte fish)",
+     "text": "鯉などの川魚をすり身にして茹で、冷やして食べる東欧系ユダヤの伝統料理。ほんのり甘い味付けや煮こごりに好みが分かれます。安息日や過越祭の食卓に、西洋わさびを添えて並ぶ定番です。",
+     "wiki_en": "Gefilte fish",
+     "wiki_ja": "ゲフィルテ・フィッシュ",
+     "link": "https://en.wikipedia.org/wiki/Gefilte_fish",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Gefilte_fish_topped_with_slices_of_carrot.jpg/960px-Gefilte_fish_topped_with_slices_of_carrot.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Gefilte_fish_topped_with_slices_of_carrot.jpg",
+      "artist": "Mushki Brichta",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Gefilte_fish_topped_with_slices_of_carrot.jpg"
+     }
+    },
+    {
+     "key": "ヨルダン",
+     "name": "マンサフ(Mansaf)",
+     "text": "乾燥させた発酵ヨーグルト「ジャミード」のソースで羊肉を煮込み、米にかけた料理。独特の酸味と濃い香りが驚かれます。大皿を囲んで右手で食べる、もてなしと祝いを象徴する国民食です。",
+     "wiki_en": "Mansaf",
+     "wiki_ja": "マンサフ",
+     "link": "https://en.wikipedia.org/wiki/Mansaf",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/86/Mansaf%2C_the_traditional_dish_of_Jordan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Mansaf,_the_traditional_dish_of_Jordan.jpg",
+      "artist": "Jktab",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Mansaf,_the_traditional_dish_of_Jordan.jpg"
+     }
+    },
+    {
+     "key": "クウェート",
+     "name": "ゲルス・オゲイリ(Gers ogaily)",
+     "text": "サフランとカルダモン、ローズウォーターをたっぷり使い、ごまをまぶして焼く伝統のケーキ。花と香辛料の華やかな香りは初めての人に新鮮です。お茶の時間の定番として親しまれています。",
+     "wiki_en": "Gers ogaily",
+     "wiki_ja": ""
+    },
+    {
+     "key": "レバノン",
+     "name": "クッベ・ナイエ(Kibbeh nayyeh)",
+     "text": "新鮮な生の羊肉や牛肉を、挽き割り小麦と香辛料とともに練り上げた料理。肉を生で食べることに驚く人も多いです。オリーブ油をかけ、ミントや玉ねぎを添えて前菜として大切に味わわれます。",
+     "wiki_en": "Kibbeh nayyeh",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Kibbeh_nayyeh",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/17/Kibbeh_Nayyeh.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Kibbeh_Nayyeh.jpg",
+      "artist": "122589423KM at English Wikipedia",
+      "license": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:Kibbeh_Nayyeh.jpg"
+     }
+    },
+    {
+     "key": "オマーン",
+     "name": "シュワ(Shuwa)",
+     "text": "香辛料をすり込んだ羊や山羊の肉を葉で包み、地面に掘った穴の炭火で1〜2日かけて蒸し焼きにする料理。土の中で調理する方法と時間のかけ方が驚きです。イードの祝祭に村ぐるみで作られます。",
+     "wiki_en": "Shuwa",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Shuwa"
+    },
+    {
+     "key": "カタール",
+     "name": "バラリート(Balaleet)",
+     "text": "砂糖とカルダモン、サフランで甘く味付けした細い麺に、塩味の卵焼きをのせた一皿。甘い麺と卵の組み合わせが意外に感じられます。湾岸地域の朝食や祝日の朝の定番として親しまれています。",
+     "wiki_en": "Balaleet",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Balaleet",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Homemade_Balaleet%2C_2023.jpg/960px-Homemade_Balaleet%2C_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Homemade_Balaleet,_2023.jpg",
+      "artist": "Mohamed Toorani",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Homemade_Balaleet,_2023.jpg"
+     }
+    },
+    {
+     "key": "サウジアラビア",
+     "name": "カブサ(Kabsa)",
+     "text": "香辛料や干しライムと一緒に炊いた長粒米に、大きな肉を豪快にのせた炊き込みご飯。大皿を皆で囲み、手で食べる作法が印象的です。家庭でも宴席でも欠かせない、もてなしの中心となる料理です。",
+     "wiki_en": "Kabsa",
+     "wiki_ja": "カブサ",
+     "link": "https://en.wikipedia.org/wiki/Kabsa",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Machboos_%28cropped%29.JPG/960px-Machboos_%28cropped%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Machboos_(cropped).JPG",
+      "artist": "Miansari66",
+      "license": "CC0",
+      "page": "https://commons.wikimedia.org/wiki/File:Machboos_(cropped).JPG"
+     }
+    },
+    {
+     "key": "シリア",
+     "name": "シャンクリーシュ(Shanklish)",
+     "text": "チーズを丸めて乾燥・熟成させ、ザアタルや唐辛子をまぶした保存食。熟成が進むと香りも味も力強くなり、驚かれます。崩してトマトや玉ねぎ、オリーブ油と和え、前菜として楽しまれています。",
+     "wiki_en": "Shanklish",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Shanklish",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Shanklish.jpg/960px-Shanklish.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Shanklish.jpg",
+      "artist": "Charles Haynes from Sydney, Australia",
+      "license": "CC BY-SA 2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Shanklish.jpg"
+     }
+    },
+    {
+     "key": "トルコ",
+     "name": "タヴク・ギョウス(Tavuk göğsü)",
+     "text": "細かく裂いた鶏むね肉を牛乳と砂糖で煮固めたミルクプリン。デザートに鶏肉が入っていることに驚かされますが、肉の味はほとんどせず、もっちりした食感です。宮廷料理に由来する伝統の甘味です。",
+     "wiki_en": "Tavuk göğsü",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Tavukg%C3%B6%C4%9Fs%C3%BC",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Tavuk_G%C3%B6%C4%9Fs%C3%BC_Dessert.jpg/960px-Tavuk_G%C3%B6%C4%9Fs%C3%BC_Dessert.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Tavuk_Göğsü_Dessert.jpg",
+      "artist": "Garrett Ziegler",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Tavuk_G%C3%B6%C4%9Fs%C3%BC_Dessert.jpg"
+     }
+    },
+    {
+     "key": "アラブ首長国連邦",
+     "name": "ハリース(Harees)",
+     "text": "小麦と肉を長時間煮込み、形がなくなるまで搗いてお粥状にした料理。肉の姿が消えたなめらかな見た目と素朴な味わいが意外です。ラマダンや婚礼など特別な日に、ギーをかけて振る舞われます。",
+     "wiki_en": "Harees",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Harees",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Armenian_Harisa.JPG/960px-Armenian_Harisa.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Armenian_Harisa.JPG",
+      "artist": "Ketone16",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Armenian_Harisa.JPG"
+     }
+    },
+    {
+     "key": "イエメン",
+     "name": "サルタ(Saltah)",
+     "text": "肉のシチューに、フェヌグリークを泡立てた「ホルバ」をのせ、熱した石鍋で煮立たせたまま出す料理。ほろ苦い泡ととろみが独特です。昼食の定番で、平たいパンですくって皆で分け合います。",
+     "wiki_en": "Saltah",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Saltah",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Saltah.jpg/960px-Saltah.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Saltah.jpg",
+      "artist": "Rania al-Bahara",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Saltah.jpg"
+     }
+    },
+    {
+     "key": "パレスチナ",
+     "name": "マクルーバ(Maqluba)",
+     "text": "肉と揚げ野菜、米を鍋に重ねて炊き、食卓で鍋ごとひっくり返して盛る料理。名前は「逆さま」の意味で、ケーキのように現れる姿が見せ場です。家族や客人が集まる日のごちそうとして親しまれています。",
+     "wiki_en": "Maqluba",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Maqluba",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Makluba.JPG/960px-Makluba.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Makluba.JPG",
+      "artist": "Arafataslan",
+      "license": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:Makluba.JPG"
+     }
+    }
+   ]
+  },
+  {
+   "name": "ヨーロッパ",
+   "items": [
+    {
+     "key": "ベラルーシ",
+     "name": "白樺の樹液ジュース(ビャロザヴィ・ソーク)",
+     "text": "早春に白樺の幹から集めた樹液を、そのまま飲み物にしたもの。木の汁を飲むことに驚く人もいますが、ほんのり甘くすっきりした味で、春の訪れを告げる飲み物として瓶詰めでも売られ親しまれています。",
+     "wiki_en": "Birch sap",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Birch_sap",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Collecting_of_birch_sap.jpg/960px-Collecting_of_birch_sap.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Collecting_of_birch_sap.jpg",
+      "artist": "R adept",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Collecting_of_birch_sap.jpg"
+     }
+    },
+    {
+     "key": "ブルガリア",
+     "name": "タラトール(таратор)",
+     "text": "ヨーグルトを水でのばし、きゅうり、にんにく、ディル、くるみを加えた冷たいスープ。ヨーグルトを塩味のスープにする発想に驚かれますが、暑い夏の食卓に欠かせない爽やかな定番料理です。",
+     "wiki_en": "Tarator",
+     "wiki_ja": "タラトール",
+     "link": "https://en.wikipedia.org/wiki/Tzatziki",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Cacik-1.jpg/960px-Cacik-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Cacik-1.jpg",
+      "artist": "Rainer Zenz",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Cacik-1.jpg"
+     }
+    },
+    {
+     "key": "チェコ",
+     "name": "オロモウツのチーズ(オロモウツケー・トヴァルーシュキ)",
+     "text": "モラヴィア地方オロモウツ周辺で作られる、脂肪分の少ない熟成チーズ。黄金色の小さな円盤形で、非常に強い香りが驚かれます。パンにのせたり揚げたりして、ビールのお供として愛されています。",
+     "wiki_en": "Olomouc cheese",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Olomouck%C3%A9_tvar%C5%AF%C5%BEky",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Olomouck%C3%A9_tvar%C5%AF%C5%BEky_%283%29.jpg/960px-Olomouck%C3%A9_tvar%C5%AF%C5%BEky_%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Olomoucké_tvarůžky_(3).jpg",
+      "artist": "Chmee2",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Olomouck%C3%A9_tvar%C5%AF%C5%BEky_(3).jpg"
+     }
+    },
+    {
+     "key": "ハンガリー",
+     "name": "トゥーロー・ルディ(Túró Rudi)",
+     "text": "カッテージチーズに似た凝乳「トゥーロー」の棒をチョコレートで包んだお菓子。酸味のあるチーズとチョコの組み合わせが意外ですが、赤い水玉模様の包みでおなじみの国民的おやつです。",
+     "wiki_en": "Túró Rudi",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/T%C3%BAr%C3%B3_Rudi",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Rudi_akt.jpg/960px-Rudi_akt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Rudi_akt.jpg",
+      "artist": "aurin",
+      "license": "CC BY-SA 2.5",
+      "page": "https://commons.wikimedia.org/wiki/File:Rudi_akt.jpg"
+     }
+    },
+    {
+     "key": "ポーランド",
+     "name": "チェルニナ(czernina)",
+     "text": "アヒルなどの血と澄んだスープを合わせ、酢と砂糖、干し果物で甘酸っぱく仕上げた伝統のスープ。血を使う点と甘酸っぱい味が驚かれますが、麺や団子を添えて食べる昔ながらの郷土の味です。",
+     "wiki_en": "Czernina",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Czernina",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Czernina.zupa.jpg/960px-Czernina.zupa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Czernina.zupa.jpg",
+      "artist": "No machine-readable author provided. Julo assumed (based on ",
+      "license": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:Czernina.zupa.jpg"
+     }
+    },
+    {
+     "key": "モルドバ",
+     "name": "ママリガ(mămăligă)",
+     "text": "とうもろこしの粉を練り上げた黄色い主食。固めに炊いたものを糸で切り分けるのが昔ながらの流儀で、初めて見る人を驚かせます。チーズやサワークリームを添えて、パン代わりに親しまれています。",
+     "wiki_en": "Mămăligă",
+     "wiki_ja": "ママリガ",
+     "link": "https://en.wikipedia.org/wiki/M%C4%83m%C4%83lig%C4%83",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Mamaliga.jpg/960px-Mamaliga.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Mamaliga.jpg",
+      "artist": "作者不明",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Mamaliga.jpg"
+     }
+    },
+    {
+     "key": "ルーマニア",
+     "name": "チョルバ・デ・ブルタ(ciorbă de burtă)",
+     "text": "牛の胃袋(ハチノス)を煮込み、サワークリームと卵黄、にんにく、酢で仕上げた白く酸っぱいスープ。内臓と酸味の組み合わせに驚く人もいますが、食堂の定番として広く愛されています。",
+     "wiki_en": "Ciorbă de burtă",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Tripe_soup",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Tripe_soup_from_Turkey.jpg/960px-Tripe_soup_from_Turkey.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Tripe_soup_from_Turkey.jpg",
+      "artist": "E4024",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Tripe_soup_from_Turkey.jpg"
+     }
+    },
+    {
+     "key": "ロシア",
+     "name": "オクローシカ(окрошка)",
+     "text": "刻んだ野菜、ゆで卵、肉などに、ライ麦パンから作る発酵飲料クワスを注いだ冷たいスープ。微炭酸の飲み物をスープにする点が驚かれますが、夏の家庭料理として長く親しまれています。",
+     "wiki_en": "Okroshka",
+     "wiki_ja": "オクローシカ",
+     "link": "https://en.wikipedia.org/wiki/Okroshka",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/%D0%93%D0%BE%D1%82%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BE%D0%BA%D1%80%D0%BE%D1%88%D0%BA%D0%B0.jpg/960px-%D0%93%D0%BE%D1%82%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BE%D0%BA%D1%80%D0%BE%D1%88%D0%BA%D0%B0.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Готовая_окрошка.jpg",
+      "artist": "Pannet",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:%D0%93%D0%BE%D1%82%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BE%D0%BA%D1%80%D0%BE%D1%88%D0%BA%D0%B0.jpg"
+     }
+    },
+    {
+     "key": "スロバキア",
+     "name": "ブリンゾヴェー・ハルシュキ(bryndzové halušky)",
+     "text": "じゃがいも生地の小さな団子に、羊乳のチーズ「ブリンザ」をからめ、カリカリのベーコンをのせた料理。羊乳チーズ特有の強い風味が印象的で、国民食として誇りをもって親しまれています。",
+     "wiki_en": "Bryndzové halušky",
+     "wiki_ja": "ブリンゾヴェー・ハルシュキ",
+     "link": "https://en.wikipedia.org/wiki/Bryndzov%C3%A9_halu%C5%A1ky",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Bryndzov%C3%A9_halu%C5%A1ky_so_slaninou.jpg/960px-Bryndzov%C3%A9_halu%C5%A1ky_so_slaninou.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Bryndzové_halušky_so_slaninou.jpg",
+      "artist": "Gregory finster",
+      "license": "CC0",
+      "page": "https://commons.wikimedia.org/wiki/File:Bryndzov%C3%A9_halu%C5%A1ky_so_slaninou.jpg"
+     }
+    },
+    {
+     "key": "ウクライナ",
+     "name": "サーロ(сало)",
+     "text": "豚の背脂を塩漬けにした保存食。赤身のほとんどない白い脂を薄く切り、そのまま食べることに驚かれます。黒パンやにんにくと一緒に味わうのが定番で、食文化の象徴として大切にされています。",
+     "wiki_en": "Salo (food)",
+     "wiki_ja": "サーロ",
+     "link": "https://en.wikipedia.org/wiki/Salo_(food)",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Sa%C5%82o.JPG/960px-Sa%C5%82o.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Sało.JPG",
+      "artist": "Beiot",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Sa%C5%82o.JPG"
+     }
+    },
+    {
+     "key": "デンマーク",
+     "name": "ウレブロズ(øllebrød)",
+     "text": "ライ麦パンをビールで煮て作るお粥。残ったパンを無駄にしない知恵から生まれ、パンとビールがお粥になる点が驚かれます。砂糖で甘くし、牛乳やクリームをかけて朝食やデザートに食べられます。",
+     "wiki_en": "Øllebrød",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/%C3%98llebr%C3%B8d",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/%C3%98llebr%C3%B8d.jpg/960px-%C3%98llebr%C3%B8d.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Øllebrød.jpg",
+      "artist": "RhinoMind",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:%C3%98llebr%C3%B8d.jpg"
+     }
+    },
+    {
+     "key": "エストニア",
+     "name": "カマ(kama)",
+     "text": "大麦、ライ麦、えん麦、えんどう豆を炒って挽いた香ばしい粉。火を通さず、ケフィアやバターミルクなどの発酵乳に混ぜてそのまま飲む食べ方が独特で、手軽な軽食やデザートとして親しまれています。",
+     "wiki_en": "Kama (food)",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Kama_(food)",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Kama.jpg/960px-Kama.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Kama.jpg",
+      "artist": "Mmh",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Kama.jpg"
+     }
+    },
+    {
+     "key": "フィンランド",
+     "name": "マンミ(mämmi)",
+     "text": "ライ麦粉とライ麦麦芽を練ってじっくり焼いた、復活祭のデザート。黒くねっとりした見た目が驚かれますが、自然な甘みと香ばしさがあり、クリームや牛乳と砂糖をかけて春に楽しまれます。",
+     "wiki_en": "Mämmi",
+     "wiki_ja": "マンミ",
+     "link": "https://en.wikipedia.org/wiki/M%C3%A4mmi",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/M%C3%A4mmi_Kymppi.jpg/960px-M%C3%A4mmi_Kymppi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Mämmi_Kymppi.jpg",
+      "artist": "Martin Terber from Cologne, Germany",
+      "license": "CC BY 2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:M%C3%A4mmi_Kymppi.jpg"
+     }
+    },
+    {
+     "key": "アイスランド",
+     "name": "ハウカットル(hákarl)",
+     "text": "ニシオンデンザメの肉を発酵させ、数か月吊るして乾燥させた保存食。強いアンモニア臭で知られ、初めての人を驚かせます。冬の伝統行事ソーラブロートで、小さな角切りにして味わわれます。",
+     "wiki_en": "Hákarl",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/H%C3%A1karl",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Hakarl_near_Bjarnah%C3%B6fn_in_Iceland.JPG/960px-Hakarl_near_Bjarnah%C3%B6fn_in_Iceland.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Hakarl_near_Bjarnahöfn_in_Iceland.JPG",
+      "artist": "Chris 73",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Hakarl_near_Bjarnah%C3%B6fn_in_Iceland.JPG"
+     }
+    },
+    {
+     "key": "アイルランド",
+     "name": "ドリシーン(drisheen)",
+     "text": "コーク地方に伝わる血のソーセージ。血と牛乳などを合わせて蒸し固めたもので、ぷるんとした柔らかい食感が驚かれます。コークの市場の名物で、牛の胃袋の煮込みと一緒に食べる伝統があります。",
+     "wiki_en": "Drisheen",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Drisheen",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Drisheen.jpg/960px-Drisheen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Drisheen.jpg",
+      "artist": "Alison Cassidy",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Drisheen.jpg"
+     }
+    },
+    {
+     "key": "ラトビア",
+     "name": "マイゼス・ズパ(maizes zupa)",
+     "text": "黒いライ麦パンを煮て裏ごしし、砂糖や干し果物、香辛料を加えた甘い「パンのスープ」。パンがデザートのスープになる点が驚かれますが、泡立てたクリームを添えて食べる伝統の甘味です。",
+     "wiki_en": "Maizes zupa",
+     "wiki_ja": ""
+    },
+    {
+     "key": "リトアニア",
+     "name": "ツェペリナイ(cepelinai)",
+     "text": "すりおろしたじゃがいもの生地でひき肉などを包んでゆでた大きな団子。飛行船ツェッペリンに似た形が名前の由来で、もっちりした独特の食感が驚かれます。サワークリームやベーコンのソースで食べる国民食です。",
+     "wiki_en": "Cepelinai",
+     "wiki_ja": "ツェペリナイ",
+     "link": "https://en.wikipedia.org/wiki/Cepelinai",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Cepelinai_2%2C_Vilnius%2C_Lithuania_-_Diliff.jpg/960px-Cepelinai_2%2C_Vilnius%2C_Lithuania_-_Diliff.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Cepelinai_2,_Vilnius,_Lithuania_-_Diliff.jpg",
+      "artist": "Diliff",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Cepelinai_2,_Vilnius,_Lithuania_-_Diliff.jpg"
+     }
+    },
+    {
+     "key": "ノルウェー",
+     "name": "スマーラホーヴェ(smalahove)",
+     "text": "羊の頭を塩漬けにし、燻製や乾燥を経てゆで上げた西ノルウェーの伝統料理。頭がそのまま皿にのる姿に驚かれますが、じゃがいもやカブのマッシュを添え、クリスマス前のごちそうとして受け継がれています。",
+     "wiki_en": "Smalahove",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Smalahove",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Smalahove01.JPG/960px-Smalahove01.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Smalahove01.JPG",
+      "artist": "PerPlex",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Smalahove01.JPG"
+     }
+    },
+    {
+     "key": "スウェーデン",
+     "name": "シュールストレミング(surströmming)",
+     "text": "バルト海のニシンを薄い塩水で発酵させた缶詰。缶の中でも発酵が進み、とても強い香りで世界的に知られています。夏の終わりに屋外で開け、薄焼きパンにじゃがいもや玉ねぎと一緒にのせて楽しみます。",
+     "wiki_en": "Surströmming",
+     "wiki_ja": "シュールストレミング",
+     "link": "https://en.wikipedia.org/wiki/Surstr%C3%B6mming",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Surstr%C3%B6mming.jpg/960px-Surstr%C3%B6mming.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Surströmming.jpg",
+      "artist": "Lapplaender",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Surstr%C3%B6mming.jpg"
+     }
+    },
+    {
+     "key": "イギリス",
+     "name": "マーマイト(Marmite)",
+     "text": "ビール醸造で出る酵母のエキスから作る、黒くねっとりしたペースト。濃い塩気と独特の風味で「大好きか大嫌いか」と言われるほど好みが分かれますが、バターを塗ったトーストに薄くのばす朝食の定番です。",
+     "wiki_en": "Marmite",
+     "wiki_ja": "マーマイト",
+     "link": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%BC%E3%83%9E%E3%82%A4%E3%83%88",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Marmite.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Marmite.jpg",
+      "artist": "作者不明",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Marmite.jpg"
+     }
+    },
+    {
+     "key": "アルバニア",
+     "name": "タヴァ・コシ(tavë kosi)",
+     "text": "羊肉と米に、ヨーグルトと卵を混ぜたソースをかけてオーブンで焼いた料理。ヨーグルトを肉と一緒に焼き上げる発想が驚かれますが、ふんわりした口当たりで、国を代表する味として親しまれています。",
+     "wiki_en": "Tavë kosi",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Tav%C3%AB_kosi",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Tav%C3%AB_kosi.jpg/960px-Tav%C3%AB_kosi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Tavë_kosi.jpg",
+      "artist": "MirelaAndoni",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Tav%C3%AB_kosi.jpg"
+     }
+    },
+    {
+     "key": "アンドラ",
+     "name": "トリンチャット(trinxat)",
+     "text": "ゆでたじゃがいもとキャベツをつぶして混ぜ、フライパンで平たく焼き固めて、豚の塩漬け肉をのせたピレネー山地の料理。素朴な材料だけで作る厚い「お焼き」のような姿が印象的な、冬の山の味です。",
+     "wiki_en": "Trinxat",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Trinxat",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Trinxat_1.jpg/960px-Trinxat_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Trinxat_1.jpg",
+      "artist": "daniel.julia",
+      "license": "CC BY-SA 2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Trinxat_1.jpg"
+     }
+    },
+    {
+     "key": "ボスニア・ヘルツェゴビナ",
+     "name": "トゥファヒヤ(tufahija)",
+     "text": "りんごを丸ごとシロップで煮て、芯をくり抜いたところにくるみを詰め、クリームをのせたデザート。りんご1個がそのまま器になる姿が目を引き、コーヒーと一緒に楽しむ甘味として愛されています。",
+     "wiki_en": "Tufahija",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Tufahije",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Tufahiija_in_Mori%C4%87a_Han_2.JPG/960px-Tufahiija_in_Mori%C4%87a_Han_2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Tufahiija_in_Morića_Han_2.JPG",
+      "artist": "Antidiskriminator",
+      "license": "CC0",
+      "page": "https://commons.wikimedia.org/wiki/File:Tufahiija_in_Mori%C4%87a_Han_2.JPG"
+     }
+    },
+    {
+     "key": "クロアチア",
+     "name": "ソパルニク(soparnik)",
+     "text": "フダンソウという青菜を薄い生地ではさみ、炉の熱い灰と炭をかぶせて焼くダルマチア地方の大きな薄焼きパイ。灰の中から現れる焼き上がりが驚かれ、仕上げににんにくとオリーブ油を塗って切り分けます。",
+     "wiki_en": "Soparnik",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Soparnik",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Soparnik.jpg/960px-Soparnik.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Soparnik.jpg",
+      "artist": "Popo le Chien",
+      "license": "CC0",
+      "page": "https://commons.wikimedia.org/wiki/File:Soparnik.jpg"
+     }
+    },
+    {
+     "key": "ギリシャ",
+     "name": "ココレツィ(kokoretsi)",
+     "text": "子羊や子山羊の内臓を串に刺し、腸をぐるぐる巻きつけて炭火でじっくり焼いた料理。内臓を腸で巻く見た目が驚かれますが、香ばしく、復活祭のごちそうとして家族で囲まれています。",
+     "wiki_en": "Kokoretsi",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Kokoretsi",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Kokore%C3%A7.JPG/960px-Kokore%C3%A7.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Kokoreç.JPG",
+      "artist": "Ankara",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Kokore%C3%A7.JPG"
+     }
+    },
+    {
+     "key": "イタリア",
+     "name": "カース・マルツ(Casu martzu)",
+     "text": "サルデーニャ島に伝わる羊乳チーズ。チーズバエの幼虫の力で発酵を進め、とろりと柔らかく仕上げる点が驚かれます。現在は販売が規制されていますが、島の牧畜文化を象徴する伝統の味として語り継がれています。",
+     "wiki_en": "Casu martzu",
+     "wiki_ja": "カース・マルツ",
+     "link": "https://en.wikipedia.org/wiki/Casu_martzu",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Casu_Marzu_cheese.jpg/960px-Casu_Marzu_cheese.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Casu_Marzu_cheese.jpg",
+      "artist": "Shardan",
+      "license": "CC BY-SA 2.5",
+      "page": "https://commons.wikimedia.org/wiki/File:Casu_Marzu_cheese.jpg"
+     }
+    },
+    {
+     "key": "マルタ",
+     "name": "ウサギの煮込み(Stuffat tal-fenek)",
+     "text": "ウサギ肉を赤ワインやトマト、にんにくでじっくり煮込んだマルタの国民食。ウサギを食べ慣れない人には意外ですが、家族や仲間で囲む「フェンカータ」という宴の主役として愛されています。",
+     "wiki_en": "Stuffat tal-fenek",
+     "wiki_ja": ""
+    },
+    {
+     "key": "モンテネグロ",
+     "name": "ニェグシの生ハム(Njeguški pršut)",
+     "text": "山あいのニェグシ村で、豚のもも肉を塩漬けにしてブナの煙でいぶし、山と海の風で長期熟成させた生ハム。力強い燻香と濃い色合いが特徴で、もてなしの席に欠かせない誇りの一品です。",
+     "wiki_en": "Njeguški pršut",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Njegu%C5%A1ki_pr%C5%A1ut",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/19/Njegu%C5%A1ki_pr%C5%A1ut.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Njeguški_pršut.jpg",
+      "artist": "Klavs",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Njegu%C5%A1ki_pr%C5%A1ut.jpg"
+     }
+    },
+    {
+     "key": "北マケドニア",
+     "name": "タフチェ・グラフチェ(Tavče gravče)",
+     "text": "白いんげん豆を玉ねぎやパプリカ粉と合わせ、素焼きの土鍋ごとオーブンで焼き上げる豆料理。豆が主役という点で納豆と通じ合う国民食で、金曜日の食卓の定番として親しまれています。",
+     "wiki_en": "Tavče gravče",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Tav%C4%8De_grav%C4%8De",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/%D0%93%D1%80%D0%B0%D0%B2_%D0%B2%D0%BE_%D1%82%D0%B0%D0%B2%D0%B0%28%D1%82%D0%B0%D1%84%D1%87%D0%B5_%D0%B3%D1%80%D0%B0%D0%B2%D1%87%D0%B5%29_%283%29.jpg/960px-%D0%93%D1%80%D0%B0%D0%B2_%D0%B2%D0%BE_%D1%82%D0%B0%D0%B2%D0%B0%28%D1%82%D0%B0%D1%84%D1%87%D0%B5_%D0%B3%D1%80%D0%B0%D0%B2%D1%87%D0%B5%29_%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Грав_во_тава(тафче_гравче)_(3).jpg",
+      "artist": "Oliver Manev",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:%D0%93%D1%80%D0%B0%D0%B2_%D0%B2%D0%BE_%D1%82%D0%B0%D0%B2%D0%B0(%D1%82%D0%B0%D1%84%D1%87%D0%B5_%D0%B3%D1%80%D0%B0%D0%B2%D1%87%D0%B5)_(3).jpg"
+     }
+    },
+    {
+     "key": "ポルトガル",
+     "name": "カビデラ(Arroz de cabidela)",
+     "text": "鶏肉を、酢を加えた鶏の血と一緒に米と炊き込む料理。茶色がかった色とほのかな酸味に初めての人は驚きますが、北部を中心に昔ながらの家庭の味として大切にされています。",
+     "wiki_en": "Cabidela",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Cabidela",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Cabidela_de_galinha.JPG/960px-Cabidela_de_galinha.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Cabidela_de_galinha.JPG",
+      "artist": "Jrobal0",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Cabidela_de_galinha.JPG"
+     }
+    },
+    {
+     "key": "サンマリノ",
+     "name": "トルタ・トレ・モンティ(Torta Tre Monti)",
+     "text": "薄いウエハースにヘーゼルナッツ入りのチョコクリームを何層も重ね、縁をチョコレートで覆った菓子。国の象徴である三つの塔の山にちなんだ名で、小さな国を代表するおみやげとして親しまれています。",
+     "wiki_en": "Torta Tre Monti",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Torta_Tre_Monti",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/La_Serenissima_Torta_Tre_Monti.jpg/960px-La_Serenissima_Torta_Tre_Monti.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:La_Serenissima_Torta_Tre_Monti.jpg",
+      "artist": "Mooonswimmer",
+      "license": "CC BY 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:La_Serenissima_Torta_Tre_Monti.jpg"
+     }
+    },
+    {
+     "key": "セルビア",
+     "name": "プレ(ロバのチーズ)",
+     "text": "ザサヴィツァ自然保護区で、バルカン種のロバの乳を主に使って作られる白いチーズ。ロバは乳量がとても少ないため世界でも指折りの高価なチーズとして知られ、ほろりと崩れる食感が特徴です。",
+     "wiki_en": "Pule cheese",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Pule_cheese"
+    },
+    {
+     "key": "スロベニア",
+     "name": "プレクムルスカ・ギバニツァ(Prekmurska gibanica)",
+     "text": "けしの実、カッテージチーズ、くるみ、りんごの4種の具を生地と交互に何層も重ねて焼く菓子。甘い菓子にけしの実やチーズがたっぷり入る点が意外で、プレクムリェ地方の祝いの席を彩ります。",
+     "wiki_en": "Prekmurska gibanica",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Prekmurska_gibanica",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/PrekmurskaGibanica1.JPG/960px-PrekmurskaGibanica1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:PrekmurskaGibanica1.JPG",
+      "artist": "Sl-Ziga",
+      "license": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:PrekmurskaGibanica1.JPG"
+     }
+    },
+    {
+     "key": "スペイン",
+     "name": "カルソッツ(Calçots)",
+     "text": "カタルーニャ地方の長ねぎの一種を、外側が真っ黒になるまで直火で焼いた料理。焦げた皮をむき、ソースをつけて上を向いて頬張る食べ方が驚かれます。冬の終わりの宴「カルソターダ」の主役です。",
+     "wiki_en": "Calçot",
+     "wiki_ja": "カルソッツ",
+     "link": "https://en.wikipedia.org/wiki/Cal%C3%A7ot",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Paret_de_cal%C3%A7ots.jpg/960px-Paret_de_cal%C3%A7ots.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Paret_de_calçots.jpg",
+      "artist": "Laia Solanellas from Reus, Catalonia",
+      "license": "CC BY 2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Paret_de_cal%C3%A7ots.jpg"
+     }
+    },
+    {
+     "key": "バチカン",
+     "name": "フェットゥチーネ・アッラ・パパリーナ(Fettuccine alla papalina)",
+     "text": "生ハム、卵、チーズで仕上げる「教皇風」のパスタ。のちに教皇ピウス12世となる枢機卿の求めでローマの料理人が考案したと伝わります。ローマ料理とともにあるバチカンらしい一皿です。",
+     "wiki_en": "Fettuccine alla papalina",
+     "wiki_ja": ""
+    },
+    {
+     "key": "オーストリア",
+     "name": "ボイシェル(Beuschel)",
+     "text": "子牛の肺や心臓を細切りにし、酸味のあるクリームソースで煮込んだウィーンの伝統料理。肺を食べることに驚く人もいますが、パンの団子を添えて味わう老舗食堂の定番として愛されています。",
+     "wiki_en": "Beuschel",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Beuschel",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Kalbsbeuschel_mit_Semmelkn%C3%B6del.jpg/960px-Kalbsbeuschel_mit_Semmelkn%C3%B6del.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Kalbsbeuschel_mit_Semmelknödel.jpg",
+      "artist": "Kritzolina",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Kalbsbeuschel_mit_Semmelkn%C3%B6del.jpg"
+     }
+    },
+    {
+     "key": "ベルギー",
+     "name": "ランビック(Lambic)",
+     "text": "ブリュッセル周辺で、空気中の野生酵母や菌を取り込んで自然発酵させ、樽で長く熟成させるビール。強い酸味と独特の香りが驚かれますが、発酵の力を生かす点は納豆の頼もしい仲間です。",
+     "wiki_en": "Lambic",
+     "wiki_ja": "ランビック",
+     "link": "https://en.wikipedia.org/wiki/Lambic",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Bieren_uit_de_streek_rond_brussel.jpg/960px-Bieren_uit_de_streek_rond_brussel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Bieren_uit_de_streek_rond_brussel.jpg",
+      "artist": "Paul Hermans at Dutch Wikipedia",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Bieren_uit_de_streek_rond_brussel.jpg"
+     }
+    },
+    {
+     "key": "フランス",
+     "name": "エスカルゴ(Escargot)",
+     "text": "食用カタツムリを、にんにくとパセリを練り込んだバターとともに殻に詰めて焼く料理。カタツムリを食べることに驚かれますが、ブルゴーニュ地方の名物として専用の皿やトングで優雅に楽しまれます。",
+     "wiki_en": "Escargot",
+     "wiki_ja": "エスカルゴ",
+     "link": "https://en.wikipedia.org/wiki/Snails_as_food",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Caracoles-del-restaurante-granero.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Caracoles-del-restaurante-granero.jpg",
+      "artist": "Restaurante Granero",
+      "license": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:Caracoles-del-restaurante-granero.jpg"
+     }
+    },
+    {
+     "key": "ドイツ",
+     "name": "メット(Mett)",
+     "text": "新鮮な生の豚ひき肉に塩こしょうで味をつけ、刻み玉ねぎとともにパンにのせて食べる料理。豚肉を生で食べる点が驚かれますが、厳しい衛生基準のもとで作られ、朝食や軽食として親しまれています。",
+     "wiki_en": "Mett",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Mett",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Mettbroetchen.jpg/960px-Mettbroetchen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Mettbroetchen.jpg",
+      "artist": "Nize",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Mettbroetchen.jpg"
+     }
+    },
+    {
+     "key": "リヒテンシュタイン",
+     "name": "リーベル(Ribel)",
+     "text": "とうもろこしの粗びき粉を牛乳や水で練り、フライパンでそぼろ状になるまで気長に炒った素朴な料理。コーヒーに浸したり果物の甘煮を添えたりする食べ方が珍しく、ライン谷の農家の味として受け継がれています。",
+     "wiki_en": "Ribel",
+     "wiki_ja": ""
+    },
+    {
+     "key": "ルクセンブルク",
+     "name": "ユッド・マット・ガーデボウネン(Judd mat Gaardebounen)",
+     "text": "燻製にした豚の首肉を柔らかく煮て、そら豆のクリーム煮とじゃがいもを添えた国民食。厚切り肉とたっぷりの豆という豪快な盛りつけが印象的で、豆を愛する心は納豆とも通じ合います。",
+     "wiki_en": "Judd mat Gaardebounen",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Judd_mat_Gaardebounen",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/JuddMatGaardebounen_Beer.JPG/960px-JuddMatGaardebounen_Beer.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:JuddMatGaardebounen_Beer.JPG",
+      "artist": "Jpatokal",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:JuddMatGaardebounen_Beer.JPG"
+     }
+    },
+    {
+     "key": "モナコ",
+     "name": "バルバジュアン(Barbajuan)",
+     "text": "ふだん草とリコッタチーズなどを薄い生地で包み、カリッと揚げた小さな一品。名前は「ジャンおじさん」という意味で、その由来も楽しい話題になります。ナショナルデーなどの祝いの日に親しまれています。",
+     "wiki_en": "Barbajuan",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Barbajuan",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Barbaguiai.jpg/960px-Barbaguiai.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Barbaguiai.jpg",
+      "artist": "Lemone",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Barbaguiai.jpg"
+     }
+    },
+    {
+     "key": "オランダ",
+     "name": "ハーリング(Hollandse Nieuwe)",
+     "text": "塩漬けにして熟成させた生のニシン。刻み玉ねぎをまぶし、尾を持って上を向き、そのまま口へ運ぶ食べ方が驚かれます。初夏の新物の解禁は国じゅうで祝われ、街角の屋台で気軽に楽しまれています。",
+     "wiki_en": "Soused herring",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Soused_herring",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Haring_04.jpg/960px-Haring_04.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Haring_04.jpg",
+      "artist": "Takeaway",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Haring_04.jpg"
+     }
+    },
+    {
+     "key": "スイス",
+     "name": "エルプラーマグロネン(Älplermagronen)",
+     "text": "マカロニとじゃがいもをチーズとクリームで和え、炒め玉ねぎをのせたアルプスの牧人料理。温かいチーズ味に甘いりんごのピュレを添えて食べる点が驚かれますが、山小屋の定番として愛されています。",
+     "wiki_en": "Älplermagronen",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/%C3%84lplermagronen",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/%C3%84lplermagronen_2021.jpeg/960px-%C3%84lplermagronen_2021.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Älplermagronen_2021.jpeg",
+      "artist": "Adrian Michael",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:%C3%84lplermagronen_2021.jpeg"
+     }
+    }
+   ]
+  },
+  {
+   "name": "アフリカ",
+   "items": [
+    {
+     "key": "アルジェリア",
+     "name": "シャクシューハ(Chakhchoukha)",
+     "text": "薄く焼いたパンを細かくちぎり、トマトと香辛料のきいた羊肉の煮込みをかけて食べる料理。パンを主食ではなく具のように扱う点が驚かれるが、祝いの席や来客時に欠かせないごちそうとして親しまれている。",
+     "wiki_en": "Chakhchoukha",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Chakhchoukha",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Algerian_Chakhchoukha.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Algerian_Chakhchoukha.jpg",
+      "artist": "Plwnt",
+      "license": "CC0",
+      "page": "https://commons.wikimedia.org/wiki/File:Algerian_Chakhchoukha.jpg"
+     }
+    },
+    {
+     "key": "エジプト",
+     "name": "フィスィーフ(Fesikh)",
+     "text": "ボラを塩漬けにして発酵させた魚料理。強い香りに驚く人が多いが、古代から続くとされる春の祭り「シャンム・ナシーム」に家族で囲む伝統の味で、パンやねぎと一緒に食べられている。",
+     "wiki_en": "Fesikh",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Fesikh",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Fesikh_of_Desouk.JPG/960px-Fesikh_of_Desouk.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Fesikh_of_Desouk.JPG",
+      "artist": "Faris knight",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Fesikh_of_Desouk.JPG"
+     }
+    },
+    {
+     "key": "リビア",
+     "name": "バジーン(Bazeen)",
+     "text": "大麦粉を練り上げて山のような形に整え、まわりにトマト味の肉の煮込みを注ぐ料理。大皿を皆で囲み、手でちぎって食べる作法に驚かれるが、家族や客人との絆を深める食事として大切にされている。",
+     "wiki_en": "Bazeen",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Bazin_(bread)",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Bazin.jpg/960px-Bazin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Bazin.jpg",
+      "artist": "Libiya11",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Bazin.jpg"
+     }
+    },
+    {
+     "key": "モロッコ",
+     "name": "スメン(Smen)",
+     "text": "塩を加えて発酵・熟成させた保存用のバター。チーズのような濃い香りに驚かれるが、クスクスやタジンに少し加えるだけで深いコクが出る調味料として重宝され、長く寝かせたものほど珍重される。",
+     "wiki_en": "Smen",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Smen",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Smen_msemmen.jpg/960px-Smen_msemmen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Smen_msemmen.jpg",
+      "artist": "Lucyin",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Smen_msemmen.jpg"
+     }
+    },
+    {
+     "key": "スーダン",
+     "name": "キスラ(Kisra)",
+     "text": "ソルガム(モロコシ)の生地を発酵させ、紙のように薄く焼いたパン。ほのかな酸味と薄さに驚かれるが、煮込み料理をすくって食べる毎日の主食として、家庭の食卓で広く親しまれている。",
+     "wiki_en": "Kisra",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Kisra",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Kisra_maker.jpeg/960px-Kisra_maker.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Kisra_maker.jpeg",
+      "artist": "Mohamed Elfatih Hamadien",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Kisra_maker.jpeg"
+     }
+    },
+    {
+     "key": "チュニジア",
+     "name": "ラブラビ(Lablabi)",
+     "text": "ちぎった固めのパンの上に、クミンやにんにくのきいたひよこ豆のスープを注ぐ料理。パンをスープでふやかして混ぜる食べ方に驚かれるが、冬の朝に体を温める庶民の味として愛されている。",
+     "wiki_en": "Lablabi",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Lablabi",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Bol_de_Leblabi_de_Tunisie%2C_21_mars_2017.jpg/960px-Bol_de_Leblabi_de_Tunisie%2C_21_mars_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Bol_de_Leblabi_de_Tunisie,_21_mars_2017.jpg",
+      "artist": "Habib M'henni",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Bol_de_Leblabi_de_Tunisie,_21_mars_2017.jpg"
+     }
+    },
+    {
+     "key": "ベナン",
+     "name": "ワガシ(Wagasi)",
+     "text": "北部のフラニの人々が牛乳から作るやわらかなチーズ。熱しても溶けにくく、揚げたり煮込みに入れたりして肉のように食べる点が驚かれる。市場でも広く売られ、身近なたんぱく源として親しまれている。",
+     "wiki_en": "Wagasi",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Wagasi",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/27/Wagasi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Wagasi.jpg",
+      "artist": "daSupremo",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Wagasi.jpg"
+     }
+    },
+    {
+     "key": "ブルキナファソ",
+     "name": "スンバラ(Soumbala)",
+     "text": "ネレ(アフリカイナゴマメ)の種を煮て発酵させた調味料。香りも作り方も納豆によく似ていることに驚かれる。丸めて保存し、スープや煮込みにうま味を加える味の決め手として毎日の料理に使われている。",
+     "wiki_en": "Sumbala",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Iru_(condiment)"
+    },
+    {
+     "key": "カーボベルデ",
+     "name": "カチューパ(Cachupa)",
+     "text": "とうもろこしと豆を、魚や肉、野菜と一緒に長時間煮込んだ国民食。翌朝に残りを炒め直し、卵などを添えて朝食にする習慣が驚かれる。島ごと、家庭ごとに味が異なり、ふるさとの味として愛されている。",
+     "wiki_en": "Cachupa",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Cachupa",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Cachupa_2.jpg/960px-Cachupa_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Cachupa_2.jpg",
+      "artist": "Xandu",
+      "license": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:Cachupa_2.jpg"
+     }
+    },
+    {
+     "key": "コートジボワール",
+     "name": "アチェケ(Attiéké)",
+     "text": "キャッサバをすりおろして発酵させ、粒状にして蒸した主食。見た目はクスクスに似ているのに、ほのかな酸味があることに驚かれる。焼き魚や揚げ魚、玉ねぎのソースを添えて日常的に食べられている。",
+     "wiki_en": "Attiéké",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Acheke",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Attieke.JPG/960px-Attieke.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Attieke.JPG",
+      "artist": "Serein",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Attieke.JPG"
+     }
+    },
+    {
+     "key": "ガンビア",
+     "name": "ドモダ(Domoda)",
+     "text": "ピーナッツペーストをたっぷり使い、肉や野菜を煮込んだ濃厚なシチュー。ピーナッツをおかずの主役にする発想に驚かれるが、ごはんにかけて食べる国民的な料理として家庭で親しまれている。",
+     "wiki_en": "Domoda",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Domoda",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Domoda_Senegal.jpg/960px-Domoda_Senegal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Domoda_Senegal.jpg",
+      "artist": "Marshiayers",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Domoda_Senegal.jpg"
+     }
+    },
+    {
+     "key": "ガーナ",
+     "name": "ケンケ(Kenkey)",
+     "text": "発酵させたとうもろこしの生地を、とうもろこしの皮などで包んで蒸した団子状の主食。はっきりした酸味と香りに驚かれるが、揚げ魚と辛い唐辛子ソースを添える組み合わせが沿岸部を中心に愛されている。",
+     "wiki_en": "Kenkey",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Kenkey",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Kenkey_and_ground_pepper_with_sardine.jpg/960px-Kenkey_and_ground_pepper_with_sardine.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Kenkey_and_ground_pepper_with_sardine.jpg",
+      "artist": "Mwintirew",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Kenkey_and_ground_pepper_with_sardine.jpg"
+     }
+    },
+    {
+     "key": "ギニア",
+     "name": "フォニオ(Fonio)",
+     "text": "西アフリカで古くから栽培されてきた、砂粒のように小さな穀物。粒の細かさに驚かれるが、蒸してふんわり仕上げ、ソースをかけて食べる。フータ・ジャロン地方を中心に、大切な穀物として受け継がれている。",
+     "wiki_en": "Fonio",
+     "wiki_ja": "フォニオ",
+     "link": "https://en.wikipedia.org/wiki/Fonio",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/SEN_Village_Chief_Theodore.jpg/960px-SEN_Village_Chief_Theodore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:SEN_Village_Chief_Theodore.jpg",
+      "artist": "Richard Nyberg, USAID",
+      "license": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:SEN_Village_Chief_Theodore.jpg"
+     }
+    },
+    {
+     "key": "ギニアビサウ",
+     "name": "カシューアップルの酒",
+     "text": "カシューナッツの実がつく果托(カシューアップル)の果汁を発酵させた酒。ナッツではなく果実の部分を味わう点が驚かれる。カシューは国の主要な作物で、収穫期には各地の村で親しまれている。",
+     "wiki_en": "",
+     "wiki_ja": ""
+    },
+    {
+     "key": "リベリア",
+     "name": "ダンボイ(Dumboy)",
+     "text": "ゆでたキャッサバを臼でついて、もちのように粘り強く仕上げた主食。かまずにスープと一緒に飲み込むように食べる作法が驚かれる。辛いスープとの組み合わせで、国を代表する料理として親しまれている。",
+     "wiki_en": "Dumboy",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Liberian_cuisine",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Beachside_Barbeque_%286831739276%29.jpg/960px-Beachside_Barbeque_%286831739276%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Beachside_Barbeque_(6831739276).jpg",
+      "artist": "David Stanley from Nanaimo, Canada",
+      "license": "CC BY 2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Beachside_Barbeque_(6831739276).jpg"
+     }
+    },
+    {
+     "key": "マリ",
+     "name": "トー(Tô)",
+     "text": "ミレットやソルガムの粉を湯で練り上げた、やわらかな主食。オクラなどで作るとろりと粘りのあるソースにつけて食べるのが定番で、その粘りに驚く人も多い。農村から都市まで毎日の食卓を支えている。",
+     "wiki_en": "",
+     "wiki_ja": ""
+    },
+    {
+     "key": "モーリタニア",
+     "name": "ラクダのミルク(ズリグ)",
+     "text": "ラクダの乳や発酵乳を水で割り、砂糖を加えて飲む飲み物。ラクダの乳を日常的に飲むことに驚かれるが、砂漠の暮らしを支えてきた栄養源で、客人をもてなす一杯としても大切にされている。",
+     "wiki_en": "Camel milk",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Camel_milk",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/74/Fresh_camel_milk_%28Dubai%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Fresh_camel_milk_(Dubai)_(cropped).jpg",
+      "artist": "krebsmaus07 from Flickr",
+      "license": "CC BY 2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Fresh_camel_milk_(Dubai)_(cropped).jpg"
+     }
+    },
+    {
+     "key": "ニジェール",
+     "name": "キリシ(Kilishi)",
+     "text": "薄く大きく切った肉を天日で干し、ピーナッツと香辛料のペーストを塗ってあぶった干し肉。紙のような薄さと刺激的な辛さに驚かれる。ハウサの人々に伝わる保存食で、おやつや手土産として人気がある。",
+     "wiki_en": "Kilishi",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Kilishi",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/%22Kilishi%22.JPG/960px-%22Kilishi%22.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:\"Kilishi\".JPG",
+      "artist": "Abubakar M. Ahmad",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:%22Kilishi%22.JPG"
+     }
+    },
+    {
+     "key": "ナイジェリア",
+     "name": "イル(Iru)",
+     "text": "アフリカイナゴマメの種を発酵させた調味料で、ヨルバ語でイル、ハウサ語でダワダワと呼ばれる。納豆を思わせる強い香りに驚かれるが、スープや煮込みに深いうま味を与える伝統の味として欠かせない。",
+     "wiki_en": "Iru (food)",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Iru_(condiment)"
+    },
+    {
+     "key": "セネガル",
+     "name": "チェブジェン(Thieboudienne)",
+     "text": "魚と野菜をトマトで煮込み、その煮汁で米を炊き上げる国民食。発酵させた貝や干し魚で風味をつける点や、大皿を皆で囲む食べ方が驚かれる。もてなしの心を表す料理として、昼食の定番になっている。",
+     "wiki_en": "Thieboudienne",
+     "wiki_ja": "チェブジェン",
+     "link": "https://en.wikipedia.org/wiki/Thieboudienne",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Thieboudienne.JPG/960px-Thieboudienne.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Thieboudienne.JPG",
+      "artist": "KVDP",
+      "license": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:Thieboudienne.JPG"
+     }
+    },
+    {
+     "key": "シエラレオネ",
+     "name": "キャッサバの葉の煮込み",
+     "text": "芋ではなくキャッサバの葉を細かくつき、パーム油や魚、肉と一緒にじっくり煮込んだ料理。葉を主役にする点が驚かれるが、ごはんにかけて食べる家庭料理として、国じゅうで日常的に親しまれている。",
+     "wiki_en": "",
+     "wiki_ja": ""
+    },
+    {
+     "key": "トーゴ",
+     "name": "フフ(Fufu)",
+     "text": "ゆでたヤムイモなどを臼と杵でついて、もちのように仕上げた主食。かまずにスープと一緒に飲み込む食べ方が驚かれる。杵でつく音は暮らしの風景の一部で、辛いスープとともに広く愛されている。",
+     "wiki_en": "Fufu",
+     "wiki_ja": "フフ",
+     "link": "https://en.wikipedia.org/wiki/Fufu",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Wrapped_fufu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Wrapped_fufu.jpg",
+      "artist": "daSupremo",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Wrapped_fufu.jpg"
+     }
+    },
+    {
+     "key": "アンゴラ",
+     "name": "フンジ(Funge)",
+     "text": "キャッサバやとうもろこしの粉を湯で練り上げた、とろりと粘りのある主食。のりのような強い粘りと控えめな味に驚かれるが、魚や肉の煮込みの味を引き立てる名脇役として、毎日の食卓に欠かせない。",
+     "wiki_en": "Funge",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Funge",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Moamba_traditional_dish_in_Luanda.JPG/960px-Moamba_traditional_dish_in_Luanda.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Moamba_traditional_dish_in_Luanda.JPG",
+      "artist": "Rui Gabriel Correia",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Moamba_traditional_dish_in_Luanda.JPG"
+     }
+    },
+    {
+     "key": "カメルーン",
+     "name": "ンドレ(Ndolé)",
+     "text": "苦みのある葉野菜を下ゆでし、ピーナッツ、えびや魚、肉と一緒に煮込んだ料理。苦みとナッツのコクを合わせる味わいが驚かれる。国を代表する料理として、祝いの席でも家庭でも親しまれている。",
+     "wiki_en": "Ndolé",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Ndol%C3%A9",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/91/Ndol%C3%A8_%C3%A0_la_viande%2C_morue_et_crevettes.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Ndolè_à_la_viande,_morue_et_crevettes.jpg",
+      "artist": "Coco lago",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Ndol%C3%A8_%C3%A0_la_viande,_morue_et_crevettes.jpg"
+     }
+    },
+    {
+     "key": "中央アフリカ",
+     "name": "いも虫の料理(マコンゴ)",
+     "text": "森で採れる食用のいも虫を、干したり燻したりして保存し、煮込みなどにして食べる料理。昆虫を食べることに驚かれるが、季節の恵みとして楽しまれ、貴重なたんぱく源として大切にされている。",
+     "wiki_en": "",
+     "wiki_ja": ""
+    },
+    {
+     "key": "チャド",
+     "name": "ディエ(Dihé)",
+     "text": "チャド湖周辺で採れる藍藻スピルリナを天日で乾かした深緑色の板。見た目に驚かれますが、砕いてソースに溶かし、雑穀の練り粥と一緒に食べる栄養豊富な伝統食で、主に女性たちが収穫を担ってきました。",
+     "wiki_en": "Dihé",
+     "wiki_ja": ""
+    },
+    {
+     "key": "コンゴ共和国",
+     "name": "シクワング(Chikwangue)",
+     "text": "キャッサバを水にさらして発酵させ、葉で包んで蒸した餅のような主食。独特の酸味のある香りと弾力に驚く人もいますが、日持ちがよく、魚や煮込み料理に添える毎日の食卓の主役です。",
+     "wiki_en": "Chikwangue",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Chikwangue",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/07/Cassava_Bread_-_cassava_cooked_in_leaf_wrap_%28Kwanga%2C_Chikwangue%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Cassava_Bread_-_cassava_cooked_in_leaf_wrap_(Kwanga,_Chikwangue).jpg",
+      "artist": "T.K. Naliaka",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Cassava_Bread_-_cassava_cooked_in_leaf_wrap_(Kwanga,_Chikwangue).jpg"
+     }
+    },
+    {
+     "key": "コンゴ民主共和国",
+     "name": "モアンベ・チキン(Poulet à la moambe)",
+     "text": "アブラヤシの実をつぶして作る濃厚な橙色のソースで鶏肉を煮込んだ料理。ヤシの実の果肉そのものをソースにする発想が新鮮で、国民食として米やキャッサバとともに広く親しまれています。",
+     "wiki_en": "Moambe chicken",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Moambe_chicken",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Poulet_%C3%A0_la_moambe.JPG/960px-Poulet_%C3%A0_la_moambe.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Poulet_à_la_moambe.JPG",
+      "artist": "Brigade Piron",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Poulet_%C3%A0_la_moambe.JPG"
+     }
+    },
+    {
+     "key": "赤道ギニア",
+     "name": "ペッパースープ(Pepesup)",
+     "text": "魚や肉を唐辛子と香りの強いスパイスで煮た、さらりとした辛いスープ。汗が噴き出すほどの辛さに驚かれますが、体を元気にする一品として、家庭でも集まりの席でもよく食べられています。",
+     "wiki_en": "Pepper soup",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Peppersoup",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Assorted_meat_pepper_soup_at_Lagos_Island.jpg/960px-Assorted_meat_pepper_soup_at_Lagos_Island.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Assorted_meat_pepper_soup_at_Lagos_Island.jpg",
+      "artist": "bob walker",
+      "license": "CC BY-SA 2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Assorted_meat_pepper_soup_at_Lagos_Island.jpg"
+     }
+    },
+    {
+     "key": "ガボン",
+     "name": "ニェンブウェ・チキン(Poulet nyembwe)",
+     "text": "アブラヤシの実から作る濃厚なソース「ニェンブウェ」で鶏肉を煮込んだ料理。とろりとした赤橙色の見た目と深いコクが特徴で、ガボンを代表する味として祝いの席にも並びます。",
+     "wiki_en": "",
+     "wiki_ja": ""
+    },
+    {
+     "key": "サントメ・プリンシペ",
+     "name": "カルル(Calulu)",
+     "text": "干し魚や燻製魚を、オクラや数種類の葉野菜、ヤシ油と一緒に長時間煮込んだ料理。葉を何種類も重ねる手間のかかる作り方が特徴で、家族が集まる日のごちそうとして大切にされています。",
+     "wiki_en": "Calulu",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Calulu",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Calulu.jpg/960px-Calulu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Calulu.jpg",
+      "artist": "elingunnur",
+      "license": "CC BY 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Calulu.jpg"
+     }
+    },
+    {
+     "key": "ブルンジ",
+     "name": "ンダガラ(Ndagala)",
+     "text": "タンガニーカ湖で獲れる小魚を天日干しにしたもの。頭から丸ごと食べる姿と強い香りに驚く人もいますが、揚げたりトマトで煮たりして、練り粥のおかずとして日々親しまれています。",
+     "wiki_en": "",
+     "wiki_ja": ""
+    },
+    {
+     "key": "コモロ",
+     "name": "伊勢エビのバニラソース(Langouste à la vanille)",
+     "text": "焼いたロブスターに、特産のバニラを効かせたクリームソースをかける料理。甘い香りのバニラを海の幸に合わせる組み合わせが意外ですが、香料の島ならではの名物として知られています。",
+     "wiki_en": "",
+     "wiki_ja": ""
+    },
+    {
+     "key": "ジブチ",
+     "name": "スクデカリス(Skoudehkaris)",
+     "text": "羊肉などをカルダモンやクミンなどの香辛料、トマトと一緒に米と炊き込んだ料理。一つの鍋で仕上げる香り高い一皿で、ジブチの国民食として家庭や祝いの席で親しまれています。",
+     "wiki_en": "Skoudehkaris",
+     "wiki_ja": ""
+    },
+    {
+     "key": "エリトリア",
+     "name": "ガアト(Ga'at)",
+     "text": "大麦などの粉を固く練り上げた山型の粥。中央にくぼみを作り、香辛料入りの澄ましバターを注ぎ、周りにヨーグルトを添える火山のような姿が印象的で、朝食や産後の滋養食として親しまれています。",
+     "wiki_en": "Ga'at",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Genfo",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Ga%27at_food.jpg/960px-Ga%27at_food.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Ga'at_food.jpg",
+      "artist": "Stefan Alfons Tzeggai",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Ga%27at_food.jpg"
+     }
+    },
+    {
+     "key": "エチオピア",
+     "name": "インジェラ(Injera)",
+     "text": "テフという穀物の粉を数日発酵させて焼く、灰色がかった薄いパン。強い酸味とスポンジのような見た目に驚かれますが、煮込みをのせて皆で囲む、食卓に欠かせない主食です。",
+     "wiki_en": "Injera",
+     "wiki_ja": "インジェラ",
+     "link": "https://en.wikipedia.org/wiki/Injera",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Injera_with_eight_kinds_of_stew.jpg/960px-Injera_with_eight_kinds_of_stew.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Injera_with_eight_kinds_of_stew.jpg",
+      "artist": "Artem.G",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Injera_with_eight_kinds_of_stew.jpg"
+     }
+    },
+    {
+     "key": "ケニア",
+     "name": "ムルシク(Mursik)",
+     "text": "カレンジンの人々に伝わる発酵乳。特定の木を焼いた炭で内側をいぶしたヒョウタンで熟成させるため、灰色の筋と燻した香りがつきます。祝い事や選手の凱旋を迎える場でもふるまわれます。",
+     "wiki_en": "Mursik",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Mursik",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Kipsigis_Gourd.jpg/960px-Kipsigis_Gourd.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Kipsigis_Gourd.jpg",
+      "artist": "Stephenwanjau",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Kipsigis_Gourd.jpg"
+     }
+    },
+    {
+     "key": "マダガスカル",
+     "name": "ロマザバ(Romazava)",
+     "text": "牛肉などと数種類の青菜を煮たスープ。キバナオランダセンニチの葉や花が入り、舌がしびれるような刺激があるのが驚かれる点です。ご飯にかけて食べる国民的な家庭料理です。",
+     "wiki_en": "Romazava",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Romazava",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Madagaskar_stew_2019-10-01.jpg/960px-Madagaskar_stew_2019-10-01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Madagaskar_stew_2019-10-01.jpg",
+      "artist": "Z thomas",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Madagaskar_stew_2019-10-01.jpg"
+     }
+    },
+    {
+     "key": "マラウイ",
+     "name": "クング・ケーキ(Kungu)",
+     "text": "マラウイ湖に雲のように発生する小さな羽虫を集め、押し固めて作るパテ状の食べ物。虫でできている点に驚かれますが、たんぱく質が豊富で、湖畔の人々に昔から食べられてきました。",
+     "wiki_en": "Kunga cake",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Kunga_cake",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Lake_flies%2C_Lake_Malawi_%282499202894%29.jpg/960px-Lake_flies%2C_Lake_Malawi_%282499202894%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Lake_flies,_Lake_Malawi_(2499202894).jpg",
+      "artist": "Joachim Huber from Switzerland",
+      "license": "CC BY-SA 2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Lake_flies,_Lake_Malawi_(2499202894).jpg"
+     }
+    },
+    {
+     "key": "モーリシャス",
+     "name": "ルガイユ(Rougaille)",
+     "text": "トマトをにんにく、しょうが、タイム、唐辛子と煮詰めたクレオール風のソース料理。塩漬け魚やソーセージなど具を選ばない懐の深さが特徴で、多文化の島の家庭料理として愛されています。",
+     "wiki_en": "Rougaille",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Rougaille",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Rougail_saucisse.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Rougail_saucisse.jpg",
+      "artist": "The original uploader was Kikitoul at French Wikipedia.",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Rougail_saucisse.jpg"
+     }
+    },
+    {
+     "key": "モザンビーク",
+     "name": "マタパ(Matapa)",
+     "text": "キャッサバの若葉を臼でついて細かくし、落花生の粉とココナッツミルクで煮込んだ料理。濃い緑色のペースト状の見た目が印象的で、エビやカニを加え、米に添えて食べられています。",
+     "wiki_en": "Matapa",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Matapa",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Matapa.jpg/960px-Matapa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Matapa.jpg",
+      "artist": "PrestigiousSwazi",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Matapa.jpg"
+     }
+    },
+    {
+     "key": "ルワンダ",
+     "name": "ウルワグワ(Urwagwa)",
+     "text": "熟したバナナをつぶして絞った汁に、炒ったモロコシの粉を加えて発酵させる伝統のバナナ酒。果物から酒を醸す手仕事が興味深く、結婚式や来客をもてなす席で分かち合われてきました。",
+     "wiki_en": "Urwagwa",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Banana_beer",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Belgian_banana_beer.jpg/960px-Belgian_banana_beer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Belgian_banana_beer.jpg",
+      "artist": "Ilpo's Sojourn",
+      "license": "CC BY 2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Belgian_banana_beer.jpg"
+     }
+    },
+    {
+     "key": "セーシェル",
+     "name": "フルーツコウモリのカレー(Kari sousouri)",
+     "text": "果物を食べる大型のコウモリを香辛料で煮込んだクレオール料理。食材に驚く旅行者が多いものの、島では昔から食べられてきた伝統の味で、クレオール料理店の品書きにも載っています。",
+     "wiki_en": "",
+     "wiki_ja": ""
+    },
+    {
+     "key": "ソマリア",
+     "name": "バリース・イスクカリス(Bariis iskukaris)",
+     "text": "香辛料と肉のだしで炊き上げた色鮮やかな米料理。生のバナナを添え、ご飯と一緒にかじりながら食べるのが驚かれる点です。結婚式などのお祝いに欠かせないごちそうです。",
+     "wiki_en": "Bariis iskukaris",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Bariis_iskukaris",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Somalicamelmeat.jpg/960px-Somalicamelmeat.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Somalicamelmeat.jpg",
+      "artist": "Richard Faulder",
+      "license": "CC BY 2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Somalicamelmeat.jpg"
+     }
+    },
+    {
+     "key": "南スーダン",
+     "name": "キスラ(Kisra)",
+     "text": "モロコシの粉を発酵させた生地を、鉄板でごく薄く焼いたパン。ほのかな酸味と紙のような薄さが特徴で、オクラなどの粘りのある煮込みをすくって食べる、日々の主食です。",
+     "wiki_en": "Kisra",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Kisra",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Kisra_maker.jpeg/960px-Kisra_maker.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Kisra_maker.jpeg",
+      "artist": "Mohamed Elfatih Hamadien",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Kisra_maker.jpeg"
+     }
+    },
+    {
+     "key": "タンザニア",
+     "name": "チプシ・マヤイ(Chipsi mayai)",
+     "text": "フライドポテトを卵でとじて焼いたオムレツ。芋と卵だけの大胆な組み合わせが意外ですが、屋台の定番で、トマトと玉ねぎの和え物やチリソースを添えて気軽に食べられています。",
+     "wiki_en": "Chipsi mayai",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Chipsi_mayai",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Chipsi_mayai_%28zege%29.jpg/960px-Chipsi_mayai_%28zege%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Chipsi_mayai_(zege).jpg",
+      "artist": "iamkevoo",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Chipsi_mayai_(zege).jpg"
+     }
+    },
+    {
+     "key": "ウガンダ",
+     "name": "ンセネネ(Nsenene)",
+     "text": "雨季に大量に現れるキリギリスの仲間を、羽と脚を取って炒めた季節の味。虫を食べることに驚かれますが、香ばしくカリッとした食感で、市場に並ぶと皆が心待ちにするごちそうです。",
+     "wiki_en": "Nsenene",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Nsenene",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Ruspolia_nitidula_male_%283788698376%29.jpg/960px-Ruspolia_nitidula_male_%283788698376%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Ruspolia_nitidula_male_(3788698376).jpg",
+      "artist": "Gilles San Martin from Namur, Belgium",
+      "license": "CC BY-SA 2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Ruspolia_nitidula_male_(3788698376).jpg"
+     }
+    },
+    {
+     "key": "ザンビア",
+     "name": "チカンダ(Chikanda)",
+     "text": "野生のランの球根をつぶし、落花生の粉と混ぜて固めた料理。肉を使わないのにソーセージのような見た目と食感になるのが驚きで、「アフリカのポローニー」とも呼ばれ、軽食として売られています。",
+     "wiki_en": "Chikanda",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Chikanda",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Chikanda2.jpg/960px-Chikanda2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Chikanda2.jpg",
+      "artist": "LittleT889",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Chikanda2.jpg"
+     }
+    },
+    {
+     "key": "ジンバブエ",
+     "name": "モパネワーム(Madora)",
+     "text": "モパネの木の葉を食べて育つ大型のガの幼虫を、ゆでて乾燥させた保存食。芋虫という見た目に驚かれますが、たんぱく質が豊富で、揚げたりトマトと煮たりして広く食べられています。",
+     "wiki_en": "Gonimbrasia belina",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Gonimbrasia_belina",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Colophospermum_mopane_50D_0486.jpg/960px-Colophospermum_mopane_50D_0486.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Colophospermum_mopane_50D_0486.jpg",
+      "artist": "SAplants",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Colophospermum_mopane_50D_0486.jpg"
+     }
+    },
+    {
+     "key": "ボツワナ",
+     "name": "セスワ(Seswaa)",
+     "text": "牛肉や山羊肉を塩だけで何時間も煮て、杵でついて繊維状にほぐした料理。味付けの潔さと力強い作り方が印象的で、結婚式や独立記念日などの行事で大鍋で作られ、ふるまわれます。",
+     "wiki_en": "Seswaa",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Seswaa",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Pounded_Beef_%28Seswaa%29.jpg/960px-Pounded_Beef_%28Seswaa%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Pounded_Beef_(Seswaa).jpg",
+      "artist": "MmaBaggio",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Pounded_Beef_(Seswaa).jpg"
+     }
+    },
+    {
+     "key": "エスワティニ",
+     "name": "発酵乳(エマシ)",
+     "text": "牛乳を自然に発酵させて作る、とろりと濃い酸っぱい乳。強い酸味とヨーグルトより重たい口当たりに初めての人は驚くが、現地ではトウモロコシの粥にかけたり砕いたモロコシと混ぜたりして日常的に親しまれている。",
+     "wiki_en": "Amasi",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Amasi",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Amasi_%283035444146%29.jpg/960px-Amasi_%283035444146%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Amasi_(3035444146).jpg",
+      "artist": "Jeppestown",
+      "license": "CC BY-SA 2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Amasi_(3035444146).jpg"
+     }
+    },
+    {
+     "key": "レソト",
+     "name": "発酵モロコシ粥(モトホ)",
+     "text": "モロコシの粉を水で溶き、数日発酵させてから煮た酸味のある粥。飲み物のようにさらりとした口当たりと、発酵由来の酸っぱさが個性的。ソト人の伝統的な滋養食で、冷やして飲むことも多く、もてなしの席にも出される。",
+     "wiki_en": "Motoho",
+     "wiki_ja": ""
+    },
+    {
+     "key": "ナミビア",
+     "name": "モパネワーム(オマグング)",
+     "text": "モパネの木の葉を食べて育つ大型のガの幼虫。内臓を絞り出してゆで、天日で干して保存する。見た目に驚く人は多いが、たんぱく質が豊富で、北部ではトマトや玉ねぎと煮込んだり、揚げて軽食にしたりして親しまれている。",
+     "wiki_en": "Gonimbrasia belina",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Gonimbrasia_belina",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Colophospermum_mopane_50D_0486.jpg/960px-Colophospermum_mopane_50D_0486.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Colophospermum_mopane_50D_0486.jpg",
+      "artist": "SAplants",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Colophospermum_mopane_50D_0486.jpg"
+     }
+    },
+    {
+     "key": "南アフリカ",
+     "name": "バニーチャウ",
+     "text": "食パンの塊を半分か4分の1に切って中をくり抜き、カレーをたっぷり詰めた料理。名前に反してウサギは入っておらず、器ごと手で食べる姿に驚かれる。ダーバンのインド系社会で生まれ、今では全国で愛される庶民の味。",
+     "wiki_en": "Bunny chow",
+     "wiki_ja": "バニーチャウ",
+     "link": "https://en.wikipedia.org/wiki/Bunny_chow",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/70/Quarter_Mutton_Bunny_Chow.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Quarter_Mutton_Bunny_Chow.jpg",
+      "artist": "Luke Comins",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Quarter_Mutton_Bunny_Chow.jpg"
+     }
+    }
+   ]
+  },
+  {
+   "name": "北米・中米・カリブ",
+   "items": [
+    {
+     "key": "カナダ",
+     "name": "プーティン(Poutine)",
+     "text": "フライドポテトに粒状のチーズカードをのせ、熱いグレイビーソースをかけたケベック生まれの料理。噛むとキュッと鳴るチーズが身上で、屋台から専門店まで国中で親しまれています。",
+     "wiki_en": "Poutine",
+     "wiki_ja": "プーティン",
+     "link": "https://en.wikipedia.org/wiki/Poutine",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Food_at_WIkimanian_2017_02.jpg/960px-Food_at_WIkimanian_2017_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Food_at_WIkimanian_2017_02.jpg",
+      "artist": "Camelia.boban",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Food_at_WIkimanian_2017_02.jpg"
+     }
+    },
+    {
+     "key": "アメリカ",
+     "name": "ロッキーマウンテンオイスター(Rocky Mountain oysters)",
+     "text": "名前は「牡蠣」ですが、実は牛の睾丸に衣をつけて揚げたもの。牧場の暮らしから生まれた西部の味で、コロラド州などでは祭りや酒場の名物としてソースを添えて楽しまれています。",
+     "wiki_en": "Rocky Mountain oysters",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Rocky_Mountain_oysters",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Rocky_mountain_oysters.jpg/960px-Rocky_mountain_oysters.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Rocky_mountain_oysters.jpg",
+      "artist": "Vincent Diamante from Los Angeles, CA, USA",
+      "license": "CC BY-SA 2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Rocky_mountain_oysters.jpg"
+     }
+    },
+    {
+     "key": "ベリーズ",
+     "name": "ギブナット(Gibnut)",
+     "text": "パカという大型のげっ歯類の肉を煮込みなどにした料理。英国女王にも供されたことから「ロイヤル・ラット」の愛称があり、柔らかな味わいのごちそうとして親しまれています。",
+     "wiki_en": "",
+     "wiki_ja": ""
+    },
+    {
+     "key": "コスタリカ",
+     "name": "チフリホ(Chifrijo)",
+     "text": "ご飯に煮豆、揚げた豚肉、トマトのサルサを重ねた丼風のおつまみ。名前はチチャロン(揚げ豚)とフリホレス(豆)の合成語で、酒場発祥の一品として全国のバーの定番になっています。",
+     "wiki_en": "Chifrijo",
+     "wiki_ja": ""
+    },
+    {
+     "key": "エルサルバドル",
+     "name": "ププサ(Pupusa)",
+     "text": "とうもろこし粉の生地にチーズや豆、ロロコという花のつぼみなどを包んで焼いた国民食。発酵させたキャベツの漬物クルティードをのせ、手づかみで食べるのが流儀です。",
+     "wiki_en": "Pupusa",
+     "wiki_ja": "ププサ",
+     "link": "https://en.wikipedia.org/wiki/Pupusa",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Pupusas_El_Salvador_Centro_America.JPG/960px-Pupusas_El_Salvador_Centro_America.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Pupusas_El_Salvador_Centro_America.JPG",
+      "artist": "JMRAFFi",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Pupusas_El_Salvador_Centro_America.JPG"
+     }
+    },
+    {
+     "key": "グアテマラ",
+     "name": "フィアンブレ(Fiambre)",
+     "text": "ソーセージ、ハム、チーズ、酢漬け野菜など数十種類もの具を盛り合わせる冷たいサラダ。11月1日の諸聖人の日に家族で作り、故人をしのびながら分け合う年に一度の特別な料理です。",
+     "wiki_en": "Fiambre",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Fiambre",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Fiambre_-_11042021_%28cropped%29.jpg/960px-Fiambre_-_11042021_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Fiambre_-_11042021_(cropped).jpg",
+      "artist": "Gobierno de Guatemala",
+      "license": "CC0",
+      "page": "https://commons.wikimedia.org/wiki/File:Fiambre_-_11042021_(cropped).jpg"
+     }
+    },
+    {
+     "key": "ホンジュラス",
+     "name": "バレアーダ(Baleada)",
+     "text": "厚めの小麦粉トルティーヤに煮豆のペースト、チーズ、クリームを塗って二つ折りにした軽食。名前は「撃たれた女性」という意味で由来には諸説あり、朝食にも夜食にも愛されています。",
+     "wiki_en": "Baleada",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Baleada",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Baleada.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Baleada.jpg",
+      "artist": "作者不明",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Baleada.jpg"
+     }
+    },
+    {
+     "key": "メキシコ",
+     "name": "エスカモーレ(Escamoles)",
+     "text": "リュウゼツランの根元に巣を作るアリの幼虫とさなぎを、バターや香草で炒めた料理。アステカ時代から食べられ、ナッツのような風味から「メキシコのキャビア」と呼ばれる高級食材です。",
+     "wiki_en": "Escamol",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Escamol",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Escamoles.jpg/960px-Escamoles.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Escamoles.jpg",
+      "artist": "Cvmontuy",
+      "license": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:Escamoles.jpg"
+     }
+    },
+    {
+     "key": "ニカラグア",
+     "name": "ビゴロン(Vigorón)",
+     "text": "ゆでたキャッサバに揚げた豚の皮とキャベツの酢漬けサラダをのせ、バナナの葉に盛って手で食べる料理。古都グラナダの名物で、名前は昔の強壮剤の商品名にちなむといわれます。",
+     "wiki_en": "Vigorón",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Vigor%C3%B3n",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/VIGORON.JPG/960px-VIGORON.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:VIGORON.JPG",
+      "artist": "Nicaraguan food",
+      "license": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:VIGORON.JPG"
+     }
+    },
+    {
+     "key": "パナマ",
+     "name": "サンコーチョ(Sancocho)",
+     "text": "鶏肉とヤムイモを香草クラントロで煮込んだ素朴なスープ。暑い国で熱々を食べるのが驚かれますが、二日酔いや疲れに効く元気の源とされ、パナマの国民食として親しまれています。",
+     "wiki_en": "Sancocho",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Sancocho",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Sancocho_de_espinazo_de_cerdo.jpg/960px-Sancocho_de_espinazo_de_cerdo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Sancocho_de_espinazo_de_cerdo.jpg",
+      "artist": "Daguerreroa",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Sancocho_de_espinazo_de_cerdo.jpg"
+     }
+    },
+    {
+     "key": "アンティグア・バーブーダ",
+     "name": "ドゥカナ(Ducana)",
+     "text": "すりおろしたサツマイモとココナッツに砂糖と香辛料を混ぜ、葉に包んでゆでた甘い団子。お菓子のような甘さなのに、塩漬けタラの煮込みと一緒におかずとして食べるのが定番です。",
+     "wiki_en": "Ducana",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Ducana"
+    },
+    {
+     "key": "バハマ",
+     "name": "コンク・サラダ(Conch salad)",
+     "text": "大きな巻貝コンクの身を生のまま刻み、トマトや玉ねぎ、ライムとオレンジの果汁、唐辛子で和えた料理。屋台で注文すると目の前で貝をさばいて作ってくれる、島の誇りの味です。",
+     "wiki_en": "",
+     "wiki_ja": ""
+    },
+    {
+     "key": "バルバドス",
+     "name": "プディング・アンド・スース(Pudding and souse)",
+     "text": "豚の頭や足の肉をライムと唐辛子で漬けたスースに、味付けしたサツマイモを蒸したプディングを添える料理。土曜日の昼に食べる習慣があり、週末の楽しみとして受け継がれています。",
+     "wiki_en": "Pudding and souse",
+     "wiki_ja": ""
+    },
+    {
+     "key": "キューバ",
+     "name": "ロパ・ビエハ(Ropa vieja)",
+     "text": "牛肉を細かくほぐしてトマトやピーマンと煮込んだ料理。名前は「古着」という意味で、ほぐれた肉がぼろ布のように見えることから。ご飯と黒豆を添えて食べる国民的な家庭料理です。",
+     "wiki_en": "Ropa vieja",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Ropa_vieja",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/RealRopaVieja.jpg/960px-RealRopaVieja.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:RealRopaVieja.jpg",
+      "artist": "TGrey89",
+      "license": "CC0",
+      "page": "https://commons.wikimedia.org/wiki/File:RealRopaVieja.jpg"
+     }
+    },
+    {
+     "key": "ドミニカ国",
+     "name": "マウンテンチキン(Mountain chicken)",
+     "text": "名前は「山の鶏」ですが、正体は島にすむ大型のカエル。鶏肉に似た味でかつては国を代表する料理でした。現在は数が減って手厚く保護され、捕獲は禁じられて国の象徴として大切にされています。",
+     "wiki_en": "Mountain chicken",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Leptodactylus_fallax",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Leptodactylus_fallax_%281%29.jpg/960px-Leptodactylus_fallax_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Leptodactylus_fallax_(1).jpg",
+      "artist": "TimVickers",
+      "license": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:Leptodactylus_fallax_(1).jpg"
+     }
+    },
+    {
+     "key": "ドミニカ共和国",
+     "name": "アビチュエラス・コン・ドゥルセ(Habichuelas con dulce)",
+     "text": "赤いんげん豆をココナッツミルク、牛乳、砂糖、シナモンで甘く煮たデザート。豆を甘くするのは世界では珍しく驚かれますが、復活祭の前に大鍋で作って近所に配る春の風物詩です。",
+     "wiki_en": "Habichuelas con dulce",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Habichuelas_con_dulce",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Habichuelas_con_dulce_dominicana.jpg/960px-Habichuelas_con_dulce_dominicana.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Habichuelas_con_dulce_dominicana.jpg",
+      "artist": "Arlene Campusano",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Habichuelas_con_dulce_dominicana.jpg"
+     }
+    },
+    {
+     "key": "グレナダ",
+     "name": "オイルダウン(Oil down)",
+     "text": "パンノキの実、塩漬け肉、青菜、団子をココナッツミルクとターメリックで煮詰める国民食。汁気がなくなりココナッツの油だけが残るまで煮るのが名前の由来で、大鍋を囲んで皆で作ります。",
+     "wiki_en": "Oil down",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Oil_down",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Cooking_oil_down_03.jpg/960px-Cooking_oil_down_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Cooking_oil_down_03.jpg",
+      "artist": "St. Georges U. S. Embassy",
+      "license": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:Cooking_oil_down_03.jpg"
+     }
+    },
+    {
+     "key": "ハイチ",
+     "name": "スープ・ジュムー(Soup joumou)",
+     "text": "かぼちゃに牛肉、野菜、パスタを加えたスープ。かつて奴隷とされた人々には禁じられていた料理で、独立記念日の1月1日に自由の象徴として食べます。ユネスコ無形文化遺産にも登録されました。",
+     "wiki_en": "Soup joumou",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Soup_joumou",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Soup_joumou.jpg/960px-Soup_joumou.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Soup_joumou.jpg",
+      "artist": "Lëa-Kim Châteauneuf",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Soup_joumou.jpg"
+     }
+    },
+    {
+     "key": "ジャマイカ",
+     "name": "アキー・アンド・ソルトフィッシュ(Ackee and saltfish)",
+     "text": "アキーという果実を塩漬けタラと炒めた国民食。見た目も食感も炒り卵にそっくりな果物で、熟す前は毒があるため、自然に実が開くのを待って使う知恵とともに朝食の定番になっています。",
+     "wiki_en": "Ackee and saltfish",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Ackee_and_saltfish",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Ackee_and_Saltfish.jpg/960px-Ackee_and_Saltfish.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Ackee_and_Saltfish.jpg",
+      "artist": "gailf548 from New York State, USA",
+      "license": "CC BY 2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Ackee_and_Saltfish.jpg"
+     }
+    },
+    {
+     "key": "セントクリストファー・ネービス",
+     "name": "ゴートウォーター(Goat water)",
+     "text": "名前は「ヤギの水」ですが、ヤギ肉をクローブなどの香辛料やパンノキの実と煮込んだ濃厚なシチュー。ネービス島をはじめ周辺の島々で、祭りや集まりに欠かせないごちそうです。",
+     "wiki_en": "Goat water",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Goat_water",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/35/Goat_Water.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Goat_Water.jpg",
+      "artist": "Cbeanstudies",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Goat_Water.jpg"
+     }
+    },
+    {
+     "key": "セントルシア",
+     "name": "グリーンフィグ・アンド・ソルトフィッシュ(Green figs and saltfish)",
+     "text": "「フィグ(いちじく)」と呼びますが、実は熟す前の青いバナナのこと。ゆでて芋のようにほくほくにし、塩漬けタラと香味野菜の炒め物を合わせる国民食で、祝いの日にも並びます。",
+     "wiki_en": "",
+     "wiki_ja": ""
+    },
+    {
+     "key": "セントビンセント・グレナディーン",
+     "name": "焼きパンノキと揚げジャックフィッシュ(Roasted breadfruit and fried jackfish)",
+     "text": "パンノキの実を皮が真っ黒になるまで直火で丸焼きにし、揚げた小魚を添える国民食。果物なのに焼くとパンや芋のような味になるのが驚きで、島では毎年パンノキの祭りも開かれます。",
+     "wiki_en": "",
+     "wiki_ja": ""
+    },
+    {
+     "key": "トリニダード・トバゴ",
+     "name": "ベイク・アンド・シャーク(Bake and shark)",
+     "text": "揚げパンに衣をつけて揚げたサメの身をはさむサンドイッチ。マンゴーのチャツネや香草ソースなどを好みで山盛りにするのが楽しみで、マラカス・ビーチの屋台の名物として知られます。",
+     "wiki_en": "Bake and shark",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Bake_and_shark",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/MISC_Bake_%26_Shark.jpg/960px-MISC_Bake_%26_Shark.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:MISC_Bake_&_Shark.jpg",
+      "artist": "Grueslayer",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:MISC_Bake_%26_Shark.jpg"
+     }
+    }
+   ]
+  },
+  {
+   "name": "南米",
+   "items": [
+    {
+     "key": "アルゼンチン",
+     "name": "チンチュリン(Chinchulín)",
+     "text": "牛の小腸を炭火でカリッと焼き上げた料理。内臓をそのまま味わう点に驚く人もいますが、焼肉の集まり「アサード」では最初に出てくる定番で、レモンを搾って楽しまれています。",
+     "wiki_en": "Chinchulín",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Chunchullo",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Chinchulines.jpg/960px-Chinchulines.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Chinchulines.jpg",
+      "artist": "Sebastian Bassi",
+      "license": "CC BY 2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Chinchulines.jpg"
+     }
+    },
+    {
+     "key": "ボリビア",
+     "name": "チューニョ(Chuño)",
+     "text": "アンデス高地の寒暖差を利用し、ジャガイモを夜に凍らせ、昼に足で踏んで水分を抜いて乾かした保存食。黒や白の小石のような見た目に驚かれますが、何年も保存でき、スープや煮込みに欠かせません。",
+     "wiki_en": "Chuño",
+     "wiki_ja": "チューニョ",
+     "link": "https://en.wikipedia.org/wiki/Chu%C3%B1o",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Chu%C3%B1o.jpg/960px-Chu%C3%B1o.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Chuño.jpg",
+      "artist": "Eric in SF",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Chu%C3%B1o.jpg"
+     }
+    },
+    {
+     "key": "ブラジル",
+     "name": "タカカ(Tacacá)",
+     "text": "キャッサバの汁から作る黄色いスープ「トゥクピ」に、とろりとした澱粉、干しエビ、ジャンブーという葉を入れたアマゾン地方の料理。葉で舌がしびれる感覚が独特で、夕方の屋台でひょうたんの器から味わいます。",
+     "wiki_en": "Tacacá",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Tacac%C3%A1",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Tacac%C3%A1_servido_na_loja_Tacac%C3%A1_do_Norte_em_2016-12-15.jpg/960px-Tacac%C3%A1_servido_na_loja_Tacac%C3%A1_do_Norte_em_2016-12-15.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Tacacá_servido_na_loja_Tacacá_do_Norte_em_2016-12-15.jpg",
+      "artist": "Carlos-alberto-teixeira",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Tacac%C3%A1_servido_na_loja_Tacac%C3%A1_do_Norte_em_2016-12-15.jpg"
+     }
+    },
+    {
+     "key": "チリ",
+     "name": "ピウレ(Piure)",
+     "text": "岩のかたまりのような外見のホヤの仲間で、割ると真っ赤な身が現れます。ヨードを思わせる強い磯の香りが特徴で、レモンと玉ねぎを添えて生で、またはご飯と炊いて、海辺の町で親しまれています。",
+     "wiki_en": "Pyura chilensis",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Pyura_chilensis",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Piure_sobre_un_ostion_y_machas.jpg/960px-Piure_sobre_un_ostion_y_machas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Piure_sobre_un_ostion_y_machas.jpg",
+      "artist": "sergio.majluf",
+      "license": "CC BY 2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Piure_sobre_un_ostion_y_machas.jpg"
+     }
+    },
+    {
+     "key": "コロンビア",
+     "name": "オルミガ・クローナ(Hormiga culona)",
+     "text": "サンタンデール県に伝わる、大きなハキリアリの女王アリを塩で炒った食べ物。昆虫を食べることに驚かれますが、香ばしくナッツのような味わいで、雨季の限られた時期に採れる貴重な名物として贈り物にもされます。",
+     "wiki_en": "Hormiga culona",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Atta_laevigata",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Atta_laevigata_casent0173811_profile_1.jpg/960px-Atta_laevigata_casent0173811_profile_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Atta_laevigata_casent0173811_profile_1.jpg",
+      "artist": "April Nobile",
+      "license": "CC BY 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Atta_laevigata_casent0173811_profile_1.jpg"
+     }
+    },
+    {
+     "key": "エクアドル",
+     "name": "グアティータ(Guatita)",
+     "text": "牛の胃袋(ハチノス)をジャガイモと一緒にピーナッツソースで煮込んだ料理。内臓とピーナッツの組み合わせが意外ですが、まろやかでコクがあり、ご飯やアボカドを添えた家庭の味として愛されています。",
+     "wiki_en": "Guatitas",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Guatita",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Guatita_%28gastronom%C3%ADa_Ecuatoriana%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Guatita_(gastronomía_Ecuatoriana).jpg",
+      "artist": "Kevinmero",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Guatita_(gastronom%C3%ADa_Ecuatoriana).jpg"
+     }
+    },
+    {
+     "key": "ガイアナ",
+     "name": "ペッパーポット(Pepperpot)",
+     "text": "キャッサバの汁を煮詰めた黒いソース「カサリープ」で肉を長時間煮込む、先住民由来の料理。真っ黒な見た目に驚かれますが、甘く香り高い味わいで、クリスマスの朝にパンと一緒に食べる習慣があります。",
+     "wiki_en": "Guyanese pepperpot",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Guyanese_pepperpot",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Pepperpot_%2816135006279%29.jpg/960px-Pepperpot_%2816135006279%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Pepperpot_(16135006279).jpg",
+      "artist": "Simon Abrams from Brooklyn, USA",
+      "license": "CC BY 2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Pepperpot_(16135006279).jpg"
+     }
+    },
+    {
+     "key": "パラグアイ",
+     "name": "ソパ・パラグアージャ(Sopa paraguaya)",
+     "text": "名前は「パラグアイのスープ」なのに、実際はトウモロコシ粉とチーズ、玉ねぎ、牛乳を混ぜて焼いた固形のケーキ状の料理。「世界で唯一の固いスープ」と呼ばれ、祝いの席や焼肉の付け合わせに欠かせません。",
+     "wiki_en": "Sopa paraguaya",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Sopa_paraguaya",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/58/Sopa_Paraguaya_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Sopa_Paraguaya_2.jpg",
+      "artist": "Aterovi",
+      "license": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:Sopa_Paraguaya_2.jpg"
+     }
+    },
+    {
+     "key": "ペルー",
+     "name": "アンティクーチョ(Anticucho)",
+     "text": "牛の心臓(ハツ)を唐辛子や酢のたれに漬け込み、串に刺して炭火で焼いた料理。心臓を使う点に驚かれますが、弾力のある食感と香ばしさが人気で、夕暮れの屋台に行列ができる国民的な味です。",
+     "wiki_en": "Anticucho",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Anticucho",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Anticuchos_-_Grilled_Beef_Heart_skewers.jpg/960px-Anticuchos_-_Grilled_Beef_Heart_skewers.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Anticuchos_-_Grilled_Beef_Heart_skewers.jpg",
+      "artist": "Carly & Art",
+      "license": "CC BY-SA 2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Anticuchos_-_Grilled_Beef_Heart_skewers.jpg"
+     }
+    },
+    {
+     "key": "スリナム",
+     "name": "ポム(Pom)",
+     "text": "ポムタヤーという芋をすりおろし、鶏肉と柑橘の果汁を合わせてオーブンで焼いた料理。芋の生地で肉を包み焼く発想が珍しく、「ポムのない誕生日はない」と言われるほど祝いの席に欠かせません。",
+     "wiki_en": "Pom (dish)",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Pom_(dish)",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Pom_gerecht.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Pom_gerecht.JPG",
+      "artist": "No machine-readable author provided. Alfredo1980 assumed (ba",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Pom_gerecht.JPG"
+     }
+    },
+    {
+     "key": "ウルグアイ",
+     "name": "チビート(Chivito)",
+     "text": "名前は「子ヤギ」という意味なのに、ヤギ肉は入っていないサンドイッチ。薄い牛ステーキにハム、チーズ、卵、野菜などを豪快に重ねた大ボリュームの一品で、国を代表する軽食として親しまれています。",
+     "wiki_en": "Chivito (sandwich)",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Chivito_(sandwich)",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/48/Chivito1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Chivito1.jpg",
+      "artist": "Carlinosin at English Wikipedia",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Chivito1.jpg"
+     }
+    },
+    {
+     "key": "ベネズエラ",
+     "name": "アヤカ(Hallaca)",
+     "text": "トウモロコシの生地に肉の煮込み、レーズン、オリーブ、ケッパーを包み、バナナの葉でくるんでゆでた料理。甘みと塩気が同居する具が意外ですが、クリスマスに家族総出で作る大切な行事食です。",
+     "wiki_en": "Hallaca",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Hallaca",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Hallacas_con_pan_de_jamon%2C_plato_Venezuelano.jpg/960px-Hallacas_con_pan_de_jamon%2C_plato_Venezuelano.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Hallacas_con_pan_de_jamon,_plato_Venezuelano.jpg",
+      "artist": "Wilfredor",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Hallacas_con_pan_de_jamon,_plato_Venezuelano.jpg"
+     }
+    }
+   ]
+  },
+  {
+   "name": "オセアニア",
+   "items": [
+    {
+     "key": "オーストラリア",
+     "name": "ベジマイト(Vegemite)",
+     "text": "ビール酵母のエキスから作る濃い茶色のペースト。強い塩気と独特の香りに初めての人は驚くが、現地ではバターを塗ったトーストに薄くのばすのが朝食の定番で、子どもの頃から親しまれている国民的な味。",
+     "wiki_en": "Vegemite",
+     "wiki_ja": "ベジマイト",
+     "link": "https://en.wikipedia.org/wiki/Vegemite",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/84/Vegemite_brand_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Vegemite_brand_logo.png",
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:Vegemite_brand_logo.png"
+     }
+    },
+    {
+     "key": "ニュージーランド",
+     "name": "ハンギ(Hāngī)",
+     "text": "地面に掘った穴に焼いた石を入れ、肉や芋、野菜を包んで土をかぶせ、数時間かけて蒸し焼きにするマオリの伝統料理。土の中で料理する姿に驚かれるが、祝いごとや集まりに欠かせないごちそう。",
+     "wiki_en": "Hāngī",
+     "wiki_ja": "ハンギ",
+     "link": "https://en.wikipedia.org/wiki/H%C4%81ng%C4%AB",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Hangi_prepare.jpg/960px-Hangi_prepare.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Hangi_prepare.jpg",
+      "artist": "Einalem",
+      "license": "CC BY-SA 2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Hangi_prepare.jpg"
+     }
+    },
+    {
+     "key": "フィジー",
+     "name": "ココンダ(Kokoda)",
+     "text": "生の魚をライムやレモンの果汁でしめ、ココナッツミルク、玉ねぎ、唐辛子などと和えた冷たい料理。火を使わず酸で身を白く仕上げる点が驚かれるが、さわやかな味わいで、もてなしの前菜として愛されている。",
+     "wiki_en": "Kokoda (dish)",
+     "wiki_ja": ""
+    },
+    {
+     "key": "パプアニューギニア",
+     "name": "ムームー(Mumu)",
+     "text": "地面の穴に焼いた石を敷き、豚肉やサツマイモ、青菜などをバナナの葉で包んで蒸し焼きにする伝統料理。大がかりな土中の調理に驚かれるが、祝祭や大切な集まりで皆が分け合って食べるごちそう。",
+     "wiki_en": "Mumu (food)",
+     "wiki_ja": ""
+    },
+    {
+     "key": "ソロモン諸島",
+     "name": "ポイ(発酵させたタロイモ)",
+     "text": "タロイモを蒸してつぶし、発酵させて作る伝統的な主食。ほのかな酸味と粘りのある食感が初めての人には意外に感じられるが、保存がきく知恵の食べ物として、魚料理などと一緒に親しまれてきた。",
+     "wiki_en": "",
+     "wiki_ja": ""
+    },
+    {
+     "key": "バヌアツ",
+     "name": "ラプラプ(Laplap)",
+     "text": "ヤムイモやタロイモ、バナナなどをすりおろして生地にし、ココナッツミルクや肉、魚をのせてバナナの葉で包み、焼き石で蒸し焼きにする国民食。もっちりした食感が特徴で、行事や家族の食卓に欠かせない。",
+     "wiki_en": "Laplap",
+     "wiki_ja": "ラプラプ",
+     "link": "https://en.wikipedia.org/wiki/Laplap",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Laplap_sosor.jpg/960px-Laplap_sosor.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Laplap_sosor.jpg",
+      "artist": "Lenzo Nimoho",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Laplap_sosor.jpg"
+     }
+    },
+    {
+     "key": "キリバス",
+     "name": "カレウェ(Karewe)",
+     "text": "ココヤシの花の房を切って集める甘い樹液。木に登って毎日採る姿と、樹液をそのまま飲むことに驚かれるが、真水の乏しい環礁で貴重な飲み物であり、煮つめてシロップにするなど暮らしを支えている。",
+     "wiki_en": "",
+     "wiki_ja": ""
+    },
+    {
+     "key": "マーシャル諸島",
+     "name": "ブウィロ(Bwiro)",
+     "text": "パンノキの実を発酵させて保存し、練ってココナッツミルクなどと合わせ、葉で包んで焼いた伝統食。発酵による独特の香りと酸味に驚かれるが、実りの少ない時期を支える保存の知恵として受け継がれている。",
+     "wiki_en": "",
+     "wiki_ja": ""
+    },
+    {
+     "key": "ミクロネシア連邦",
+     "name": "サカウ(Sakau)",
+     "text": "コショウ科の植物の根を石の上でたたいてつぶし、ハイビスカスの樹皮で絞って作るポンペイ島の伝統飲料。とろみのある土の風味と舌がしびれる感覚に驚かれるが、儀礼や語らいの場で大切にされている。",
+     "wiki_en": "Kava",
+     "wiki_ja": "カヴァ",
+     "link": "https://en.wikipedia.org/wiki/Kava",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Starr_070515-7054_Piper_methysticum.jpg/960px-Starr_070515-7054_Piper_methysticum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Starr_070515-7054_Piper_methysticum.jpg",
+      "artist": "Forest & Kim Starr",
+      "license": "CC BY 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Starr_070515-7054_Piper_methysticum.jpg"
+     }
+    },
+    {
+     "key": "ナウル",
+     "name": "ココナッツフィッシュ",
+     "text": "生のマグロなどの魚をライム果汁とココナッツミルクで和えた料理。島の周りでとれる新鮮な魚を火を通さずに味わう点が驚かれることもあるが、海に囲まれた暮らしに根ざした身近な一品として親しまれている。",
+     "wiki_en": "",
+     "wiki_ja": ""
+    },
+    {
+     "key": "パラオ",
+     "name": "フルーツコウモリのスープ",
+     "text": "果物を食べるオオコウモリを丸ごとココナッツミルクやショウガなどと煮込んだスープ。姿のまま器に盛られる見た目に驚かれるが、古くから伝わる特別な料理で、今も一部の食堂で味わうことができる。",
+     "wiki_en": "",
+     "wiki_ja": ""
+    },
+    {
+     "key": "サモア",
+     "name": "パルサミ(Palusami)",
+     "text": "若いタロイモの葉でココナッツクリームを包み、焼き石のかまど「ウム」で蒸し焼きにした料理。葉っぱの包みをそのまま食べる姿に驚かれるが、とろりと濃厚な味で、日曜のごちそうの定番として愛されている。",
+     "wiki_en": "Palusami",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/L%C5%AB%CA%BBau_(food)",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Luaulau.png/960px-Luaulau.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Luaulau.png",
+      "artist": "Chedlund808",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Luaulau.png"
+     }
+    },
+    {
+     "key": "トンガ",
+     "name": "オタ・イカ('Ota 'ika)",
+     "text": "生の魚を柑橘の果汁でしめ、ココナッツミルクと刻んだ野菜で和えた料理。酸で魚の身を白く仕上げる作り方が驚かれるが、さっぱりとまろやかな味わいで、家庭でも祝いの席でも親しまれている。",
+     "wiki_en": "ʻOta ʻika",
+     "wiki_ja": ""
+    },
+    {
+     "key": "ツバル",
+     "name": "プラカ(Pulaka)",
+     "text": "サンゴの島に深い穴を掘り、落ち葉などを積んで育てる大きな湿地タロイモ。生では食べられず長く加熱する必要があることや、穴で育てる栽培法に驚かれるが、島の暮らしを支える大切な主食。",
+     "wiki_en": "Pulaka",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Pulaka",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Pulaka_pit_%282570411598%29.jpg/960px-Pulaka_pit_%282570411598%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Pulaka_pit_(2570411598).jpg",
+      "artist": "Luigi Guarino from Rome, Italy",
+      "license": "CC BY 2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Pulaka_pit_(2570411598).jpg"
+     }
+    }
+   ]
+  }
+ ],
+ "count": 195,
+ "photos": 158,
+ "missing": 0,
+ "failed": []
+}
