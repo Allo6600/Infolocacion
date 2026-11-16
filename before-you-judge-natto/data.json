@@ -1,0 +1,2506 @@
+{
+ "topic": "日本の納豆をけなされたときのために、世界中の変な料理を国ごとに(195か国くらい)写真付きで集める",
+ "title": "Before You Judge Natto: Bold Dishes from 195 Countries",
+ "slug": "before-you-judge-natto",
+ "lead": "Someone just wrinkled their nose at Japan's beloved sticky, stringy natto? Take a photo tour of the world: every country has a dish that surprises outsiders and is treasured at home. Here is one wonderfully bold, acquired-taste food from each of 195 countries, proof that \"strange\" just means \"not from your kitchen.\"",
+ "created": "2026-11-17",
+ "engines": [
+  "claude"
+ ],
+ "groups": [
+  {
+   "name": "Africa",
+   "items": [
+    {
+     "key": "Algeria",
+     "name": "Sheep's Head (Bouzellouf)",
+     "text": "A whole sheep's head, singed, cleaned and slowly stewed or steamed with garlic, cumin and chili. Visitors are startled to see the face on the plate; Algerian families treasure it as a festive dish, especially after Eid al-Adha.",
+     "wiki_en": "",
+     "wiki_ja": ""
+    },
+    {
+     "key": "Angola",
+     "name": "Chicken in Red Palm Oil Stew (Moamba de Galinha)",
+     "text": "Chicken simmered with okra, garlic and thick red palm oil or palm butter. The vivid orange colour and rich, earthy oil surprise newcomers. Angolans eat it with funge, a smooth, stretchy cassava porridge, and consider it a national dish.",
+     "wiki_en": "Moambe chicken",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Moambe_chicken",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Poulet_%C3%A0_la_moambe.JPG/960px-Poulet_%C3%A0_la_moambe.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Poulet_à_la_moambe.JPG",
+      "artist": "Brigade Piron",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Poulet_%C3%A0_la_moambe.JPG"
+     }
+    },
+    {
+     "key": "Benin",
+     "name": "Fermented Locust Bean Seasoning (Afitin)",
+     "text": "Seeds of the African locust bean tree, boiled and fermented into a dark, powerfully aromatic paste. Its strong smell and savoury depth make it a close cousin of natto. Beninese cooks stir it into sauces and stews as a seasoning.",
+     "wiki_en": "",
+     "wiki_ja": ""
+    },
+    {
+     "key": "Botswana",
+     "name": "Mopane Worms (Phane)",
+     "text": "Large caterpillars of the emperor moth, harvested from mopane trees, then boiled and sun-dried. Outsiders hesitate at eating caterpillars, but they are rich in protein. Locals snack on them crunchy or stew them with tomato and onion.",
+     "wiki_en": "Gonimbrasia belina",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Gonimbrasia_belina",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Colophospermum_mopane_50D_0486.jpg/960px-Colophospermum_mopane_50D_0486.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Colophospermum_mopane_50D_0486.jpg",
+      "artist": "SAplants",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Colophospermum_mopane_50D_0486.jpg"
+     }
+    },
+    {
+     "key": "Burkina Faso",
+     "name": "Fermented Locust Bean Balls (Soumbala)",
+     "text": "African locust bean seeds boiled, fermented and pressed into dark balls with an intense aroma. Like natto, it is a fermented bean whose smell divides first-timers. Burkinabè cooks crumble it into sauces and rice dishes for deep umami.",
+     "wiki_en": "Sumbala",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Iru_(condiment)"
+    },
+    {
+     "key": "Burundi",
+     "name": "Dried Lake Sardines (Ndagala)",
+     "text": "Tiny silvery fish from Lake Tanganyika, sun-dried whole and eaten heads, bones and all. The sight of hundreds of little eyes can surprise visitors. Burundians fry them crisp or cook them in tomato sauce, served with cassava or ugali.",
+     "wiki_en": "Lake Tanganyika sardine",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Lake_Tanganyika_sardine",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Limio_u0.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Limio_u0.gif",
+      "artist": "Unknown author",
+      "license": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:Limio_u0.gif"
+     }
+    },
+    {
+     "key": "Cabo Verde",
+     "name": "Slow-Cooked Hominy and Bean Stew (Cachupa)",
+     "text": "A national dish of hominy corn and beans simmered for hours with fish, sausage or pork and vegetables. What surprises visitors is the breakfast version: leftovers refried with onion and topped with a fried egg, called cachupa refogada.",
+     "wiki_en": "Cachupa",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Cachupa",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Cachupa_2.jpg/960px-Cachupa_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Cachupa_2.jpg",
+      "artist": "Xandu",
+      "license": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:Cachupa_2.jpg"
+     }
+    },
+    {
+     "key": "Cameroon",
+     "name": "Bitterleaf and Peanut Stew (Ndolé)",
+     "text": "A thick stew of bitterleaf greens, ground peanuts, and shrimp or beef. The leaves are washed repeatedly to tame their strong bitterness, which still surprises newcomers. Cameroonians serve it proudly at celebrations with plantains or cassava sticks.",
+     "wiki_en": "Ndolé",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Ndol%C3%A9",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/91/Ndol%C3%A8_%C3%A0_la_viande%2C_morue_et_crevettes.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Ndolè_à_la_viande,_morue_et_crevettes.jpg",
+      "artist": "Coco lago",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Ndol%C3%A8_%C3%A0_la_viande,_morue_et_crevettes.jpg"
+     }
+    },
+    {
+     "key": "Central African Republic",
+     "name": "Cassava Leaf Stew (Ngunza)",
+     "text": "Cassava leaves pounded and simmered for a long time with peanut paste, tomato and sometimes meat or fish. Many are surprised that the leaves must be thoroughly cooked to be safe to eat. It is enjoyed with cassava dough or rice.",
+     "wiki_en": "",
+     "wiki_ja": ""
+    },
+    {
+     "key": "Chad",
+     "name": "Dried Okra Stew (Daraba)",
+     "text": "A thick stew of okra, often dried and powdered, cooked with tomatoes, greens and peanut paste. Its slippery, stringy texture surprises first-timers, much as natto does. Chadians scoop it up with boule, a firm ball of millet or sorghum porridge.",
+     "wiki_en": "Daraba",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Leucinodes",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Leucinodes_orbonalis.jpg/960px-Leucinodes_orbonalis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Leucinodes_orbonalis.jpg",
+      "artist": "Donald Hobern",
+      "license": "CC BY 2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Leucinodes_orbonalis.jpg"
+     }
+    },
+    {
+     "key": "Comoros",
+     "name": "Lobster in Vanilla Sauce (Langouste à la Vanille)",
+     "text": "Grilled or sautéed lobster served in a creamy sauce infused with locally grown vanilla. Visitors expect vanilla only in desserts, so its perfume with seafood comes as a surprise. It is a celebrated dish of the islands, often served with rice.",
+     "wiki_en": "Langouste a la vanille",
+     "wiki_ja": ""
+    },
+    {
+     "key": "Republic of the Congo",
+     "name": "Fermented Cassava Sticks (Chikwangue)",
+     "text": "Cassava soaked for days to ferment, pounded into dough, wrapped in leaves and steamed into dense, chewy loaves. The tangy sour smell and rubbery texture surprise newcomers. Congolese eat slices with grilled fish, stews or saka-saka cassava leaves.",
+     "wiki_en": "Chikwangue",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Chikwangue",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/07/Cassava_Bread_-_cassava_cooked_in_leaf_wrap_%28Kwanga%2C_Chikwangue%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Cassava_Bread_-_cassava_cooked_in_leaf_wrap_(Kwanga,_Chikwangue).jpg",
+      "artist": "T.K. Naliaka",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Cassava_Bread_-_cassava_cooked_in_leaf_wrap_(Kwanga,_Chikwangue).jpg"
+     }
+    },
+    {
+     "key": "Democratic Republic of the Congo",
+     "name": "Mbinzo Caterpillars",
+     "text": "Caterpillars gathered from forest trees, sold fresh or dried in markets across the country. Eating insects surprises many visitors, yet they are a valued seasonal source of protein. Locals fry them with onion and chili or simmer them in tomato sauce.",
+     "wiki_en": "",
+     "wiki_ja": ""
+    },
+    {
+     "key": "Côte d'Ivoire",
+     "name": "Fermented Cassava Couscous (Attiéké)",
+     "text": "Grated cassava that is fermented, pressed, dried and steamed into fluffy grains resembling couscous. Its gentle sour tang surprises people who expect a neutral starch. Ivorians eat it daily with grilled fish or chicken, raw onion, tomato and chili.",
+     "wiki_en": "Attiéké",
+     "wiki_ja": "アチェケ",
+     "link": "https://en.wikipedia.org/wiki/Acheke",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Attieke.JPG/960px-Attieke.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Attieke.JPG",
+      "artist": "Serein",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Attieke.JPG"
+     }
+    },
+    {
+     "key": "Djibouti",
+     "name": "Spiced Meat and Rice (Skoudehkaris)",
+     "text": "A one-pot national dish of lamb or goat cooked with rice, tomato, cardamom, cumin and cloves. Visitors are often surprised by how fragrant the cardamom makes it. Families traditionally share it from a large common platter, eating by hand.",
+     "wiki_en": "Skudahkharis",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Bariis_iskukaris",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Somalicamelmeat.jpg/960px-Somalicamelmeat.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Somalicamelmeat.jpg",
+      "artist": "Richard Faulder",
+      "license": "CC BY 2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Somalicamelmeat.jpg"
+     }
+    },
+    {
+     "key": "Egypt",
+     "name": "Fermented Salted Mullet (Feseekh)",
+     "text": "Grey mullet dried in the sun, then cured in salt for weeks until soft and extremely pungent. Its smell is legendary, and it must be prepared by skilled makers. Egyptians eat it with bread, onions and lemon at the spring festival Sham el-Nessim.",
+     "wiki_en": "Fesikh",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Fesikh",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Fesikh_of_Desouk.JPG/960px-Fesikh_of_Desouk.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Fesikh_of_Desouk.JPG",
+      "artist": "Faris knight",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Fesikh_of_Desouk.JPG"
+     }
+    },
+    {
+     "key": "Equatorial Guinea",
+     "name": "Giant African Land Snails",
+     "text": "Large forest snails, far bigger than European escargots, cleaned and cooked in spicy tomato or peanut-based sauces. Their size and firm, chewy bite surprise visitors. They are sold in local markets and enjoyed with plantains, cassava or rice.",
+     "wiki_en": "",
+     "wiki_ja": ""
+    },
+    {
+     "key": "Eritrea",
+     "name": "Sour Fermented Flatbread (Injera) with Zigni",
+     "text": "A large, spongy flatbread made from batter fermented for several days, giving it a distinctly sour taste. Newcomers are surprised that it serves as plate and utensil at once. Eritreans tear off pieces to scoop up zigni, a spicy meat stew.",
+     "wiki_en": "Injera",
+     "wiki_ja": "インジェラ",
+     "link": "https://en.wikipedia.org/wiki/Injera",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Injera_with_eight_kinds_of_stew.jpg/960px-Injera_with_eight_kinds_of_stew.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Injera_with_eight_kinds_of_stew.jpg",
+      "artist": "Artem.G",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Injera_with_eight_kinds_of_stew.jpg"
+     }
+    },
+    {
+     "key": "Eswatini",
+     "name": "Fermented Sour Porridge (Incwancwa)",
+     "text": "A porridge made from maize meal left to ferment before cooking, giving it a pronounced sour taste. Visitors expecting sweet or bland porridge are surprised by the tang. Emaswati commonly enjoy it for breakfast, often sweetened with a little sugar.",
+     "wiki_en": "",
+     "wiki_ja": ""
+    },
+    {
+     "key": "Ethiopia",
+     "name": "Raw Beef Cubes (Tere Siga)",
+     "text": "Fresh raw beef cut into cubes or strips straight from the butcher's counter and eaten uncooked. Eating raw meat surprises many visitors. Ethiopians enjoy it at celebrations, dipped in mitmita chili powder or awaze sauce, with injera.",
+     "wiki_en": "",
+     "wiki_ja": ""
+    },
+    {
+     "key": "Gabon",
+     "name": "Chicken in Palm Nut Sauce (Poulet Nyembwe)",
+     "text": "Chicken slowly cooked in a thick sauce pressed from the pulp of palm nuts, with garlic, onion and chili. Its deep red colour and rich, nutty flavour surprise newcomers. Regarded as a national dish, it is served with rice, plantains or cassava.",
+     "wiki_en": "Poulet nyembwe",
+     "wiki_ja": ""
+    },
+    {
+     "key": "Gambia",
+     "name": "Peanut Stew (Domoda)",
+     "text": "A thick stew of ground peanut paste, tomato and vegetables with beef, chicken or fish. Visitors are often surprised to find peanut butter as the base of a savoury main course. Gambians ladle it over rice as a beloved national dish.",
+     "wiki_en": "Domoda",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Domoda",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Domoda_Senegal.jpg/960px-Domoda_Senegal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Domoda_Senegal.jpg",
+      "artist": "Marshiayers",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Domoda_Senegal.jpg"
+     }
+    },
+    {
+     "key": "Ghana",
+     "name": "Fermented Corn Dough Dumpling (Kenkey)",
+     "text": "Corn dough fermented for days, partly cooked, wrapped in corn husks or plantain leaves and steamed into dense balls. Its sour aroma and tang surprise first-timers. Ghanaians eat it by hand with fried fish and fiery pepper sauces like shito.",
+     "wiki_en": "Kenkey",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Kenkey",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Kenkey_and_ground_pepper_with_sardine.jpg/960px-Kenkey_and_ground_pepper_with_sardine.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Kenkey_and_ground_pepper_with_sardine.jpg",
+      "artist": "Mwintirew",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Kenkey_and_ground_pepper_with_sardine.jpg"
+     }
+    },
+    {
+     "key": "Guinea",
+     "name": "Fermented Locust Bean Seasoning (Soumbara)",
+     "text": "African locust bean seeds boiled and fermented into a dark, strong-smelling paste or balls. Like natto, it is a fermented bean with an aroma that startles newcomers. Guinean cooks add it to leaf sauces and stews served over rice.",
+     "wiki_en": "Sumbala",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Iru_(condiment)"
+    },
+    {
+     "key": "Guinea-Bissau",
+     "name": "Chicken in Palm Fruit Sauce (Caldo de Chabéu)",
+     "text": "Chicken or fish simmered in a thick, orange-red sauce pressed from palm fruit, often with okra and chili. The richness and colour of the palm fruit surprise visitors. It is a favourite home-cooked dish, always served over rice.",
+     "wiki_en": "",
+     "wiki_ja": ""
+    },
+    {
+     "key": "Kenya",
+     "name": "Mursik",
+     "text": "A fermented milk of the Kalenjin people, cured in a gourd lined with charcoal from specific trees. The smoky, sour taste and grey-flecked look surprise newcomers. It is served at celebrations and famously offered to returning champion athletes.",
+     "wiki_en": "Mursik",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Mursik",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Kipsigis_Gourd.jpg/960px-Kipsigis_Gourd.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Kipsigis_Gourd.jpg",
+      "artist": "Stephenwanjau",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Kipsigis_Gourd.jpg"
+     }
+    },
+    {
+     "key": "Lesotho",
+     "name": "Fermented sorghum porridge (Motoho)",
+     "text": "A smooth sorghum porridge left to ferment until pleasantly sour. Visitors expecting sweet breakfast porridge are surprised by its tang. Basotho families enjoy it chilled or warm as a refreshing drink-like meal, often with sugar added.",
+     "wiki_en": "",
+     "wiki_ja": ""
+    },
+    {
+     "key": "Liberia",
+     "name": "Cassava leaf stew",
+     "text": "Cassava leaves pounded fine and simmered for hours with palm oil, meat, smoked fish and chili. The dark green, dense appearance surprises first-timers, but the flavor is rich and savory. Liberians eat it over generous mounds of rice.",
+     "wiki_en": "",
+     "wiki_ja": ""
+    },
+    {
+     "key": "Libya",
+     "name": "Bazin",
+     "text": "A firm dome of barley dough, boiled and beaten smooth with a stick, set in the middle of a tomato and lamb stew. There is no cutlery: families gather around one bowl and eat with the right hand.",
+     "wiki_en": "Bazin (bread)",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Bazin_(bread)",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Bazin.jpg/960px-Bazin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Bazin.jpg",
+      "artist": "Libiya11",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Bazin.jpg"
+     }
+    },
+    {
+     "key": "Madagascar",
+     "name": "Romazava",
+     "text": "The national stew of beef and mixed greens, including paracress flowers that make the lips and tongue tingle and go slightly numb. That electric buzz startles visitors. Malagasy families ladle it over rice for everyday meals.",
+     "wiki_en": "Romazava",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Romazava",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Madagaskar_stew_2019-10-01.jpg/960px-Madagaskar_stew_2019-10-01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Madagaskar_stew_2019-10-01.jpg",
+      "artist": "Z thomas",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Madagaskar_stew_2019-10-01.jpg"
+     }
+    },
+    {
+     "key": "Malawi",
+     "name": "Dried lake fish (Usipa)",
+     "text": "Tiny sardine-like fish from Lake Malawi, sun-dried on racks along the shore and eaten whole, heads and all. The strong aroma surprises visitors. Locals fry or stew them with tomato and onion, served with nsima maize porridge.",
+     "wiki_en": "Lake Malawi sardine",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Lake_Malawi_sardine",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Pesce_ad_essiccare_sulla_riva_del_lago_malawi.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Pesce_ad_essiccare_sulla_riva_del_lago_malawi.JPG",
+      "artist": "Gigi sorrentino",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Pesce_ad_essiccare_sulla_riva_del_lago_malawi.JPG"
+     }
+    },
+    {
+     "key": "Mali",
+     "name": "Tô with okra sauce",
+     "text": "A firm millet or sorghum porridge served with a slippery okra or baobab-leaf sauce. The stretchy, stringy texture is what surprises newcomers, much like natto. Families pinch off pieces by hand and dip them in the shared sauce.",
+     "wiki_en": "",
+     "wiki_ja": ""
+    },
+    {
+     "key": "Mauritania",
+     "name": "Camel milk (Zrig)",
+     "text": "A cool drink of fermented or fresh milk, often camel's, mixed with water and sugar. Its slightly salty, tangy taste surprises visitors. It is offered to guests in a shared bowl as a traditional gesture of desert hospitality.",
+     "wiki_en": "Camel milk",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Camel_milk",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/74/Fresh_camel_milk_%28Dubai%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Fresh_camel_milk_(Dubai)_(cropped).jpg",
+      "artist": "krebsmaus07 from Flickr",
+      "license": "CC BY 2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Fresh_camel_milk_(Dubai)_(cropped).jpg"
+     }
+    },
+    {
+     "key": "Mauritius",
+     "name": "Octopus curry (Cari ourite)",
+     "text": "Octopus simmered in a Creole curry of turmeric, garlic, thyme and curry leaves. Visitors are often struck by octopus hung out to dry in the sun on Rodrigues island. Locals eat it with rice, lentils and pickles.",
+     "wiki_en": "",
+     "wiki_ja": ""
+    },
+    {
+     "key": "Morocco",
+     "name": "Snail soup (Babbouche)",
+     "text": "Small snails simmered in a broth of a dozen or more spices and herbs, sold from street carts. Diners pick the snails out with a toothpick, then drink the peppery broth, valued as a warming remedy on cool evenings.",
+     "wiki_en": "",
+     "wiki_ja": ""
+    },
+    {
+     "key": "Mozambique",
+     "name": "Matapa",
+     "text": "Cassava leaves pounded and slowly cooked with ground peanuts, garlic and coconut milk, often with crab or shrimp. The thick green look can surprise visitors, yet the taste is creamy and nutty. It is eaten with rice or xima.",
+     "wiki_en": "Matapa",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Matapa",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Matapa.jpg/960px-Matapa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Matapa.jpg",
+      "artist": "PrestigiousSwazi",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Matapa.jpg"
+     }
+    },
+    {
+     "key": "Namibia",
+     "name": "Smiley (roasted goat head)",
+     "text": "A whole goat's head, singed and boiled or roasted until tender, named for the grin it takes on while cooking. The presentation startles newcomers. It is a popular market food, with the cheeks and tongue especially prized.",
+     "wiki_en": "Smiley (food)",
+     "wiki_ja": ""
+    },
+    {
+     "key": "Niger",
+     "name": "Kilishi",
+     "text": "Paper-thin sheets of beef, sun-dried, coated in a spicy peanut paste and briefly grilled. Its size surprises people: sheets can be as large as a tray. Long-lasting and intensely flavored, it is a favorite travel snack and gift.",
+     "wiki_en": "Kilishi",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Kilishi",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/%22Kilishi%22.JPG/960px-%22Kilishi%22.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:\"Kilishi\".JPG",
+      "artist": "Abubakar M. Ahmad",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:%22Kilishi%22.JPG"
+     }
+    },
+    {
+     "key": "Nigeria",
+     "name": "Fermented locust beans (Iru / Dawadawa)",
+     "text": "African locust beans boiled and fermented into a pungent, sticky seasoning, a close cousin of natto in both smell and method. The powerful aroma surprises newcomers. Cooks stir it into soups and stews for deep savory flavor.",
+     "wiki_en": "Iru (food)",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Iru_(condiment)"
+    },
+    {
+     "key": "Rwanda",
+     "name": "Isombe",
+     "text": "Cassava leaves pounded in a mortar and simmered at length with onions, eggplant and palm oil or peanut paste. The leaves must be cooked thoroughly to be safe to eat, which surprises many. It accompanies rice, plantains or ugali.",
+     "wiki_en": "",
+     "wiki_ja": ""
+    },
+    {
+     "key": "São Tomé and Príncipe",
+     "name": "Calulu",
+     "text": "A slow-cooked stew of smoked or dried fish, okra, eggplant, many leafy greens and palm oil, traditionally simmered for hours. The sheer number of herbs and leaves surprises visitors. It is served with rice or mashed plantain.",
+     "wiki_en": "Calulu",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Calulu",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Calulu.jpg/960px-Calulu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Calulu.jpg",
+      "artist": "elingunnur",
+      "license": "CC BY 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Calulu.jpg"
+     }
+    },
+    {
+     "key": "Senegal",
+     "name": "Fermented sea snail (Yéet)",
+     "text": "Sea snail meat fermented and dried into a seasoning with a famously strong smell. A small piece adds deep umami to thieboudienne, the national rice and fish dish. Visitors notice the aroma first; cooks consider it essential.",
+     "wiki_en": "",
+     "wiki_ja": ""
+    },
+    {
+     "key": "Seychelles",
+     "name": "Fruit bat curry (Kari sousouri)",
+     "text": "Fruit bat cooked in a Creole curry with spices. The idea surprises many visitors, and the meat has many small bones that need patient eating. It is a traditional Seychellois dish, served with rice at home and in Creole restaurants.",
+     "wiki_en": "",
+     "wiki_ja": ""
+    },
+    {
+     "key": "Sierra Leone",
+     "name": "Fermented sesame seeds (Ogiri)",
+     "text": "A strong-smelling paste made by fermenting oil seeds, sesame in Sierra Leone, used as a seasoning. Like natto, the aroma surprises newcomers while the taste brings rich depth. A little is stirred into cassava leaf and other stews.",
+     "wiki_en": "Ogiri",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Ogiri",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Ogiri_Igbo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Ogiri_Igbo.jpg",
+      "artist": "IfyClassique",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Ogiri_Igbo.jpg"
+     }
+    },
+    {
+     "key": "Somalia",
+     "name": "Camel meat (Hilib geel)",
+     "text": "Camel meat, slow-cooked or fried until tender and served on spiced rice. Visitors are often surprised by the prized fatty hump and by the banana eaten alongside the meal. It is a food of celebration and hospitality.",
+     "wiki_en": "",
+     "wiki_ja": ""
+    },
+    {
+     "key": "South Africa",
+     "name": "Mopane worms",
+     "text": "Caterpillars of the emperor moth, harvested from mopane trees, then dried or smoked. Eating a caterpillar surprises visitors, but it is a valued protein source. People enjoy them crunchy as a snack or stewed with tomato and onion.",
+     "wiki_en": "Gonimbrasia belina",
+     "wiki_ja": "モパネワーム",
+     "link": "https://en.wikipedia.org/wiki/Gonimbrasia_belina",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Colophospermum_mopane_50D_0486.jpg/960px-Colophospermum_mopane_50D_0486.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Colophospermum_mopane_50D_0486.jpg",
+      "artist": "SAplants",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Colophospermum_mopane_50D_0486.jpg"
+     }
+    },
+    {
+     "key": "South Sudan",
+     "name": "Kisra with okra stew (Bamia)",
+     "text": "A thin, sour flatbread of fermented sorghum, eaten with a slippery okra stew, often thickened with dried okra powder. The stretchy texture and tangy bread surprise newcomers. Diners tear the bread and scoop the stew by hand.",
+     "wiki_en": "Kisra",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Kisra",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Kisra_maker.jpeg/960px-Kisra_maker.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Kisra_maker.jpeg",
+      "artist": "Mohamed Elfatih Hamadien",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Kisra_maker.jpeg"
+     }
+    },
+    {
+     "key": "Sudan",
+     "name": "Marara",
+     "text": "A dish of raw sheep or camel offal, such as liver, lungs and stomach, dressed with lime, onion, chili and peanut paste. Eating it uncooked surprises visitors. It is traditionally shared fresh at feasts and celebrations.",
+     "wiki_en": "",
+     "wiki_ja": ""
+    },
+    {
+     "key": "Tanzania",
+     "name": "Fried flying termites (Kumbikumbi)",
+     "text": "Winged termites collected when they swarm after the rains, then toasted or fried with a little salt. Eating insects surprises many visitors, but the taste is nutty and rich. They are enjoyed as a seasonal snack.",
+     "wiki_en": "",
+     "wiki_ja": ""
+    },
+    {
+     "key": "Togo",
+     "name": "Fufu",
+     "text": "Boiled yam pounded in a large wooden mortar into a smooth, stretchy dough. Newcomers are surprised that it is swallowed in small pieces rather than chewed. It is eaten by hand, dipped in peanut, palm nut or light soup.",
+     "wiki_en": "Fufu",
+     "wiki_ja": "フフ",
+     "link": "https://en.wikipedia.org/wiki/Fufu",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Wrapped_fufu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Wrapped_fufu.jpg",
+      "artist": "daSupremo",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Wrapped_fufu.jpg"
+     }
+    }
+   ]
+  },
+  {
+   "name": "East & Southeast Asia",
+   "items": [
+    {
+     "key": "China",
+     "name": "Century egg (pidan)",
+     "text": "A duck egg cured for weeks in clay, ash, salt and quicklime until the white turns amber jelly and the yolk dark and creamy. The sharp aroma surprises newcomers; locals enjoy it with chilled tofu or in rice congee.",
+     "wiki_en": "Century egg",
+     "wiki_ja": "皮蛋",
+     "link": "https://en.wikipedia.org/wiki/Century_egg",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/63/Century_egg_sliced_open.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Century_egg_sliced_open.jpeg",
+      "artist": "en:User:Kowloonese",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Century_egg_sliced_open.jpeg"
+     }
+    },
+    {
+     "key": "Japan",
+     "name": "Natto",
+     "text": "Soybeans fermented with Bacillus subtilis until sticky, stringy and strongly aromatic. The long threads that stretch from every bite startle first-timers. Many Japanese stir it with soy sauce and mustard and eat it over hot rice at breakfast.",
+     "wiki_en": "Nattō",
+     "wiki_ja": "納豆",
+     "link": "https://en.wikipedia.org/wiki/Natto",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Matsunoya_Breakfast_20240421_102843.jpg/960px-Matsunoya_Breakfast_20240421_102843.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Matsunoya_Breakfast_20240421_102843.jpg",
+      "artist": "円周率３パーセント",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Matsunoya_Breakfast_20240421_102843.jpg"
+     }
+    },
+    {
+     "key": "Mongolia",
+     "name": "Fermented mare's milk (airag)",
+     "text": "Mare's milk churned and fermented in a leather bag or vat until lightly alcoholic, fizzy and sour. Visitors are often surprised by its tang. Herding families offer bowls of it to guests throughout the summer.",
+     "wiki_en": "Kumis",
+     "wiki_ja": "馬乳酒",
+     "link": "https://en.wikipedia.org/wiki/Kumis",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Kumys-bottle.jpg/960px-Kumys-bottle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Kumys-bottle.jpg",
+      "artist": "A.Savin",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Kumys-bottle.jpg"
+     }
+    },
+    {
+     "key": "North Korea",
+     "name": "Pyongyang cold noodles (Pyongyang naengmyeon)",
+     "text": "Chewy buckwheat noodles served in an icy, mild broth, often with sliced meat, pear and egg. A chilled noodle soup surprises many visitors, and the subtle flavor is prized. Diners add vinegar and mustard to taste.",
+     "wiki_en": "Naengmyeon",
+     "wiki_ja": "冷麺",
+     "link": "https://en.wikipedia.org/wiki/Naengmyeon",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/58/Naengmyeon_%28cold_noodles%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Naengmyeon_(cold_noodles).jpg",
+      "artist": "wjlee4284",
+      "license": "CC BY 2.5",
+      "page": "https://commons.wikimedia.org/wiki/File:Naengmyeon_(cold_noodles).jpg"
+     }
+    },
+    {
+     "key": "South Korea",
+     "name": "Fermented skate (hongeo-hoe)",
+     "text": "Skate fermented until it develops a powerful ammonia aroma that clears the sinuses. A specialty of the southwestern Jeolla region, it is traditionally eaten with boiled pork and aged kimchi, a trio called samhap, alongside makgeolli rice wine.",
+     "wiki_en": "Hongeo-hoe",
+     "wiki_ja": "ホンオフェ",
+     "link": "https://en.wikipedia.org/wiki/Hongeo-hoe",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Korean_cuisine-Samhap-01.jpg/960px-Korean_cuisine-Samhap-01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Korean_cuisine-Samhap-01.jpg",
+      "artist": "egg (Hong, Yun Seon)",
+      "license": "CC BY 2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Korean_cuisine-Samhap-01.jpg"
+     }
+    },
+    {
+     "key": "Brunei",
+     "name": "Ambuyat",
+     "text": "A sticky, translucent starch paste made from the sago palm, with almost no taste of its own. Diners twirl it around a bamboo fork called a chandas, dip it in a sour, spicy sauce, and swallow it without chewing.",
+     "wiki_en": "Ambuyat",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Ambuyat",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Ambuyat_in_Bandar_Seri_Begawan_Brunei.jpg/960px-Ambuyat_in_Bandar_Seri_Begawan_Brunei.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Ambuyat_in_Bandar_Seri_Begawan_Brunei.jpg",
+      "artist": "e_chaya",
+      "license": "CC BY 2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Ambuyat_in_Bandar_Seri_Begawan_Brunei.jpg"
+     }
+    },
+    {
+     "key": "Cambodia",
+     "name": "Fried tarantula (a-ping)",
+     "text": "Whole tarantulas fried with garlic, sugar and salt until crisp outside and soft inside. The town of Skuon is famous for them. Visitors are startled by the look, while locals snack on them much like any street food.",
+     "wiki_en": "Fried spider",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Fried_spider",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Skun_spiders_closeup.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Skun_spiders_closeup.jpg",
+      "artist": "A. www.viajar24h.com",
+      "license": "CC BY 2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Skun_spiders_closeup.jpg"
+     }
+    },
+    {
+     "key": "Indonesia",
+     "name": "Tempoyak",
+     "text": "Durian flesh salted and left to ferment into a sour, pungent paste. An already famously aromatic fruit becomes even bolder. In Sumatra and Kalimantan it is cooked with chili into sambal or simmered with freshwater fish.",
+     "wiki_en": "Tempoyak",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Tempoyak",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/YosriBelacanTempoyakDekat.jpg/960px-YosriBelacanTempoyakDekat.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:YosriBelacanTempoyakDekat.jpg",
+      "artist": "Yosri at ms.wikipedia",
+      "license": "GFDL",
+      "page": "https://commons.wikimedia.org/wiki/File:YosriBelacanTempoyakDekat.jpg"
+     }
+    },
+    {
+     "key": "Laos",
+     "name": "Padaek",
+     "text": "A thick, unfiltered fermented fish sauce, often containing chunks of fish and aged for a long time. Its strong aroma surprises visitors, yet it gives Lao cooking its depth, especially in green papaya salad and stews.",
+     "wiki_en": "Padaek",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Padaek",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Lao_fish_sauce.jpg/960px-Lao_fish_sauce.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Lao_fish_sauce.jpg",
+      "artist": "Mx. Granger",
+      "license": "CC0",
+      "page": "https://commons.wikimedia.org/wiki/File:Lao_fish_sauce.jpg"
+     }
+    },
+    {
+     "key": "Malaysia",
+     "name": "Budu",
+     "text": "An anchovy sauce fermented with salt for months, a specialty of the east coast states of Kelantan and Terengganu. Its deep, pungent savoriness surprises newcomers. Locals mix it with chili and lime as a dip for fresh herbs, fish and rice.",
+     "wiki_en": "Budu (sauce)",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Budu_(sauce)",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/YosriBuduMempelam.jpg/960px-YosriBuduMempelam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:YosriBuduMempelam.jpg",
+      "artist": "Yosri",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:YosriBuduMempelam.jpg"
+     }
+    },
+    {
+     "key": "Myanmar",
+     "name": "Pickled tea leaf salad (lahpet thoke)",
+     "text": "Tea leaves that are fermented and eaten rather than brewed, which surprises many visitors. They are tossed with fried beans, nuts, sesame, garlic and tomato into a tangy, slightly bitter salad shared at gatherings and after meals.",
+     "wiki_en": "Lahpet",
+     "wiki_ja": "ラペソー",
+     "link": "https://en.wikipedia.org/wiki/Lahpet",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Green_tea_and_peanut_nibbles_%2810808703485%29.jpg/960px-Green_tea_and_peanut_nibbles_%2810808703485%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Green_tea_and_peanut_nibbles_(10808703485).jpg",
+      "artist": "ReflectedSerendipity from United Kingdom",
+      "license": "CC BY-SA 2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Green_tea_and_peanut_nibbles_(10808703485).jpg"
+     }
+    },
+    {
+     "key": "Philippines",
+     "name": "Balut",
+     "text": "A fertilized duck egg incubated for around two to three weeks, then boiled and eaten from the shell. The partly developed embryo startles newcomers. Filipinos sip the warm broth first, then season it with salt or vinegar as a street snack.",
+     "wiki_en": "Balut (food)",
+     "wiki_ja": "バロット",
+     "link": "https://en.wikipedia.org/wiki/Balut_(food)",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/The_Balut.jpg/960px-The_Balut.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:The_Balut.jpg",
+      "artist": "JBYBIOSA",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:The_Balut.jpg"
+     }
+    },
+    {
+     "key": "Singapore",
+     "name": "Fish head curry",
+     "text": "A whole red snapper head simmered in a spicy, tangy curry with okra and eggplant. Being served the head surprises some diners, but the cheek meat is prized for its tenderness. It is shared at the table with rice.",
+     "wiki_en": "Fish head curry",
+     "wiki_ja": "フィッシュヘッドカレー",
+     "link": "https://en.wikipedia.org/wiki/Fish_head_curry",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Fisheadcurry.JPG/960px-Fisheadcurry.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Fisheadcurry.JPG",
+      "artist": "User Chensiyuan on en.wikipedia",
+      "license": "Copyrighted free use",
+      "page": "https://commons.wikimedia.org/wiki/File:Fisheadcurry.JPG"
+     }
+    },
+    {
+     "key": "Thailand",
+     "name": "Pla ra",
+     "text": "Freshwater fish fermented with salt and rice bran or roasted rice for months until intensely pungent. The smell is striking to newcomers. It is essential to Isan cooking, giving the northeastern style of green papaya salad its deep savoriness.",
+     "wiki_en": "Pla ra",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Pla_ra",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Plaraataladdonwai06.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Plaraataladdonwai06.jpg",
+      "artist": "Heinrich Damm (User:Hdamm, Hdamm at de.wikipedia.org)",
+      "license": "CC BY 2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Plaraataladdonwai06.jpg"
+     }
+    },
+    {
+     "key": "Timor-Leste",
+     "name": "Batar da'an",
+     "text": "A gentle stew of corn, mung beans and pumpkin, simply seasoned with garlic and onion. Its surprise is its simplicity: a hearty, entirely plant-based staple. Timorese families eat it as everyday comfort food, often with rice.",
+     "wiki_en": "",
+     "wiki_ja": ""
+    },
+    {
+     "key": "Vietnam",
+     "name": "Fermented shrimp paste (mam tom)",
+     "text": "A purple-grey paste of shrimp fermented with salt, known for its powerful aroma. Whisked with lime juice, sugar and chili until frothy, it becomes the dip for bun dau mam tom, a platter of rice noodles and fried tofu.",
+     "wiki_en": "Shrimp paste",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Shrimp_paste",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/A_square_of_shrimp_paste_from_Hung_Kee_store.jpg/960px-A_square_of_shrimp_paste_from_Hung_Kee_store.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:A_square_of_shrimp_paste_from_Hung_Kee_store.jpg",
+      "artist": "Peachyeung316",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:A_square_of_shrimp_paste_from_Hung_Kee_store.jpg"
+     }
+    }
+   ]
+  },
+  {
+   "name": "South & Central Asia",
+   "items": [
+    {
+     "key": "Afghanistan",
+     "name": "Dried yogurt dumplings sauce (Qurut / Kashk)",
+     "text": "Rock-hard balls of salted, sun-dried yogurt that are rehydrated into an intensely sour, salty sauce. First-timers are startled by the tang, but Afghans love it poured over dumplings, noodles, or bread in the comforting dish qurooti.",
+     "wiki_en": "Kashk",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Kashk",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Jameed.JPG/960px-Jameed.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Jameed.JPG",
+      "artist": "Syrinje",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Jameed.JPG"
+     }
+    },
+    {
+     "key": "Bangladesh",
+     "name": "Fermented dried fish (Shutki)",
+     "text": "Sun-dried fish with an aroma strong enough to fill a whole street. Visitors often flinch at the smell, yet cooked into fiery bhorta mashes or curries with garlic and chilies, it is a deeply loved taste of home.",
+     "wiki_en": "",
+     "wiki_ja": ""
+    },
+    {
+     "key": "Bhutan",
+     "name": "Chili and cheese stew (Ema datshi)",
+     "text": "Bhutan's national dish treats chili peppers as the vegetable, not the seasoning, simmering them whole in melted local cheese. The heat shocks newcomers, but Bhutanese eat it daily with red rice, at nearly every meal.",
+     "wiki_en": "Ema datshi",
+     "wiki_ja": "エマダツィ",
+     "link": "https://en.wikipedia.org/wiki/Ema_datshi",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Ema_datshi%28Dry_red_chilli_version%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Ema_datshi(Dry_red_chilli_version).jpg",
+      "artist": "Rigzen Dema",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Ema_datshi(Dry_red_chilli_version).jpg"
+     }
+    },
+    {
+     "key": "India",
+     "name": "Fermented soybeans (Akhuni / Axone)",
+     "text": "A natto cousin from Nagaland: soybeans boiled, wrapped in leaves, and fermented near the hearth until powerfully pungent. The smell surprises outsiders, but Naga cooks prize its deep umami in smoked pork dishes and chutneys.",
+     "wiki_en": "Akhuni",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Akhuni",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/de/Akhuni_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Akhuni_2025.jpg",
+      "artist": "Nux-vomica 1007",
+      "license": "CC BY 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Akhuni_2025.jpg"
+     }
+    },
+    {
+     "key": "Maldives",
+     "name": "Tuna paste (Rihaakuru)",
+     "text": "A thick, dark brown paste made by boiling tuna stock for hours until it concentrates into pure, salty fish essence. Its intensity surprises visitors, while Maldivians enjoy it daily with rice, flatbread, or breadfruit.",
+     "wiki_en": "Rihaakuru",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Rihaakuru",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Rihaakuru.JPEG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Rihaakuru.JPEG",
+      "artist": "Mohamed Ishan",
+      "license": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:Rihaakuru.JPEG"
+     }
+    },
+    {
+     "key": "Nepal",
+     "name": "Fermented leafy greens (Gundruk)",
+     "text": "Mustard, radish, and cauliflower leaves are wilted, packed tight, fermented, then sun-dried. The sharp sour, earthy flavor is unexpected for newcomers, but Nepalis treasure it as a tangy soup or pickle served alongside rice and lentils.",
+     "wiki_en": "Gundruk",
+     "wiki_ja": "グンドゥルック",
+     "link": "https://en.wikipedia.org/wiki/Gundruk",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Gundruk_NP.jpg/960px-Gundruk_NP.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Gundruk_NP.jpg",
+      "artist": "Krish Dulal",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Gundruk_NP.jpg"
+     }
+    },
+    {
+     "key": "Pakistan",
+     "name": "Slow-cooked trotters stew (Paya)",
+     "text": "Goat, lamb, or beef trotters simmered overnight until the broth turns rich, sticky, and gelatinous. Eating hooves surprises some visitors, but it is a beloved breakfast, scooped up with hot naan.",
+     "wiki_en": "Paya (food)",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Paya_(food)",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Paya_Curry.JPG/960px-Paya_Curry.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Paya_Curry.JPG",
+      "artist": "Miansari66",
+      "license": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:Paya_Curry.JPG"
+     }
+    },
+    {
+     "key": "Sri Lanka",
+     "name": "Maldive fish (Umbalakada)",
+     "text": "Tuna that is boiled, smoked, and sun-dried until as hard as wood, much like Japanese katsuobushi. Its concentrated smoky fishiness surprises newcomers, while Sri Lankans pound it into coconut sambols and vegetable curries for depth.",
+     "wiki_en": "Maldive fish",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Maldives_fish",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/77/Maldive_fish91.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Maldive_fish91.JPG",
+      "artist": "Xavier Romero-Frias",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Maldive_fish91.JPG"
+     }
+    },
+    {
+     "key": "Kazakhstan",
+     "name": "Boiled meat with noodles (Beshbarmak)",
+     "text": "The national dish, whose name means \"five fingers\" because it is traditionally eaten by hand. Boiled horse meat or mutton is served over flat noodles, and a sheep's head may be presented to honored guests.",
+     "wiki_en": "Beshbarmak",
+     "wiki_ja": "ベシュバルマク",
+     "link": "https://en.wikipedia.org/wiki/Beshbarmak",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/%D0%91%D0%B5%D1%88%D0%B1%D0%B0%D1%80%D0%BC%D0%B0%D0%BA_%D0%B8%D0%B7_%D0%B3%D0%BE%D0%B2%D1%8F%D0%B4%D0%B8%D0%BD%D1%8B_01.jpg/960px-%D0%91%D0%B5%D1%88%D0%B1%D0%B0%D1%80%D0%BC%D0%B0%D0%BA_%D0%B8%D0%B7_%D0%B3%D0%BE%D0%B2%D1%8F%D0%B4%D0%B8%D0%BD%D1%8B_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Бешбармак_из_говядины_01.jpg",
+      "artist": "Pannet",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:%D0%91%D0%B5%D1%88%D0%B1%D0%B0%D1%80%D0%BC%D0%B0%D0%BA_%D0%B8%D0%B7_%D0%B3%D0%BE%D0%B2%D1%8F%D0%B4%D0%B8%D0%BD%D1%8B_01.jpg"
+     }
+    },
+    {
+     "key": "Kyrgyzstan",
+     "name": "Fermented mare's milk (Kymyz / Kumis)",
+     "text": "Mare's milk fermented until fizzy, sour, and mildly alcoholic, traditionally in smoked leather vessels. The tart, smoky taste surprises first-timers, but Kyrgyz families drink it by the bowlful in summer pastures and consider it wonderfully refreshing.",
+     "wiki_en": "Kumis",
+     "wiki_ja": "馬乳酒",
+     "link": "https://en.wikipedia.org/wiki/Kumis",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Kumys-bottle.jpg/960px-Kumys-bottle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Kumys-bottle.jpg",
+      "artist": "A.Savin",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Kumys-bottle.jpg"
+     }
+    },
+    {
+     "key": "Tajikistan",
+     "name": "Flatbread in salted yogurt (Qurutob)",
+     "text": "Dried salty cheese balls are dissolved in water, then poured over torn flaky flatbread and topped with fried onions and vegetables. Diners gather around one big wooden platter and eat it with their hands.",
+     "wiki_en": "Qurutob",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Qurutob",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Tajik_qurutob_with_meat.png/960px-Tajik_qurutob_with_meat.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Tajik_qurutob_with_meat.png",
+      "artist": "Zosya95",
+      "license": "CC0",
+      "page": "https://commons.wikimedia.org/wiki/File:Tajik_qurutob_with_meat.png"
+     }
+    },
+    {
+     "key": "Turkmenistan",
+     "name": "Fermented camel milk (Chal)",
+     "text": "Camel milk soured into a sparkling, sharply tangy white drink. The fizz and sourness catch visitors off guard, but Turkmens prize it as a cooling refreshment in the desert heat and serve it to welcome guests.",
+     "wiki_en": "Chal",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Chal",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Shubat_vs_Kumis.jpg/960px-Shubat_vs_Kumis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Shubat_vs_Kumis.jpg",
+      "artist": "Upyernoz on Flickr",
+      "license": "CC BY 2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Shubat_vs_Kumis.jpg"
+     }
+    },
+    {
+     "key": "Uzbekistan",
+     "name": "Horse meat sausage noodles (Naryn)",
+     "text": "Hand-cut noodles sliced very thin and tossed with shredded horse meat, often topped with rounds of kazy, horse sausage. Horse meat surprises many visitors, yet locals enjoy it cold or with hot broth, especially in Tashkent.",
+     "wiki_en": "Naryn (dish)",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Naryn_(dish)",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/%D0%A1%D0%B0%D0%BA%D1%81%D0%B0%D1%83%D0%BB_%D0%A0%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD%2C_naryn_soup_with_horse-meat_qaz%C4%B1_and_noodles.jpg/960px-%D0%A1%D0%B0%D0%BA%D1%81%D0%B0%D1%83%D0%BB_%D0%A0%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD%2C_naryn_soup_with_horse-meat_qaz%C4%B1_and_noodles.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Саксаул_Ресторан,_naryn_soup_with_horse-meat_qazı_and_noodles.jpg",
+      "artist": "Ser Amantio di Nicolao",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%B0%D0%BA%D1%81%D0%B0%D1%83%D0%BB_%D0%A0%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD,_naryn_soup_with_horse-meat_qaz%C4%B1_and_noodles.jpg"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Middle East & Caucasus",
+   "items": [
+    {
+     "key": "Armenia",
+     "name": "Khash",
+     "text": "A slow-simmered broth of cow's feet, served nearly unseasoned so diners add their own salt, crushed garlic and dried lavash. Visitors are surprised it is a dawn meal; Armenians gather for it on cold winter mornings, often with vodka.",
+     "wiki_en": "Khash (dish)",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Khash_(dish)",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Khash.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Khash.jpg",
+      "artist": "Chaojoker",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Khash.jpg"
+     }
+    },
+    {
+     "key": "Azerbaijan",
+     "name": "Sheep's Head and Trotters Soup (Kəllə-paça)",
+     "text": "A rich soup made by simmering a sheep's head and feet for hours until the broth turns silky. Newcomers are startled by the ingredients, but locals prize it as an early-morning restorative, sharpened with garlic and vinegar.",
+     "wiki_en": "",
+     "wiki_ja": ""
+    },
+    {
+     "key": "Bahrain",
+     "name": "Mahyawa (Mehyawa)",
+     "text": "A pungent, reddish sauce of fermented fish, salt and spices such as fennel and mustard seed. Its strong aroma surprises first-timers, much like natto does, yet Bahrainis love it drizzled over thin, freshly baked bread for breakfast.",
+     "wiki_en": "Mahyawa",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Mahyawa",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Mahyawa_2.jpg/960px-Mahyawa_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Mahyawa_2.jpg",
+      "artist": "Unknown author",
+      "license": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:Mahyawa_2.jpg"
+     }
+    },
+    {
+     "key": "Cyprus",
+     "name": "Zalatina",
+     "text": "A traditional pork aspic made by boiling the head and trotters, then setting the meat in its own jelly with bitter orange or lemon juice, vinegar and chili. The wobbly, tangy texture surprises visitors; Cypriots enjoy it cold in winter.",
+     "wiki_en": "",
+     "wiki_ja": ""
+    },
+    {
+     "key": "Georgia",
+     "name": "Khashi",
+     "text": "A milky, garlicky soup of beef tripe and feet, cooked for hours with very little seasoning. Its strong smell and early serving time surprise travelers, but Georgians treasure it as a morning-after remedy following a long feast.",
+     "wiki_en": "Khash (dish)",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Khash_(dish)",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Khash.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Khash.jpg",
+      "artist": "Chaojoker",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Khash.jpg"
+     }
+    },
+    {
+     "key": "Iran",
+     "name": "Kaleh Pacheh",
+     "text": "A breakfast stew of sheep's head, including tongue, cheeks, eyes and brain, with trotters in a cinnamon-scented broth. Visitors are amazed that specialty shops open before dawn; Iranians eat it with flatbread, lemon juice and good company.",
+     "wiki_en": "Khash (dish)",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Khash_(dish)",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Khash.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Khash.jpg",
+      "artist": "Chaojoker",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Khash.jpg"
+     }
+    },
+    {
+     "key": "Iraq",
+     "name": "Pacha",
+     "text": "A beloved Iraqi dish of slowly boiled sheep's head, trotters and stuffed stomach, served over bread soaked in the broth. The whole-head presentation surprises newcomers, while locals regard it as hearty comfort food worth a special trip.",
+     "wiki_en": "Pacha (dish)",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Khash_(dish)",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Khash.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Khash.jpg",
+      "artist": "Chaojoker",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Khash.jpg"
+     }
+    },
+    {
+     "key": "Israel",
+     "name": "Jerusalem Mixed Grill (Me'orav Yerushalmi)",
+     "text": "Chicken hearts, livers and spleens sizzled on a flat griddle with onions and warm spices. Visitors are often surprised by the all-offal mix, but it is a classic street food of Jerusalem's Mahane Yehuda market, stuffed into pita.",
+     "wiki_en": "Jerusalem mixed grill",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Jerusalem_mixed_grill",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Maoravyerushalmi.jpeg/960px-Maoravyerushalmi.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Maoravyerushalmi.jpeg",
+      "artist": "Peterjerusalem",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Maoravyerushalmi.jpeg"
+     }
+    },
+    {
+     "key": "Jordan",
+     "name": "Mansaf",
+     "text": "Lamb cooked in a sauce of jameed, a rock-hard dried fermented yogurt, served over rice and thin bread. The sour, intense tang surprises first-timers; Jordanians share it from one large platter, traditionally eating with the right hand.",
+     "wiki_en": "Mansaf",
+     "wiki_ja": "マンサフ",
+     "link": "https://en.wikipedia.org/wiki/Mansaf",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/86/Mansaf%2C_the_traditional_dish_of_Jordan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Mansaf,_the_traditional_dish_of_Jordan.jpg",
+      "artist": "Jktab",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Mansaf,_the_traditional_dish_of_Jordan.jpg"
+     }
+    },
+    {
+     "key": "Kuwait",
+     "name": "Stuffed Whole Lamb (Quzi)",
+     "text": "An entire lamb, slow-roasted and served on a mountain of spiced rice with nuts and raisins. The sheer scale astonishes visitors; in Kuwait it is a dish of generosity, brought out for weddings and large family gatherings.",
+     "wiki_en": "Quzi",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Quzi",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Iraqi_Qoozi_.jpg/960px-Iraqi_Qoozi_.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Iraqi_Qoozi_.jpg",
+      "artist": "aziz1005",
+      "license": "CC0",
+      "page": "https://commons.wikimedia.org/wiki/File:Iraqi_Qoozi_.jpg"
+     }
+    },
+    {
+     "key": "Lebanon",
+     "name": "Kibbeh Nayyeh",
+     "text": "Finely pounded raw lamb or beef blended with bulgur and spices, spread on a plate and drizzled with olive oil. Eating raw meat surprises many visitors, but Lebanese families serve it very fresh with mint, onion and flatbread.",
+     "wiki_en": "Kibbeh nayyeh",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Kibbeh_nayyeh",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/17/Kibbeh_Nayyeh.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Kibbeh_Nayyeh.jpg",
+      "artist": "122589423KM at English Wikipedia",
+      "license": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:Kibbeh_Nayyeh.jpg"
+     }
+    },
+    {
+     "key": "Oman",
+     "name": "Shuwa",
+     "text": "Marinated lamb or goat wrapped in banana or palm leaves and cooked in an underground sand oven for a day or more. The long burial surprises visitors; Omanis prepare it communally for Eid, and the meat falls apart.",
+     "wiki_en": "Shuwa",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Shuwa"
+    },
+    {
+     "key": "Palestine",
+     "name": "Stuffed Lamb Intestines (Fawaregh)",
+     "text": "Cleaned lamb intestines filled with spiced rice, minced meat and sometimes chickpeas, then simmered and often browned. The casing surprises newcomers, but it is a labor-intensive dish that Palestinian families prepare together for special gatherings.",
+     "wiki_en": "",
+     "wiki_ja": ""
+    },
+    {
+     "key": "Qatar",
+     "name": "Balaleet",
+     "text": "Sweet vermicelli noodles scented with saffron, cardamom and rose water, topped with a savory egg omelet. The sweet-and-salty pairing surprises visitors expecting dessert; Qataris enjoy it for breakfast and during Eid celebrations.",
+     "wiki_en": "Balaleet",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Balaleet",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Homemade_Balaleet%2C_2023.jpg/960px-Homemade_Balaleet%2C_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Homemade_Balaleet,_2023.jpg",
+      "artist": "Mohamed Toorani",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Homemade_Balaleet,_2023.jpg"
+     }
+    },
+    {
+     "key": "Saudi Arabia",
+     "name": "Jalamah",
+     "text": "A specialty of the Asir region, made from young lamb cooked with fat, onions and a blend of warm spices. Its rich, fragrant character surprises visitors; it is traditionally served at Eid al-Adha and to honor guests.",
+     "wiki_en": "Jalamah",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Jalamah"
+    },
+    {
+     "key": "Syria",
+     "name": "Shanklish",
+     "text": "Balls of cow's or sheep's milk cheese, dried and aged, then coated in za'atar or Aleppo pepper. Well-aged versions are firm and strikingly pungent, surprising first-timers; Syrians crumble it with tomato, onion and olive oil as mezze.",
+     "wiki_en": "Shanklish",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Shanklish",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Shanklish.jpg/960px-Shanklish.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Shanklish.jpg",
+      "artist": "Charles Haynes from Sydney, Australia",
+      "license": "CC BY-SA 2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Shanklish.jpg"
+     }
+    },
+    {
+     "key": "Turkey",
+     "name": "Kokoreç",
+     "text": "Seasoned lamb intestines wrapped around sweetbreads and other offal, roasted on a horizontal spit over charcoal. Visitors are surprised to learn what is inside; locals love it chopped with oregano and chili in bread, especially late at night.",
+     "wiki_en": "Kokoreç",
+     "wiki_ja": "ココレッチ",
+     "link": "https://en.wikipedia.org/wiki/Kokoretsi",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Kokore%C3%A7.JPG/960px-Kokore%C3%A7.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Kokoreç.JPG",
+      "artist": "Ankara",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Kokore%C3%A7.JPG"
+     }
+    },
+    {
+     "key": "United Arab Emirates",
+     "name": "Khameer Bread with Mahyawa",
+     "text": "Soft, lightly sweet Emirati bread paired with mahyawa, a salty fermented fish sauce. The strong fishy aroma surprises newcomers, much as natto does, yet many Emiratis enjoy the combination at breakfast alongside cheese, eggs or tea.",
+     "wiki_en": "",
+     "wiki_ja": ""
+    },
+    {
+     "key": "Yemen",
+     "name": "Saltah with Hulbah",
+     "text": "Yemen's national dish: a bubbling meat stew served in a hot stone pot, topped with hulbah, a frothy whipped fenugreek condiment. The slightly bitter, slippery foam surprises visitors; locals scoop it up with flatbread at lunchtime.",
+     "wiki_en": "Saltah",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Saltah",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Saltah.jpg/960px-Saltah.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Saltah.jpg",
+      "artist": "Rania al-Bahara",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Saltah.jpg"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Europe",
+   "items": [
+    {
+     "key": "Albania",
+     "name": "Baked Lamb with Yogurt (Tavë kosi)",
+     "text": "Lamb and rice baked under a thick blanket of yogurt and eggs until golden. Visitors are often surprised to find warm, tangy yogurt in a savoury main dish. Albanians serve it as a comforting family lunch, especially around Elbasan.",
+     "wiki_en": "Tavë kosi",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Tav%C3%AB_kosi",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Tav%C3%AB_kosi.jpg/960px-Tav%C3%AB_kosi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Tavë_kosi.jpg",
+      "artist": "MirelaAndoni",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Tav%C3%AB_kosi.jpg"
+     }
+    },
+    {
+     "key": "Andorra",
+     "name": "Mountain Meat and Vegetable Stew (Escudella)",
+     "text": "A hearty Pyrenean stew of several meats, sausages, a large meatball, vegetables and pasta or rice. Newcomers are surprised by how many cuts share one pot. Andorrans cook it in huge cauldrons for winter festivals and share it communally.",
+     "wiki_en": "Escudella i carn d'olla",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Escudella",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Escudella_Catalana_-_Barcelona_%282011%29.JPG/960px-Escudella_Catalana_-_Barcelona_%282011%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Escudella_Catalana_-_Barcelona_(2011).JPG",
+      "artist": "Tamorlan",
+      "license": "CC BY 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Escudella_Catalana_-_Barcelona_(2011).JPG"
+     }
+    },
+    {
+     "key": "Austria",
+     "name": "Veal Lung and Heart Ragout (Beuschel)",
+     "text": "A classic Viennese ragout of finely sliced veal lung and heart in a tangy cream sauce. The ingredients startle first-timers, but the taste is delicate and slightly sour. It is served with a bread dumpling in traditional inns.",
+     "wiki_en": "Beuschel",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Beuschel",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Kalbsbeuschel_mit_Semmelkn%C3%B6del.jpg/960px-Kalbsbeuschel_mit_Semmelkn%C3%B6del.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Kalbsbeuschel_mit_Semmelknödel.jpg",
+      "artist": "Kritzolina",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Kalbsbeuschel_mit_Semmelkn%C3%B6del.jpg"
+     }
+    },
+    {
+     "key": "Belarus",
+     "name": "Pork Gravy with Pancakes (Machanka)",
+     "text": "A thick, rich stew of pork and sausage in a creamy gravy, made for dipping. The surprise is that you eat it with pancakes instead of a spoon. Families tear off pieces of thick pancake and dunk them in.",
+     "wiki_en": "Machanka",
+     "wiki_ja": ""
+    },
+    {
+     "key": "Belgium",
+     "name": "Eels in Green Sauce (Paling in 't groen)",
+     "text": "Chunks of freshwater eel simmered in a vivid green sauce of chopped herbs such as sorrel, chervil and parsley. The bright colour and the eel itself both surprise visitors. Flemish diners enjoy it hot or cold with bread or fries.",
+     "wiki_en": "Paling in 't groen",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Paling_in_%27t_groen",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Paling_in_t_groen.jpg/960px-Paling_in_t_groen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Paling_in_t_groen.jpg",
+      "artist": "Takeaway",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Paling_in_t_groen.jpg"
+     }
+    },
+    {
+     "key": "Bosnia and Herzegovina",
+     "name": "Bosnian Pot (Bosanski lonac)",
+     "text": "Large chunks of meat and whole vegetables layered in a deep clay pot and cooked slowly for hours. People are surprised that nothing is stirred and almost nothing is chopped small. It is a dish for gatherings, shared straight from the pot.",
+     "wiki_en": "Bosnian pot",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Bosnian_pot",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/86/Bosanskilonac.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Bosanskilonac.jpg",
+      "artist": "Kami at German Wikipedia",
+      "license": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:Bosanskilonac.jpg"
+     }
+    },
+    {
+     "key": "Bulgaria",
+     "name": "Cold Yogurt and Cucumber Soup (Tarator)",
+     "text": "A chilled soup of yogurt, cucumber, garlic, dill and walnuts, sometimes served with ice cubes. Visitors expecting hot soup are surprised by a bowl of cold, garlicky yogurt. Bulgarians enjoy it all summer as a refreshing starter.",
+     "wiki_en": "Tarator",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Tzatziki",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Cacik-1.jpg/960px-Cacik-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Cacik-1.jpg",
+      "artist": "Rainer Zenz",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Cacik-1.jpg"
+     }
+    },
+    {
+     "key": "Croatia",
+     "name": "Black Risotto (Crni rižot)",
+     "text": "A jet-black risotto coloured and flavoured with cuttlefish or squid ink. Its dark look, which temporarily stains lips and teeth, surprises newcomers. Along the Dalmatian coast it is a beloved seafood staple, often finished with olive oil and garlic.",
+     "wiki_en": "Black risotto",
+     "wiki_ja": ""
+    },
+    {
+     "key": "Czechia",
+     "name": "Olomouc Ripened Cheese (Olomoucké tvarůžky)",
+     "text": "A small, golden, very low-fat ripened cheese from Moravia with a famously powerful aroma. The smell surprises people far more than the mild, savoury taste. Czechs eat it with bread, butter, onion and a glass of beer.",
+     "wiki_en": "Olomouc cheese",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Olomouck%C3%A9_tvar%C5%AF%C5%BEky",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Olomouck%C3%A9_tvar%C5%AF%C5%BEky_%283%29.jpg/960px-Olomouck%C3%A9_tvar%C5%AF%C5%BEky_%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Olomoucké_tvarůžky_(3).jpg",
+      "artist": "Chmee2",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Olomouck%C3%A9_tvar%C5%AF%C5%BEky_(3).jpg"
+     }
+    },
+    {
+     "key": "Denmark",
+     "name": "Rye Bread and Beer Porridge (Øllebrød)",
+     "text": "A thick, dark porridge made by simmering leftover rye bread with beer and a little sugar. Beer for breakfast is the surprise, though the alcohol is low or cooked away. Danes top it with milk or whipped cream.",
+     "wiki_en": "Øllebrød",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/%C3%98llebr%C3%B8d",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/%C3%98llebr%C3%B8d.jpg/960px-%C3%98llebr%C3%B8d.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Øllebrød.jpg",
+      "artist": "RhinoMind",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:%C3%98llebr%C3%B8d.jpg"
+     }
+    },
+    {
+     "key": "Estonia",
+     "name": "Roasted Grain Flour Mix (Kama)",
+     "text": "A finely milled blend of roasted barley, rye, oat and pea flour that needs no cooking. People are surprised that the flour is simply stirred into a drink. Estonians mix it with kefir or buttermilk for breakfast or dessert.",
+     "wiki_en": "Kama (food)",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Kama_(food)",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Kama.jpg/960px-Kama.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Kama.jpg",
+      "artist": "Mmh",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Kama.jpg"
+     }
+    },
+    {
+     "key": "Finland",
+     "name": "Rye Malt Easter Pudding (Mämmi)",
+     "text": "A dense, almost black pudding of rye flour and malted rye, slowly baked until naturally sweet. Its dark appearance surprises visitors, but the flavour is gentle and malty. Finns eat it at Easter with cream and sugar.",
+     "wiki_en": "Mämmi",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/M%C3%A4mmi",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/M%C3%A4mmi_Kymppi.jpg/960px-M%C3%A4mmi_Kymppi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Mämmi_Kymppi.jpg",
+      "artist": "Martin Terber from Cologne, Germany",
+      "license": "CC BY 2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:M%C3%A4mmi_Kymppi.jpg"
+     }
+    },
+    {
+     "key": "France",
+     "name": "Tripe Sausage (Andouillette)",
+     "text": "A coarse sausage made from pork intestines, known for a very strong, earthy aroma. The smell challenges many first-timers, while fans prize its deep flavour. It is grilled and served with mustard sauce and fries in bistros.",
+     "wiki_en": "Andouillette",
+     "wiki_ja": "アンドゥイエット",
+     "link": "https://en.wikipedia.org/wiki/Andouillette",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Andouillette_AAAAA_cuite.jpg/960px-Andouillette_AAAAA_cuite.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Andouillette_AAAAA_cuite.jpg",
+      "artist": "DocteurCosmos",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Andouillette_AAAAA_cuite.jpg"
+     }
+    },
+    {
+     "key": "Germany",
+     "name": "Raw Minced Pork Spread (Mett)",
+     "text": "Fresh minced pork seasoned with salt and pepper and eaten raw. Raw pork surprises most visitors, but it is made under strict freshness rules and sold the same day. Germans spread it on bread rolls with raw onion rings.",
+     "wiki_en": "Mett",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Mett",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Mettbroetchen.jpg/960px-Mettbroetchen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Mettbroetchen.jpg",
+      "artist": "Nize",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Mettbroetchen.jpg"
+     }
+    },
+    {
+     "key": "Greece",
+     "name": "Spit-Roasted Offal Rolls (Kokoretsi)",
+     "text": "Seasoned lamb or goat offal wrapped tightly in intestines and roasted slowly on a spit over charcoal. The ingredients surprise newcomers, but the result is crisp and herby. It is a highlight of Greek Easter celebrations.",
+     "wiki_en": "Kokoretsi",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Kokoretsi",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Kokore%C3%A7.JPG/960px-Kokore%C3%A7.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Kokoreç.JPG",
+      "artist": "Ankara",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Kokore%C3%A7.JPG"
+     }
+    },
+    {
+     "key": "Hungary",
+     "name": "Cold Sour Cherry Soup (Hideg meggyleves)",
+     "text": "A chilled, pink soup of sour cherries, sour cream and a little sugar, often scented with cinnamon. Visitors are surprised that a sweet fruit soup comes before the main course. Hungarians love it as a summer starter.",
+     "wiki_en": "Sour cherry soup",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Sour_cherry_soup",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Cherry_soup.jpg/960px-Cherry_soup.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Cherry_soup.jpg",
+      "artist": "Brücke-Osteuropa",
+      "license": "CC0",
+      "page": "https://commons.wikimedia.org/wiki/File:Cherry_soup.jpg"
+     }
+    },
+    {
+     "key": "Iceland",
+     "name": "Fermented Shark (Hákarl)",
+     "text": "Greenland shark that is fermented and then hung to dry for months, which makes the meat safe to eat. The sharp ammonia smell is what surprises people most. Icelanders serve small cubes at the midwinter Þorrablót feast.",
+     "wiki_en": "Hákarl",
+     "wiki_ja": "ハウカットル",
+     "link": "https://en.wikipedia.org/wiki/H%C3%A1karl",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Hakarl_near_Bjarnah%C3%B6fn_in_Iceland.JPG/960px-Hakarl_near_Bjarnah%C3%B6fn_in_Iceland.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Hakarl_near_Bjarnahöfn_in_Iceland.JPG",
+      "artist": "Chris 73",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Hakarl_near_Bjarnah%C3%B6fn_in_Iceland.JPG"
+     }
+    },
+    {
+     "key": "Ireland",
+     "name": "Cork Blood Pudding (Drisheen)",
+     "text": "A soft blood pudding traditionally associated with Cork, with a smooth, almost jelly-like texture. That delicate texture surprises people who expect a firm sausage. Locals traditionally eat it with tripe, or sliced and fried at breakfast.",
+     "wiki_en": "Drisheen",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Drisheen",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Drisheen.jpg/960px-Drisheen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Drisheen.jpg",
+      "artist": "Alison Cassidy",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Drisheen.jpg"
+     }
+    },
+    {
+     "key": "Italy",
+     "name": "Sardinian Maggot Cheese (Casu martzu)",
+     "text": "A Sardinian sheep's milk cheese ripened with the help of live cheese fly larvae, which make it very soft and pungent. The living larvae astonish outsiders, and commercial sale is restricted. Shepherd families traditionally share it on thin flatbread with red wine.",
+     "wiki_en": "Casu martzu",
+     "wiki_ja": "カース・マルツゥ",
+     "link": "https://en.wikipedia.org/wiki/Casu_martzu",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Casu_Marzu_cheese.jpg/960px-Casu_Marzu_cheese.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Casu_Marzu_cheese.jpg",
+      "artist": "Shardan",
+      "license": "CC BY-SA 2.5",
+      "page": "https://commons.wikimedia.org/wiki/File:Casu_Marzu_cheese.jpg"
+     }
+    },
+    {
+     "key": "Latvia",
+     "name": "Carrot and Potato Rye Tart (Sklandrausis)",
+     "text": "A small open tart with a firm rye crust, filled with layers of mashed potato and sweetened carrot. The surprise is that vegetables in rye dough make a sweet pastry. Latvians enjoy it with milk or tea.",
+     "wiki_en": "Sklandrausis",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Sklandrausis",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Suitu_sklandrau%C5%A1i.jpg/960px-Suitu_sklandrau%C5%A1i.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Suitu_sklandrauši.jpg",
+      "artist": "Silvija Dalge Tetere",
+      "license": "CC BY 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Suitu_sklandrau%C5%A1i.jpg"
+     }
+    },
+    {
+     "key": "Liechtenstein",
+     "name": "Toasted Cornmeal Crumbs (Ribel)",
+     "text": "Cornmeal cooked with milk and water, then slowly stirred in a pan with butter until it forms golden crumbs. Visitors are surprised that a plate of dry crumbs is a full meal. It is traditionally eaten with milky coffee, compote or cheese.",
+     "wiki_en": "Ribel",
+     "wiki_ja": ""
+    },
+    {
+     "key": "Lithuania",
+     "name": "Cold Pink Beet Soup (Šaltibarščiai)",
+     "text": "A chilled soup of kefir, beetroot, cucumber, dill and boiled egg in a striking bright pink. The colour is what surprises visitors most. Lithuanians eat it in summer with hot boiled or fried potatoes on the side.",
+     "wiki_en": "Šaltibarščiai",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Cold_beet_soup",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/37/Lurid_borscht.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Lurid_borscht.jpg",
+      "artist": "User:TreasuryTag",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Lurid_borscht.jpg"
+     }
+    },
+    {
+     "key": "Luxembourg",
+     "name": "Smoked Pork Collar with Broad Beans (Judd mat Gaardebounen)",
+     "text": "Smoked, salted pork collar, soaked and simmered until tender, served with broad beans in a creamy sauce. Visitors are surprised by the generous slabs of meat and the strong smoky flavour. It is widely regarded as Luxembourg's national dish, served with potatoes.",
+     "wiki_en": "Judd mat Gaardebounen",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Judd_mat_Gaardebounen",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/JuddMatGaardebounen_Beer.JPG/960px-JuddMatGaardebounen_Beer.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:JuddMatGaardebounen_Beer.JPG",
+      "artist": "Jpatokal",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:JuddMatGaardebounen_Beer.JPG"
+     }
+    },
+    {
+     "key": "Malta",
+     "name": "Rabbit Stew (Stuffat tal-fenek)",
+     "text": "Rabbit slowly stewed in red wine, tomato, garlic and bay leaves until it falls off the bone. Rabbit as a national favourite surprises some visitors. Maltese families gather for a fenkata, a shared rabbit feast, often starting with spaghetti in the sauce.",
+     "wiki_en": "Stuffat tal-fenek",
+     "wiki_ja": ""
+    },
+    {
+     "key": "Moldova",
+     "name": "Cornmeal Porridge (Mămăligă)",
+     "text": "A firm yellow cornmeal porridge that is turned out of the pot like a cake. Visitors are surprised to see it cut with a string instead of a knife. Moldovans eat it with sheep's cheese, sour cream and stews.",
+     "wiki_en": "Mămăligă",
+     "wiki_ja": "ママリガ",
+     "link": "https://en.wikipedia.org/wiki/M%C4%83m%C4%83lig%C4%83",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Mamaliga.jpg/960px-Mamaliga.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Mamaliga.jpg",
+      "artist": "Unknown author",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Mamaliga.jpg"
+     }
+    },
+    {
+     "key": "Monaco",
+     "name": "Stocafi (Estocafic)",
+     "text": "Dried stockfish rehydrated and simmered slowly with tomatoes, garlic, olives and herbs. The strong aroma of the dried cod surprises newcomers, but in Monaco it is a cherished traditional dish, often served with potatoes at family meals.",
+     "wiki_en": "",
+     "wiki_ja": ""
+    },
+    {
+     "key": "Montenegro",
+     "name": "Kačamak",
+     "text": "A dense, hearty porridge of cornmeal and potatoes beaten together with generous amounts of kajmak and cheese. Its heavy, stretchy texture surprises visitors, while mountain families enjoy it as warming comfort food, often with a glass of sour milk.",
+     "wiki_en": "Kačamak",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Ka%C4%8Damak",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/%D0%9A%D0%B0%D1%87%D0%B0%D0%BC%D0%B0%D0%BA_%D1%81%D0%BE_%D0%BA%D0%B8%D1%81%D0%B5%D0%BB%D0%BE_%D0%BC%D0%BB%D0%B5%D0%BA%D0%BE_%D0%B8_%D0%BF%D0%B0%D1%80%D1%87%D0%B5_%D1%81%D0%B8%D1%80%D0%B5%D1%9A%D0%B5.jpg/960px-%D0%9A%D0%B0%D1%87%D0%B0%D0%BC%D0%B0%D0%BA_%D1%81%D0%BE_%D0%BA%D0%B8%D1%81%D0%B5%D0%BB%D0%BE_%D0%BC%D0%BB%D0%B5%D0%BA%D0%BE_%D0%B8_%D0%BF%D0%B0%D1%80%D1%87%D0%B5_%D1%81%D0%B8%D1%80%D0%B5%D1%9A%D0%B5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Качамак_со_кисело_млеко_и_парче_сирење.jpg",
+      "artist": "Ssofija",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:%D0%9A%D0%B0%D1%87%D0%B0%D0%BC%D0%B0%D0%BA_%D1%81%D0%BE_%D0%BA%D0%B8%D1%81%D0%B5%D0%BB%D0%BE_%D0%BC%D0%BB%D0%B5%D0%BA%D0%BE_%D0%B8_%D0%BF%D0%B0%D1%80%D1%87%D0%B5_%D1%81%D0%B8%D1%80%D0%B5%D1%9A%D0%B5.jpg"
+     }
+    },
+    {
+     "key": "Netherlands",
+     "name": "Dutch raw herring (Hollandse Nieuwe)",
+     "text": "Young herring lightly cured in salt and eaten raw, typically with chopped onions and pickles. Visitors are startled by the classic way of eating it: held by the tail and lowered into the mouth. Locals celebrate each new season's catch.",
+     "wiki_en": "Soused herring",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Soused_herring",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Haring_04.jpg/960px-Haring_04.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Haring_04.jpg",
+      "artist": "Takeaway",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Haring_04.jpg"
+     }
+    },
+    {
+     "key": "North Macedonia",
+     "name": "Tripe soup (Shkembe chorba)",
+     "text": "A milky soup made from slowly boiled tripe, seasoned at the table with garlic, vinegar and hot red pepper. The distinctive smell and chewy texture can surprise first-timers, yet many locals value it as a restorative morning meal.",
+     "wiki_en": "Shkembe chorba",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Tripe_soup",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Tripe_soup_from_Turkey.jpg/960px-Tripe_soup_from_Turkey.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Tripe_soup_from_Turkey.jpg",
+      "artist": "E4024",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Tripe_soup_from_Turkey.jpg"
+     }
+    },
+    {
+     "key": "Norway",
+     "name": "Smalahove",
+     "text": "A salted, sometimes smoked, sheep's head that is boiled or steamed and served with potatoes and mashed rutabaga. Seeing a whole head on the plate startles many visitors, but in western Norway it is a treasured pre-Christmas tradition.",
+     "wiki_en": "Smalahove",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Smalahove",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Smalahove01.JPG/960px-Smalahove01.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Smalahove01.JPG",
+      "artist": "PerPlex",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Smalahove01.JPG"
+     }
+    },
+    {
+     "key": "Poland",
+     "name": "Duck blood soup (Czernina)",
+     "text": "A dark soup made from duck broth and duck blood, balanced with vinegar and sweetened with dried fruit. The sweet-and-sour taste and the key ingredient surprise many people; it is traditionally served with noodles or dumplings.",
+     "wiki_en": "Czernina",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Czernina",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Czernina.zupa.jpg/960px-Czernina.zupa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Czernina.zupa.jpg",
+      "artist": "No machine-readable author provided. Julo assumed (based on ",
+      "license": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:Czernina.zupa.jpg"
+     }
+    },
+    {
+     "key": "Portugal",
+     "name": "Lamprey rice (Arroz de lampreia)",
+     "text": "Lamprey, an eel-like jawless fish, stewed with rice in a dark sauce enriched with its own blood and red wine. Its appearance surprises many, yet in northern Portugal it is a prized seasonal delicacy enjoyed in late winter and early spring.",
+     "wiki_en": "",
+     "wiki_ja": ""
+    },
+    {
+     "key": "Romania",
+     "name": "Tripe soup (Ciorbă de burtă)",
+     "text": "A creamy, sour soup of beef tripe enriched with egg yolks and sour cream, sharpened with garlic and vinegar. Newcomers hesitate at the tripe, but Romanians hold it in high regard and often enjoy it with hot peppers.",
+     "wiki_en": "Tripe soup",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Tripe_soup",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Tripe_soup_from_Turkey.jpg/960px-Tripe_soup_from_Turkey.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Tripe_soup_from_Turkey.jpg",
+      "artist": "E4024",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Tripe_soup_from_Turkey.jpg"
+     }
+    },
+    {
+     "key": "Russia",
+     "name": "Kholodets",
+     "text": "A savoury meat jelly made by simmering pork or beef cuts for hours until the broth sets naturally when chilled. Cold, wobbly meat surprises many visitors; Russians serve it at festive tables with sharp mustard or horseradish.",
+     "wiki_en": "Aspic",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Aspic",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Aspic-with-eggs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Aspic-with-eggs.jpg",
+      "artist": "Anthony Georgeff",
+      "license": "CC BY 2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Aspic-with-eggs.jpg"
+     }
+    },
+    {
+     "key": "San Marino",
+     "name": "Torta Tre Monti",
+     "text": "A cake of thin round wafers layered with chocolate and hazelnut cream, its edge coated in chocolate. Named after San Marino's three towers, it surprises people by being a famous cake that is not baked. Locals enjoy slices with coffee.",
+     "wiki_en": "Torta Tre Monti",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Torta_Tre_Monti",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/La_Serenissima_Torta_Tre_Monti.jpg/960px-La_Serenissima_Torta_Tre_Monti.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:La_Serenissima_Torta_Tre_Monti.jpg",
+      "artist": "Mooonswimmer",
+      "license": "CC BY 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:La_Serenissima_Torta_Tre_Monti.jpg"
+     }
+    },
+    {
+     "key": "Serbia",
+     "name": "Pihtije",
+     "text": "A cold jellied dish made from pork cuts simmered for hours with garlic, then left to set and often dusted with paprika. The idea of savoury meat jelly surprises visitors; Serbian families serve it in winter and at celebrations.",
+     "wiki_en": "Aspic",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Aspic",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Aspic-with-eggs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Aspic-with-eggs.jpg",
+      "artist": "Anthony Georgeff",
+      "license": "CC BY 2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Aspic-with-eggs.jpg"
+     }
+    },
+    {
+     "key": "Slovakia",
+     "name": "Bryndzové halušky",
+     "text": "Small potato dumplings tossed with bryndza, a soft and tangy sheep's milk cheese, and topped with fried bacon. The cheese's sharp, pungent flavour surprises newcomers. It is Slovakia's national dish, traditionally enjoyed with a glass of sour milk.",
+     "wiki_en": "Bryndzové halušky",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Bryndzov%C3%A9_halu%C5%A1ky",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Bryndzov%C3%A9_halu%C5%A1ky_so_slaninou.jpg/960px-Bryndzov%C3%A9_halu%C5%A1ky_so_slaninou.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Bryndzové_halušky_so_slaninou.jpg",
+      "artist": "Gregory finster",
+      "license": "CC0",
+      "page": "https://commons.wikimedia.org/wiki/File:Bryndzov%C3%A9_halu%C5%A1ky_so_slaninou.jpg"
+     }
+    },
+    {
+     "key": "Slovenia",
+     "name": "Carniolan sausage with tarragon potica (Pehtranova potica)",
+     "text": "Potica is Slovenia's beloved rolled festive cake, and one classic version is filled with fresh tarragon. Using a herb usually paired with savoury dishes in a sweet cake surprises visitors. Families bake it for Easter and other celebrations.",
+     "wiki_en": "Potica",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Potica",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/MintpoticabySara.jpg/960px-MintpoticabySara.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:MintpoticabySara.jpg",
+      "artist": "SaraKHintz",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:MintpoticabySara.jpg"
+     }
+    },
+    {
+     "key": "Spain",
+     "name": "Goose barnacles (Percebes)",
+     "text": "Shellfish resembling small claws, harvested from wave-battered rocks on the Galician coast in famously risky conditions. Their appearance and high price surprise visitors. Locals simply boil them briefly in salted water and savour their pure taste of the sea.",
+     "wiki_en": "Pollicipes pollicipes",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Pollicipes_pollicipes",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Pollicipes_pollicipes.jpg/960px-Pollicipes_pollicipes.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Pollicipes_pollicipes.jpg",
+      "artist": "Hans Hillewaert",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Pollicipes_pollicipes.jpg"
+     }
+    },
+    {
+     "key": "Sweden",
+     "name": "Surströmming",
+     "text": "Baltic herring fermented for months and sold in cans that bulge from the ongoing fermentation. Its powerful smell is world-famous, so cans are usually opened outdoors. Swedes enjoy it on thin flatbread with potatoes, onions and sour cream in late summer.",
+     "wiki_en": "Surströmming",
+     "wiki_ja": "シュールストレミング",
+     "link": "https://en.wikipedia.org/wiki/Surstr%C3%B6mming",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Surstr%C3%B6mming.jpg/960px-Surstr%C3%B6mming.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Surströmming.jpg",
+      "artist": "Lapplaender",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Surstr%C3%B6mming.jpg"
+     }
+    },
+    {
+     "key": "Switzerland",
+     "name": "Raclette",
+     "text": "A wheel of semi-hard cheese heated until the surface melts, then scraped onto boiled potatoes with pickled gherkins and onions. The strong aroma of warm cheese surprises some guests. Swiss families and friends gather around it for long winter meals.",
+     "wiki_en": "Raclette",
+     "wiki_ja": "ラクレット",
+     "link": "https://en.wikipedia.org/wiki/Raclette",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Raclette_20040817_140816.jpg/960px-Raclette_20040817_140816.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Raclette_20040817_140816.jpg",
+      "artist": "Ka23 13",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Raclette_20040817_140816.jpg"
+     }
+    },
+    {
+     "key": "Ukraine",
+     "name": "Salo",
+     "text": "Cured slabs of pork fatback, salted and sometimes smoked or seasoned with garlic and pepper. Eating nearly pure fat in slices surprises many visitors. Ukrainians enjoy it thinly cut on rye bread with garlic, onion or pickles.",
+     "wiki_en": "Salo (food)",
+     "wiki_ja": "サーロ",
+     "link": "https://en.wikipedia.org/wiki/Salo_(food)",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Sa%C5%82o.JPG/960px-Sa%C5%82o.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Sało.JPG",
+      "artist": "Beiot",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Sa%C5%82o.JPG"
+     }
+    },
+    {
+     "key": "United Kingdom",
+     "name": "Haggis",
+     "text": "Scotland's national dish: sheep's offal minced with oatmeal, onion and spices, traditionally cooked in a sheep's stomach. The ingredient list startles many, but its peppery, savoury taste wins people over. It is served with mashed turnips and potatoes on Burns Night.",
+     "wiki_en": "Haggis",
+     "wiki_ja": "ハギス",
+     "link": "https://en.wikipedia.org/wiki/Haggis",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Scotland_Haggis.jpg/960px-Scotland_Haggis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Scotland_Haggis.jpg",
+      "artist": "Chris Brown",
+      "license": "CC BY 2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Scotland_Haggis.jpg"
+     }
+    },
+    {
+     "key": "Vatican City",
+     "name": "Roman-style tripe (Trippa alla romana)",
+     "text": "Vatican City shares the food culture of surrounding Rome, where beef tripe is simmered in tomato sauce and finished with pecorino romano and mint. The chewy offal surprises visitors, yet it is a beloved classic of Roman home cooking.",
+     "wiki_en": "Trippa alla romana",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Trippa_alla_romana",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Trippa_Alla_Romana.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Trippa_Alla_Romana.jpg",
+      "artist": "Calabrotto",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Trippa_Alla_Romana.jpg"
+     }
+    }
+   ]
+  },
+  {
+   "name": "North America, Central America & the Car",
+   "items": [
+    {
+     "key": "Canada",
+     "name": "Poutine",
+     "text": "French fries topped with fresh cheese curds and hot brown gravy, born in rural Quebec. Newcomers are surprised by the squeaky curds and soggy-on-purpose fries. Canadians enjoy it as late-night comfort food, from roadside diners to hockey arenas.",
+     "wiki_en": "Poutine",
+     "wiki_ja": "プーティン",
+     "link": "https://en.wikipedia.org/wiki/Poutine",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Food_at_WIkimanian_2017_02.jpg/960px-Food_at_WIkimanian_2017_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Food_at_WIkimanian_2017_02.jpg",
+      "artist": "Camelia.boban",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Food_at_WIkimanian_2017_02.jpg"
+     }
+    },
+    {
+     "key": "United States",
+     "name": "Scrapple",
+     "text": "A Pennsylvania Dutch loaf of pork trimmings simmered with cornmeal and spices, then sliced and pan-fried until crisp. Its nose-to-tail thrift surprises visitors. Locals in the Mid-Atlantic eat it at breakfast with eggs, apple butter, or maple syrup.",
+     "wiki_en": "Scrapple",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Scrapple",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Scrapple_comparison.jpg/960px-Scrapple_comparison.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Scrapple_comparison.jpg",
+      "artist": "Alyo",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Scrapple_comparison.jpg"
+     }
+    },
+    {
+     "key": "Mexico",
+     "name": "Ant larvae (Escamoles)",
+     "text": "The edible larvae and pupae of ants, harvested from the roots of agave plants in central Mexico and eaten since pre-Hispanic times. Their buttery, nutty flavor surprises first-timers. They are typically sautéed with butter and epazote and served in tacos.",
+     "wiki_en": "Escamol",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Escamol",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Escamoles.jpg/960px-Escamoles.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Escamoles.jpg",
+      "artist": "Cvmontuy",
+      "license": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:Escamoles.jpg"
+     }
+    },
+    {
+     "key": "Belize",
+     "name": "Cow foot soup",
+     "text": "A thick, hearty soup of slow-simmered cow's feet with vegetables such as okra and root crops, seasoned with herbs and pepper. The rich, gelatinous texture surprises newcomers. Belizeans enjoy it as a filling weekend meal, often with rice.",
+     "wiki_en": "",
+     "wiki_ja": ""
+    },
+    {
+     "key": "Costa Rica",
+     "name": "Tripe soup (Sopa de mondongo)",
+     "text": "A slow-cooked soup of beef tripe with vegetables such as cassava, carrots, and corn, flavored with cilantro. Visitors are often surprised by the tender, chewy tripe. Families enjoy it as a restorative weekend lunch with rice and lime.",
+     "wiki_en": "Sopa de mondongo",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Sopa_de_mondongo",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/37/Modongo_soup.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Modongo_soup.jpg",
+      "artist": "Jason Lam",
+      "license": "CC BY-SA 2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Modongo_soup.jpg"
+     }
+    },
+    {
+     "key": "El Salvador",
+     "name": "Cow foot soup (Sopa de pata)",
+     "text": "A substantial soup made with cow's feet and tripe, simmered with cassava, corn, plantain, chayote, and cabbage. The gelatinous broth surprises newcomers. Salvadorans season it with lime and chili and enjoy it as a hearty weekend dish.",
+     "wiki_en": "Sopa de pata",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Sopa_de_pata",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Sopa_de_pata.jpg/960px-Sopa_de_pata.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Sopa_de_pata.jpg",
+      "artist": "Mima",
+      "license": "CC BY 2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Sopa_de_pata.jpg"
+     }
+    },
+    {
+     "key": "Guatemala",
+     "name": "Fiambre",
+     "text": "A lavish chilled salad that can include dozens of ingredients: sausages, cold cuts, cheeses, pickled vegetables, beets, and olives. Its sheer abundance surprises visitors. Families prepare it together once a year for All Saints' Day and share it with relatives.",
+     "wiki_en": "Fiambre",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Fiambre",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Fiambre_-_11042021_%28cropped%29.jpg/960px-Fiambre_-_11042021_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Fiambre_-_11042021_(cropped).jpg",
+      "artist": "Gobierno de Guatemala",
+      "license": "CC0",
+      "page": "https://commons.wikimedia.org/wiki/File:Fiambre_-_11042021_(cropped).jpg"
+     }
+    },
+    {
+     "key": "Honduras",
+     "name": "Conch soup (Sopa de caracol)",
+     "text": "A creamy Caribbean-coast soup of sea conch cooked in coconut milk with cassava, green plantain, and cilantro. The mix of shellfish and sweet coconut surprises many. It is so beloved that a famous Honduran dance song is named after it.",
+     "wiki_en": "Sopa de caracol",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Sopa_de_Caracol"
+    },
+    {
+     "key": "Nicaragua",
+     "name": "Vigorón",
+     "text": "Boiled cassava topped with crunchy fried pork rinds and a tangy cabbage slaw, traditionally served on a plantain leaf. Visitors are surprised that it is eaten by hand without a plate. It is a favorite street food in the city of Granada.",
+     "wiki_en": "Vigorón",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Vigor%C3%B3n",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/VIGORON.JPG/960px-VIGORON.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:VIGORON.JPG",
+      "artist": "Nicaraguan food",
+      "license": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:VIGORON.JPG"
+     }
+    },
+    {
+     "key": "Panama",
+     "name": "Tripe stew (Mondongo)",
+     "text": "Beef tripe slow-cooked until tender in a seasoned tomato-based sauce, often with chickpeas and chorizo. The honeycomb texture of the tripe surprises newcomers. Panamanians serve it over white rice, often at family gatherings and celebrations.",
+     "wiki_en": "",
+     "wiki_ja": ""
+    },
+    {
+     "key": "Antigua and Barbuda",
+     "name": "Fungee and pepperpot",
+     "text": "The national dish: smooth cornmeal and okra dumplings (fungee) paired with pepperpot, a thick stew of greens, vegetables, and salted meats. The firm, polenta-like fungee surprises visitors. Locals enjoy it as a traditional home-cooked meal.",
+     "wiki_en": "",
+     "wiki_ja": ""
+    },
+    {
+     "key": "Bahamas",
+     "name": "Conch salad",
+     "text": "Raw sea conch diced with tomato, onion, and peppers, then cured in fresh lime and sour orange juice. Eating a large sea snail uncooked surprises many visitors. It is prepared to order at seaside stalls and eaten fresh on the spot.",
+     "wiki_en": "",
+     "wiki_ja": ""
+    },
+    {
+     "key": "Barbados",
+     "name": "Pudding and souse",
+     "text": "Pickled pork, traditionally including trotters and ears, marinated with lime, cucumber, and hot pepper, served with steamed spiced sweet potato pudding. The cold, tangy pork surprises newcomers. Bajans traditionally enjoy it as a Saturday lunch.",
+     "wiki_en": "",
+     "wiki_ja": ""
+    },
+    {
+     "key": "Cuba",
+     "name": "Ajiaco",
+     "text": "A thick stew combining several meats with many root vegetables and starches, such as cassava, malanga, sweet potato, plantain, and corn. Its long ingredient list surprises visitors. Cubans see it as a symbol of their blended heritage and share it at gatherings.",
+     "wiki_en": "Ajiaco",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Ajiaco",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Ajiaco.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Ajiaco.jpg",
+      "artist": "Mauricio Giraldo from Bogotá, Colombia",
+      "license": "CC BY-SA 2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Ajiaco.jpg"
+     }
+    },
+    {
+     "key": "Dominica",
+     "name": "Mountain chicken",
+     "text": "Despite the name, this is a large frog, the giant ditch frog, once considered the island's national dish. The name surprises visitors. The species is now critically endangered and protected, so the dish is no longer served and lives on as culinary heritage.",
+     "wiki_en": "Mountain chicken",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Leptodactylus_fallax",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Leptodactylus_fallax_%281%29.jpg/960px-Leptodactylus_fallax_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Leptodactylus_fallax_(1).jpg",
+      "artist": "TimVickers",
+      "license": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:Leptodactylus_fallax_(1).jpg"
+     }
+    },
+    {
+     "key": "Dominican Republic",
+     "name": "Mondongo",
+     "text": "A hearty stew of beef tripe cleaned with citrus and simmered with tomato, peppers, onion, and cilantro. The soft, chewy tripe surprises first-timers. Dominicans enjoy it with white rice, avocado, and a splash of hot sauce, often on weekends.",
+     "wiki_en": "",
+     "wiki_ja": ""
+    },
+    {
+     "key": "Grenada",
+     "name": "Oil down",
+     "text": "The national dish: breadfruit, salted meat, dumplings, and callaloo leaves stewed in coconut milk and turmeric until the liquid is absorbed and the coconut oil settles at the bottom. It is cooked in one big pot outdoors and shared among friends.",
+     "wiki_en": "Oil down",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Oil_down",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Cooking_oil_down_03.jpg/960px-Cooking_oil_down_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Cooking_oil_down_03.jpg",
+      "artist": "St. Georges U. S. Embassy",
+      "license": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:Cooking_oil_down_03.jpg"
+     }
+    },
+    {
+     "key": "Haiti",
+     "name": "Lalo",
+     "text": "A stew of jute leaves cooked down with beef or pork and often blue crab. The leaves' silky, slightly slippery texture surprises newcomers. It is a specialty of the Artibonite region, served with white rice.",
+     "wiki_en": "",
+     "wiki_ja": ""
+    },
+    {
+     "key": "Jamaica",
+     "name": "Ackee and saltfish",
+     "text": "The national dish: salted cod sautéed with ackee, a fruit that looks and feels like scrambled eggs when cooked. Surprisingly, ackee is toxic if eaten unripe, so it is carefully prepared. Jamaicans love it for breakfast with fried dumplings or breadfruit.",
+     "wiki_en": "Ackee and saltfish",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Ackee_and_saltfish",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Ackee_and_Saltfish.jpg/960px-Ackee_and_Saltfish.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Ackee_and_Saltfish.jpg",
+      "artist": "gailf548 from New York State, USA",
+      "license": "CC BY 2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Ackee_and_Saltfish.jpg"
+     }
+    },
+    {
+     "key": "Saint Kitts and Nevis",
+     "name": "Goat water",
+     "text": "A rich, dark stew of goat meat simmered with breadfruit, green papaya, dumplings, and warming spices such as clove. The name and the bone-in cuts surprise visitors. It is a popular dish at festivals and community gatherings.",
+     "wiki_en": "Goat water",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Goat_water",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/35/Goat_Water.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Goat_Water.jpg",
+      "artist": "Cbeanstudies",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Goat_Water.jpg"
+     }
+    },
+    {
+     "key": "Saint Lucia",
+     "name": "Green figs and saltfish",
+     "text": "The national dish, where \"green figs\" are actually unripe bananas, boiled and served with salted cod sautéed with onion, peppers, and herbs. Savory bananas surprise many visitors. Saint Lucians enjoy it especially at weekend meals and Creole heritage celebrations.",
+     "wiki_en": "",
+     "wiki_ja": ""
+    },
+    {
+     "key": "Saint Vincent and the Grenadines",
+     "name": "Roasted breadfruit and fried jackfish",
+     "text": "The national dish: whole breadfruit roasted over an open fire until charred outside and soft inside, served with crisp fried jackfish. The bread-like fruit surprises visitors. Vincentians enjoy it at home and at beach cookouts.",
+     "wiki_en": "",
+     "wiki_ja": ""
+    },
+    {
+     "key": "Trinidad and Tobago",
+     "name": "Souse",
+     "text": "Boiled pig's or chicken feet served cold in a brine of lime juice, cucumber, onion, and hot pepper. The chilled, tangy trotters surprise newcomers. Trinidadians enjoy it as a refreshing street snack, especially at parties and weekend limes.",
+     "wiki_en": "Souse",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Souse"
+    }
+   ]
+  },
+  {
+   "name": "South America",
+   "items": [
+    {
+     "key": "Argentina",
+     "name": "Grilled offal (Achuras: chinchulines and mollejas)",
+     "text": "At an Argentine asado, the meal often opens with achuras: crispy grilled small intestines and creamy sweetbreads. Visitors expecting only steak are surprised, but locals squeeze lemon over them and consider them the best part of the barbecue.",
+     "wiki_en": "Chinchulín",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Chunchullo",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Chinchulines.jpg/960px-Chinchulines.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Chinchulines.jpg",
+      "artist": "Sebastian Bassi",
+      "license": "CC BY 2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Chinchulines.jpg"
+     }
+    },
+    {
+     "key": "Bolivia",
+     "name": "Freeze-dried potatoes (Chuño)",
+     "text": "Andean farmers leave potatoes out in freezing night air, then trample and sun-dry them into light, dark, stone-like pieces that keep for years. The earthy flavor surprises newcomers; Bolivians rehydrate them for soups and serve them alongside meat and cheese.",
+     "wiki_en": "Chuño",
+     "wiki_ja": "チューニョ",
+     "link": "https://en.wikipedia.org/wiki/Chu%C3%B1o",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Chu%C3%B1o.jpg/960px-Chu%C3%B1o.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Chuño.jpg",
+      "artist": "Eric in SF",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Chu%C3%B1o.jpg"
+     }
+    },
+    {
+     "key": "Brazil",
+     "name": "Duck in tucupi sauce (Pato no tucupi)",
+     "text": "This Amazonian dish from Pará simmers duck in tucupi, a yellow broth from wild cassava that must be boiled to remove its toxins. Jambu leaves make the mouth tingle and go slightly numb. It is a festive favorite in Belém.",
+     "wiki_en": "Pato no tucupi",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Pato_no_tucupi",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/BrunaBrandao_Pato_no_Tucupi_Belem_PA_%2826185651117%29.jpg/960px-BrunaBrandao_Pato_no_Tucupi_Belem_PA_%2826185651117%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:BrunaBrandao_Pato_no_Tucupi_Belem_PA_(26185651117).jpg",
+      "artist": "MTur Destinos",
+      "license": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:BrunaBrandao_Pato_no_Tucupi_Belem_PA_(26185651117).jpg"
+     }
+    },
+    {
+     "key": "Chile",
+     "name": "Piure (Pyura chilensis)",
+     "text": "Piure is a sea squirt that looks like a rock on the outside and bright red flesh inside. Its strong iodine, slightly bitter taste startles first-timers. Chileans eat it raw with lemon, onion and cilantro, or cooked with rice.",
+     "wiki_en": "Pyura chilensis",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Pyura_chilensis",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Piure_sobre_un_ostion_y_machas.jpg/960px-Piure_sobre_un_ostion_y_machas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Piure_sobre_un_ostion_y_machas.jpg",
+      "artist": "sergio.majluf",
+      "license": "CC BY 2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Piure_sobre_un_ostion_y_machas.jpg"
+     }
+    },
+    {
+     "key": "Colombia",
+     "name": "Big-bottomed ants (Hormigas culonas)",
+     "text": "In Santander, large leafcutter ant queens are harvested during the rainy season, then toasted with salt. Visitors are surprised by the crunchy, nutty, slightly smoky snack, a tradition inherited from the Guane people and often given as a prized gift.",
+     "wiki_en": "Hormiga culona",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Atta_laevigata",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Atta_laevigata_casent0173811_profile_1.jpg/960px-Atta_laevigata_casent0173811_profile_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Atta_laevigata_casent0173811_profile_1.jpg",
+      "artist": "April Nobile",
+      "license": "CC BY 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Atta_laevigata_casent0173811_profile_1.jpg"
+     }
+    },
+    {
+     "key": "Ecuador",
+     "name": "Roasted guinea pig (Cuy asado)",
+     "text": "Guinea pig has been raised for food in the Andes for thousands of years. Seeing it roasted whole surprises travelers who know it as a pet. In highland Ecuador it is a celebration dish, served with potatoes and peanut sauce.",
+     "wiki_en": "Cuy",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Cuy"
+    },
+    {
+     "key": "Guyana",
+     "name": "Pepperpot",
+     "text": "Guyana's national dish is a dark meat stew flavored with cassareep, a thick syrup made from cassava juice, plus cinnamon and hot peppers. Its bittersweet depth surprises newcomers. Families traditionally eat it on Christmas morning with dense homemade bread.",
+     "wiki_en": "Guyanese pepperpot",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Guyanese_pepperpot",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Pepperpot_%2816135006279%29.jpg/960px-Pepperpot_%2816135006279%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Pepperpot_(16135006279).jpg",
+      "artist": "Simon Abrams from Brooklyn, USA",
+      "license": "CC BY 2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Pepperpot_(16135006279).jpg"
+     }
+    },
+    {
+     "key": "Paraguay",
+     "name": "Sopa paraguaya",
+     "text": "Its name means \"Paraguayan soup,\" yet it arrives as a firm, golden cornbread rich with cheese, onion and milk. The solid \"soup\" delights confused visitors. Paraguayans serve it at barbecues, holidays and family gatherings.",
+     "wiki_en": "Sopa paraguaya",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Sopa_paraguaya",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/58/Sopa_Paraguaya_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Sopa_Paraguaya_2.jpg",
+      "artist": "Aterovi",
+      "license": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:Sopa_Paraguaya_2.jpg"
+     }
+    },
+    {
+     "key": "Peru",
+     "name": "Grilled beef heart skewers (Anticuchos)",
+     "text": "Anticuchos are skewers of beef heart marinated in vinegar, garlic, cumin and ají panca chili, then grilled over charcoal. Many visitors hesitate at heart meat, then find it tender and smoky. Peruvians buy them from street stalls in the evening.",
+     "wiki_en": "Anticucho",
+     "wiki_ja": "アンティクーチョ",
+     "link": "https://en.wikipedia.org/wiki/Anticucho",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Anticuchos_-_Grilled_Beef_Heart_skewers.jpg/960px-Anticuchos_-_Grilled_Beef_Heart_skewers.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Anticuchos_-_Grilled_Beef_Heart_skewers.jpg",
+      "artist": "Carly & Art",
+      "license": "CC BY-SA 2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Anticuchos_-_Grilled_Beef_Heart_skewers.jpg"
+     }
+    },
+    {
+     "key": "Suriname",
+     "name": "Pom",
+     "text": "Pom is an oven-baked casserole of chicken and grated pomtajer, the root of the tayer plant, sharpened with citrus juice. Its tangy, sweet-savory taste is unexpected. No Surinamese birthday feels complete without it, and leftovers go into sandwiches.",
+     "wiki_en": "Pom (dish)",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Pom_(dish)",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Pom_gerecht.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Pom_gerecht.JPG",
+      "artist": "No machine-readable author provided. Alfredo1980 assumed (ba",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Pom_gerecht.JPG"
+     }
+    },
+    {
+     "key": "Uruguay",
+     "name": "Chivito",
+     "text": "Chivito means \"little goat,\" but this sandwich contains no goat at all: it stacks thin beef steak with ham, mozzarella, egg, lettuce, tomato and mayonnaise. Its towering size surprises visitors. Uruguayans treat it as their national sandwich, usually with fries.",
+     "wiki_en": "Chivito (sandwich)",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Chivito_(sandwich)",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/48/Chivito1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Chivito1.jpg",
+      "artist": "Carlinosin at English Wikipedia",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Chivito1.jpg"
+     }
+    },
+    {
+     "key": "Venezuela",
+     "name": "Mondongo (tripe soup)",
+     "text": "Mondongo is a slow-cooked soup of beef tripe with root vegetables, corn and herbs. The chewy texture of stomach lining surprises people new to it. Venezuelans enjoy it as a hearty weekend meal, often with arepas and a squeeze of lime.",
+     "wiki_en": "Sopa de mondongo",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Sopa_de_mondongo",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/37/Modongo_soup.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Modongo_soup.jpg",
+      "artist": "Jason Lam",
+      "license": "CC BY-SA 2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Modongo_soup.jpg"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Oceania",
+   "items": [
+    {
+     "key": "Australia",
+     "name": "Vegemite",
+     "text": "A dark, salty spread made from leftover brewer's yeast extract. Its intense, savoury bitterness startles first-timers who spread it thickly like jam. Australians grow up with it scraped thinly over hot buttered toast at breakfast.",
+     "wiki_en": "Vegemite",
+     "wiki_ja": "ベジマイト",
+     "link": "https://en.wikipedia.org/wiki/Vegemite",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/84/Vegemite_brand_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Vegemite_brand_logo.png",
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:Vegemite_brand_logo.png"
+     }
+    },
+    {
+     "key": "Fiji",
+     "name": "Kava (yaqona)",
+     "text": "A drink made from the pounded root of a pepper plant mixed with water. It looks like muddy water and gently numbs the lips and tongue. Fijians share it from a communal bowl at ceremonies and relaxed evening gatherings.",
+     "wiki_en": "Kava",
+     "wiki_ja": "カヴァ",
+     "link": "https://en.wikipedia.org/wiki/Kava",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Starr_070515-7054_Piper_methysticum.jpg/960px-Starr_070515-7054_Piper_methysticum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Starr_070515-7054_Piper_methysticum.jpg",
+      "artist": "Forest & Kim Starr",
+      "license": "CC BY 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Starr_070515-7054_Piper_methysticum.jpg"
+     }
+    },
+    {
+     "key": "Kiribati",
+     "name": "Coconut palm toddy (karewe)",
+     "text": "Fresh sap tapped from the cut flower stalk of a coconut palm, collected twice a day. Visitors are surprised that a tree can be \"milked\" for a sweet drink. Islanders drink it fresh or boil it into a rich syrup.",
+     "wiki_en": "",
+     "wiki_ja": ""
+    },
+    {
+     "key": "Marshall Islands",
+     "name": "Preserved breadfruit paste (bwiro)",
+     "text": "Breadfruit fermented in leaf-lined pits until it becomes a tangy, strong-smelling paste that keeps for a long time. The sour aroma surprises newcomers. Marshallese families traditionally bake it with coconut as a prized food for lean seasons and voyages.",
+     "wiki_en": "Breadfruit",
+     "wiki_ja": "パンノキ",
+     "link": "https://en.wikipedia.org/wiki/Breadfruit",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Artocarpus_altilis_%28fruit%29.jpg/960px-Artocarpus_altilis_%28fruit%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Artocarpus_altilis_(fruit).jpg",
+      "artist": "Hans Hillewaert",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Artocarpus_altilis_(fruit).jpg"
+     }
+    },
+    {
+     "key": "Micronesia",
+     "name": "Sakau (Pohnpeian kava)",
+     "text": "On Pohnpei, fresh kava root is pounded on large basalt stones and squeezed through hibiscus bark fibre. The result is thick, slippery and earthy, which surprises visitors. Locals pass the cup quietly among friends as evening falls.",
+     "wiki_en": "Kava",
+     "wiki_ja": "カヴァ",
+     "link": "https://en.wikipedia.org/wiki/Kava",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Starr_070515-7054_Piper_methysticum.jpg/960px-Starr_070515-7054_Piper_methysticum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Starr_070515-7054_Piper_methysticum.jpg",
+      "artist": "Forest & Kim Starr",
+      "license": "CC BY 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Starr_070515-7054_Piper_methysticum.jpg"
+     }
+    },
+    {
+     "key": "Nauru",
+     "name": "Noddy bird (black noddy)",
+     "text": "A small seabird traditionally caught at dusk as it returns from the sea. Eating a tern-like seabird surprises many visitors. Nauruans value it as a traditional food tied to long-practised catching skills.",
+     "wiki_en": "Black noddy",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Black_noddy",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Anous_minutus_by_Gregg_Yan_02.jpg/960px-Anous_minutus_by_Gregg_Yan_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Anous_minutus_by_Gregg_Yan_02.jpg",
+      "artist": "Gregg Yan",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Anous_minutus_by_Gregg_Yan_02.jpg"
+     }
+    },
+    {
+     "key": "New Zealand",
+     "name": "Huhu grubs",
+     "text": "Plump, cream-coloured larvae of the huhu beetle, found in rotting logs. Many are surprised that they are said to taste like peanut butter. A traditional Māori food, they are eaten raw or lightly cooked, and feature at wild food festivals.",
+     "wiki_en": "Huhu beetle",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Huhu_beetle",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Huhu%2C_Titirangi%2C_Auckland_0604%2C_New_Zealand_imported_from_iNaturalist_photo_467356624.jpg/960px-Huhu%2C_Titirangi%2C_Auckland_0604%2C_New_Zealand_imported_from_iNaturalist_photo_467356624.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Huhu,_Titirangi,_Auckland_0604,_New_Zealand_imported_from_iNaturalist_photo_467356624.jpg",
+      "artist": "(c) Saryu Mae 前 朝琉, some rights reserved (CC BY)",
+      "license": "CC BY 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Huhu,_Titirangi,_Auckland_0604,_New_Zealand_imported_from_iNaturalist_photo_467356624.jpg"
+     }
+    },
+    {
+     "key": "Palau",
+     "name": "Fruit bat soup",
+     "text": "A whole fruit bat simmered in a broth, often with coconut milk and ginger. Diners are startled to see the animal served intact in the bowl. Palauans regard it as a special delicacy for guests and occasions.",
+     "wiki_en": "Bat as food",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Bat_as_food",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Paniki_manado.jpg/960px-Paniki_manado.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Paniki_manado.jpg",
+      "artist": "mattjlc",
+      "license": "CC BY 2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Paniki_manado.jpg"
+     }
+    },
+    {
+     "key": "Papua New Guinea",
+     "name": "Sago (saksak)",
+     "text": "Starch washed out of the pith of the sago palm trunk, cooked into a sticky, translucent jelly or dumplings. Its glue-like texture surprises newcomers. In lowland communities it is a daily staple, eaten with fish or coconut.",
+     "wiki_en": "Sago",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Sago",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Sago_%28Metroxylon_sagu%29_in_New_Guinea.jpg/960px-Sago_%28Metroxylon_sagu%29_in_New_Guinea.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Sago_(Metroxylon_sagu)_in_New_Guinea.jpg",
+      "artist": "Toksave",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Sago_(Metroxylon_sagu)_in_New_Guinea.jpg"
+     }
+    },
+    {
+     "key": "Samoa",
+     "name": "Palolo (sea worm)",
+     "text": "A reef worm whose blue-green tails rise to the sea surface on only a few nights each year. Eating sea worms surprises visitors. Samoans scoop them up before dawn and enjoy them raw or fried in butter, like a rich seafood caviar.",
+     "wiki_en": "Palolo worm",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Palola_viridis",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Palolo00.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Palolo00.jpg",
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:Palolo00.jpg"
+     }
+    },
+    {
+     "key": "Solomon Islands",
+     "name": "Megapode eggs",
+     "text": "Large eggs laid by megapode birds, which bury them in warm volcanic sand instead of sitting on them. Visitors are amazed that villagers dig them from the ground. On Savo Island they are carefully harvested and eaten boiled or baked.",
+     "wiki_en": "Melanesian megapode",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Melanesian_megapode",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Megapodius_eremita_-_Euan_Moore_-_609428384.jpeg/960px-Megapodius_eremita_-_Euan_Moore_-_609428384.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Megapodius_eremita_-_Euan_Moore_-_609428384.jpeg",
+      "artist": "Euan Moore",
+      "license": "CC BY 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Megapodius_eremita_-_Euan_Moore_-_609428384.jpeg"
+     }
+    },
+    {
+     "key": "Tonga",
+     "name": "Raw fish in coconut cream ('ota 'ika)",
+     "text": "Cubes of raw fish briefly cured in citrus juice, then mixed with coconut cream, onion, tomato and chilli. The creamy, sour combination surprises people expecting plain raw fish. Tongans serve it chilled at feasts and family meals.",
+     "wiki_en": "ʻOta ʻika",
+     "wiki_ja": ""
+    },
+    {
+     "key": "Tuvalu",
+     "name": "Swamp taro (pulaka)",
+     "text": "A giant taro grown in pits dug down to the freshwater layer of coral atolls and enriched with compost. The huge, coarse corms need long cooking. Tuvaluans bake or boil them, often serving them with coconut cream.",
+     "wiki_en": "Pulaka",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Pulaka",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Pulaka_pit_%282570411598%29.jpg/960px-Pulaka_pit_%282570411598%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Pulaka_pit_(2570411598).jpg",
+      "artist": "Luigi Guarino from Rome, Italy",
+      "license": "CC BY 2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Pulaka_pit_(2570411598).jpg"
+     }
+    },
+    {
+     "key": "Vanuatu",
+     "name": "Laplap",
+     "text": "The national dish: grated yam, banana or taro mixed with coconut cream, wrapped in leaves and baked on hot stones in an earth oven. Its dense, pudding-like texture surprises visitors. Families share it at celebrations, often topped with meat or fish.",
+     "wiki_en": "Laplap",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Laplap",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Laplap_sosor.jpg/960px-Laplap_sosor.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Laplap_sosor.jpg",
+      "artist": "Lenzo Nimoho",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Laplap_sosor.jpg"
+     }
+    }
+   ]
+  }
+ ],
+ "count": 191,
+ "photos": 138,
+ "missing": 4,
+ "failed": [],
+ "draft": false
+}
