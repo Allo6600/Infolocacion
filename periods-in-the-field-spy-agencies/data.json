@@ -1,0 +1,671 @@
+{
+ "topic": "各情報機関の女性スパイが生理とどのように戦っているか",
+ "title": "Periods in the Field: Women of the World's Spy Agencies",
+ "slug": "periods-in-the-field-spy-agencies",
+ "lead": "Spy films never show it, but women in intelligence services have always had to manage menstruation on long surveillance shifts, undercover postings and missions with no bathroom in sight. This page looks at how women at intelligence agencies around the world have handled periods, from wartime improvisation to modern health policies, based on what is publicly known. It celebrates their ingenuity an",
+ "created": "2026-11-17",
+ "engines": [
+  "claude"
+ ],
+ "groups": [
+  {
+   "name": "North America",
+   "items": [
+    {
+     "key": "CIA (United States)",
+     "name": "The Sisterhood: The Secret History of Women at the CIA",
+     "text": "Liza Mundy's 2023 history of women at the CIA, from clerical roles to senior operations officers. Specific menstrual practices of field officers are rarely made public, but the book shows how women adapted to an agency built around men.",
+     "wiki_en": "",
+     "wiki_ja": ""
+    },
+    {
+     "key": "FBI (United States)",
+     "name": "First female FBI Special Agents (1972)",
+     "text": "The FBI admitted no women as special agents until 1972, shortly after J. Edgar Hoover's death, when Susan Roley and Joanne Pierce entered the academy. Women recruits then had to prove themselves under demanding training conditions designed around men.",
+     "wiki_en": "",
+     "wiki_ja": ""
+    },
+    {
+     "key": "NSA (United States)",
+     "name": "Code Girls",
+     "text": "Liza Mundy's 2017 book tells how thousands of American women broke enemy codes in World War II, laying groundwork for the later NSA. Many kept their work secret for decades while managing long shifts and everyday health needs.",
+     "wiki_en": "",
+     "wiki_ja": ""
+    },
+    {
+     "key": "DIA (United States)",
+     "name": "Menstrual suppression in military deployments",
+     "text": "Many DIA personnel are uniformed service members. U.S. military health research documents that some deployed women use continuous hormonal contraception to reduce or stop periods, easing hygiene challenges where privacy, water and supplies are limited.",
+     "wiki_en": "Menstrual suppression",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Menstrual_suppression"
+    },
+    {
+     "key": "CSIS (Canada)",
+     "name": "Free menstrual products in federally regulated workplaces",
+     "text": "Since December 2023, Canada Labour Code regulations require federally regulated employers to provide free menstrual products in workplace washrooms. Canada also removed its federal sales tax on menstrual products in 2015 after a public campaign.",
+     "wiki_en": "",
+     "wiki_ja": ""
+    },
+    {
+     "key": "CNI (Mexico)",
+     "name": "Zero VAT on menstrual products (IVA tasa 0%)",
+     "text": "Since 2022, Mexico has applied a 0% value-added tax rate to pads, tampons and menstrual cups, after advocates campaigned against the \"pink tax.\" Women working anywhere in the country, including in national security, benefit from cheaper supplies.",
+     "wiki_en": "",
+     "wiki_ja": ""
+    }
+   ]
+  },
+  {
+   "name": "Europe",
+   "items": [
+    {
+     "key": "MI6 / SIS (United Kingdom)",
+     "name": "Secret Intelligence Service (MI6)",
+     "text": "MI6 does not publish details of how its officers manage menstruation in the field. In 2025, Blaise Metreweli became its first female chief, a milestone that drew wide attention to the growing role of women in British foreign intelligence.",
+     "wiki_en": "Secret Intelligence Service",
+     "wiki_ja": "秘密情報部",
+     "link": "https://en.wikipedia.org/wiki/MI6",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/SIS_building_%2826327425611%29.jpg/960px-SIS_building_%2826327425611%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:SIS_building_(26327425611).jpg",
+      "artist": "Laurie Nevay",
+      "license": "CC BY-SA 2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:SIS_building_(26327425611).jpg"
+     }
+    },
+    {
+     "key": "MI5 (United Kingdom)",
+     "name": "Security Service (MI5)",
+     "text": "There is no public record of MI5's internal policies on menstrual health. MI5 was the first major Western intelligence agency to be led by a woman: Stella Rimington became Director General in 1992, and Eliza Manningham-Buller later held the post.",
+     "wiki_en": "MI5",
+     "wiki_ja": "保安局 (イギリス)",
+     "link": "https://en.wikipedia.org/wiki/MI5",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Thames_House_and_Lambeth_Bridge%2C_looking_across_the_river.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Thames_House_and_Lambeth_Bridge,_looking_across_the_river.jpg",
+      "artist": "Security Service",
+      "license": "OGL v1.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Thames_House_and_Lambeth_Bridge,_looking_across_the_river.jpg"
+     }
+    },
+    {
+     "key": "GCHQ (United Kingdom)",
+     "name": "Government Communications Headquarters (GCHQ)",
+     "text": "GCHQ's wartime predecessor at Bletchley Park was staffed mostly by women, who made up roughly three-quarters of its workforce. Anne Keast-Butler became GCHQ's first female director in 2023. No details of its menstrual health policies are public.",
+     "wiki_en": "GCHQ",
+     "wiki_ja": "政府通信本部",
+     "link": "https://en.wikipedia.org/wiki/GCHQ",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/GCHQ-aerial.jpg/960px-GCHQ-aerial.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:GCHQ-aerial.jpg",
+      "artist": "Ministry of Defence",
+      "license": "OGL v1.0",
+      "page": "https://commons.wikimedia.org/wiki/File:GCHQ-aerial.jpg"
+     }
+    },
+    {
+     "key": "DGSE (France)",
+     "name": "General Directorate for External Security (Direction générale de la sécurité ext",
+     "text": "France's foreign intelligence service keeps its personnel practices confidential. No reliable public information exists about how its female officers handle menstruation on deployment, so any specific claims should be treated with caution.",
+     "wiki_en": "Directorate-General for External Security",
+     "wiki_ja": "対外治安総局",
+     "link": "https://en.wikipedia.org/wiki/Directorate_General_for_External_Security",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo_de_la_Direction_G%C3%A9n%C3%A9rale_de_la_S%C3%A9curit%C3%A9_Ext%C3%A9rieure.svg/960px-Logo_de_la_Direction_G%C3%A9n%C3%A9rale_de_la_S%C3%A9curit%C3%A9_Ext%C3%A9rieure.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Logo_de_la_Direction_Générale_de_la_Sécurité_Extérieure.svg",
+      "artist": "Ministère des Armées / Vector graphic : Futurhit12",
+      "license": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:Logo_de_la_Direction_G%C3%A9n%C3%A9rale_de_la_S%C3%A9curit%C3%A9_Ext%C3%A9rieure.svg"
+     }
+    },
+    {
+     "key": "DGSI (France)",
+     "name": "General Directorate for Internal Security (Direction générale de la sécurité int",
+     "text": "France's domestic security agency does not publish policies on menstrual health. Céline Berthon became the first woman to lead the DGSI, reflecting women's rising presence in senior French security roles.",
+     "wiki_en": "General Directorate for Internal Security",
+     "wiki_ja": "国内治安総局",
+     "link": "https://en.wikipedia.org/wiki/General_Directorate_for_Internal_Security",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Logo_de_la_Direction_G%C3%A9n%C3%A9rale_de_la_S%C3%A9curit%C3%A9_Int%C3%A9rieure.svg/960px-Logo_de_la_Direction_G%C3%A9n%C3%A9rale_de_la_S%C3%A9curit%C3%A9_Int%C3%A9rieure.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Logo_de_la_Direction_Générale_de_la_Sécurité_Intérieure.svg",
+      "artist": "Ministère de l'Intérieur / Vector graphic : Futurhit12 & MrI",
+      "license": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:Logo_de_la_Direction_G%C3%A9n%C3%A9rale_de_la_S%C3%A9curit%C3%A9_Int%C3%A9rieure.svg"
+     }
+    },
+    {
+     "key": "BND (Germany)",
+     "name": "Federal Intelligence Service (Bundesnachrichtendienst)",
+     "text": "Germany's foreign intelligence service, headquartered in Berlin, has not published information on how its female officers manage periods in the field. Germany has no national menstrual leave law, so standard federal employment rules apply.",
+     "wiki_en": "Federal Intelligence Service",
+     "wiki_ja": "連邦情報局",
+     "link": "https://en.wikipedia.org/wiki/Federal_Intelligence_Service",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Zentrale_des_Bundesnachrichtendienst%2C_Berlin.jpg/960px-Zentrale_des_Bundesnachrichtendienst%2C_Berlin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Zentrale_des_Bundesnachrichtendienst,_Berlin.jpg",
+      "artist": "Jan Kleihues (Stefan Müller, photographer)",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Zentrale_des_Bundesnachrichtendienst,_Berlin.jpg"
+     }
+    },
+    {
+     "key": "AISE (Italy)",
+     "name": "External Intelligence and Security Agency (Agenzia Informazioni e Sicurezza Este",
+     "text": "No public information exists on AISE's approach to menstrual health. Italy's intelligence system as a whole was overseen by a woman, diplomat Elisabetta Belloni, who headed the coordinating Department of Information for Security from 2021.",
+     "wiki_en": "Agenzia Informazioni e Sicurezza Esterna",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Agenzia_Informazioni_e_Sicurezza_Esterna",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Sede_unitaria_dell%27Intelligence.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Sede_unitaria_dell'Intelligence.jpg",
+      "artist": "Sicurezza Nazionale",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Sede_unitaria_dell%27Intelligence.jpg"
+     }
+    },
+    {
+     "key": "CNI (Spain)",
+     "name": "National Intelligence Centre (Centro Nacional de Inteligencia)",
+     "text": "In 2023 Spain became the first European country to introduce paid leave for severely painful periods, a law applying to workers nationwide. The CNI itself was led by its first female director, Paz Esteban, from 2020 to 2022.",
+     "wiki_en": "National Intelligence Centre (Spain)",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/National_Intelligence_Centre_(Spain)",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/CNIescudoespa%C3%B1a2.svg/960px-CNIescudoespa%C3%B1a2.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:CNIescudoespaña2.svg",
+      "artist": "Nemigo",
+      "license": "CC0",
+      "page": "https://commons.wikimedia.org/wiki/File:CNIescudoespa%C3%B1a2.svg"
+     }
+    },
+    {
+     "key": "AIVD (Netherlands)",
+     "name": "General Intelligence and Security Service (Algemene Inlichtingen- en Veiligheids",
+     "text": "The Dutch intelligence service does not publicly describe how its staff manage menstruation during operations. No reliable public sources address the topic, so nothing specific can be said beyond general Dutch employment protections.",
+     "wiki_en": "General Intelligence and Security Service",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/General_Intelligence_and_Security_Service",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/AIVD_Zoetermeer.jpg/960px-AIVD_Zoetermeer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:AIVD_Zoetermeer.jpg",
+      "artist": "Choinowski",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:AIVD_Zoetermeer.jpg"
+     }
+    },
+    {
+     "key": "SÄPO (Sweden)",
+     "name": "Swedish Security Service (Säkerhetspolisen)",
+     "text": "Sweden's security service has not published menstrual health policies for its officers. Charlotte von Essen became its Director General in 2021, in a country widely known for strong workplace gender-equality norms.",
+     "wiki_en": "Swedish Security Service",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Swedish_Security_Service",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/S%C3%A4kerhetspolisen_vapen.svg/960px-S%C3%A4kerhetspolisen_vapen.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Säkerhetspolisen_vapen.svg",
+      "artist": "Lokal_Profil",
+      "license": "CC BY-SA 2.5",
+      "page": "https://commons.wikimedia.org/wiki/File:S%C3%A4kerhetspolisen_vapen.svg"
+     }
+    },
+    {
+     "key": "PET (Denmark)",
+     "name": "Danish Security and Intelligence Service (Politiets Efterretningstjeneste)",
+     "text": "Denmark's security and intelligence service, part of the Danish police, does not disclose how its female officers manage periods on assignment. No reliable public information on this topic is available.",
+     "wiki_en": "Danish Security and Intelligence Service",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Danish_Security_and_Intelligence_Service",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/PolitietsEfterretningstjenesteJanuar2025.jpg/960px-PolitietsEfterretningstjenesteJanuar2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:PolitietsEfterretningstjenesteJanuar2025.jpg",
+      "artist": "Juli1515",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:PolitietsEfterretningstjenesteJanuar2025.jpg"
+     }
+    },
+    {
+     "key": "ABW (Poland)",
+     "name": "Internal Security Agency (Agencja Bezpieczeństwa Wewnętrznego)",
+     "text": "Poland's internal security agency does not publish information about menstrual health support for its staff. No reliable public sources describe how its female officers handle periods during field work.",
+     "wiki_en": "Internal Security Agency",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Internal_Security_Agency",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Logo_ABW.svg/960px-Logo_ABW.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Logo_ABW.svg",
+      "artist": "Agencja Bezpieczeństwa Wewnętrznego",
+      "license": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:Logo_ABW.svg"
+     }
+    },
+    {
+     "key": "SBU (Ukraine)",
+     "name": "Security Service of Ukraine (Sluzhba bezpeky Ukrainy)",
+     "text": "The SBU does not publish details on this topic. Since 2022, however, Ukrainian volunteer groups have widely reported supplying hygiene products to women serving in wartime conditions, highlighting how practical menstrual needs affect frontline service.",
+     "wiki_en": "Security Service of Ukraine",
+     "wiki_ja": "ウクライナ保安庁",
+     "link": "https://en.wikipedia.org/wiki/Security_Service_of_Ukraine",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Security_Service_of_Ukraine_Emblem.svg/960px-Security_Service_of_Ukraine_Emblem.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Security_Service_of_Ukraine_Emblem.svg",
+      "artist": "ТОВ «Геральдична Палата «Олекса Руденко і компаньйони»»",
+      "license": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:Security_Service_of_Ukraine_Emblem.svg"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Historical Agencies",
+   "items": [
+    {
+     "key": "SOE (United Kingdom, WWII)",
+     "name": "Special Operations Executive women agents",
+     "text": "Britain's SOE sent around forty women into occupied France, including Noor Inayat Khan and Violette Szabo. Many people are surprised that official histories say almost nothing about how these agents managed menstruation during parachute training and long periods of clandestine life.",
+     "wiki_en": "Special Operations Executive",
+     "wiki_ja": "特殊作戦執行部",
+     "link": "https://en.wikipedia.org/wiki/Special_Operations_Executive"
+    },
+    {
+     "key": "OSS (United States, WWII)",
+     "name": "Virginia Hall",
+     "text": "Virginia Hall, who had a prosthetic leg, organized resistance networks in France for both SOE and the OSS. Commercial pads and tampons were already sold in America by then, but records of how women operatives handled periods in the field are scarce.",
+     "wiki_en": "Virginia Hall",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Virginia_Hall",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Virginia_Hall_with_Gen._William_Donovan_%281945%29.jpg/960px-Virginia_Hall_with_Gen._William_Donovan_%281945%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Virginia_Hall_with_Gen._William_Donovan_(1945).jpg",
+      "artist": "Unknown photographer who worked for the CIA.",
+      "license": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:Virginia_Hall_with_Gen._William_Donovan_(1945).jpg"
+     }
+    },
+    {
+     "key": "Stasi (East Germany)",
+     "name": "Ministry for State Security (Ministerium für Staatssicherheit)",
+     "text": "East Germany's Stasi employed women as officers and informants, and was also known for 'Romeo' agents who courted women working in West German offices. Its huge archives, opened after reunification, cover daily life in detail but rarely address menstruation directly.",
+     "wiki_en": "Stasi",
+     "wiki_ja": "国家保安省 (東ドイツ)",
+     "link": "https://en.wikipedia.org/wiki/Stasi",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Emblem_of_the_Stasi.svg/960px-Emblem_of_the_Stasi.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Emblem_of_the_Stasi.svg",
+      "artist": "Ministerium für Staatssicherheit der DDR",
+      "license": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:Emblem_of_the_Stasi.svg"
+     }
+    },
+    {
+     "key": "KGB (Soviet Union)",
+     "name": "Committee for State Security (Komitet gosudarstvennoy bezopasnosti)",
+     "text": "The Soviet KGB recruited women both at home and abroad, among them British informant Melita Norwood, who passed nuclear secrets for decades. Little published material discusses how its female officers handled periods, a subject long treated as private in Soviet society.",
+     "wiki_en": "KGB",
+     "wiki_ja": "ソ連国家保安委員会",
+     "link": "https://en.wikipedia.org/wiki/KGB",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Emblema_KGB.svg/960px-Emblema_KGB.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Emblema_KGB.svg",
+      "artist": "jgaray",
+      "license": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:Emblema_KGB.svg"
+     }
+    },
+    {
+     "key": "French Resistance networks (WWII)",
+     "name": "Lucie Aubrac",
+     "text": "Lucie Aubrac helped plan an armed rescue that freed her husband Raymond from the Gestapo in 1943, while she was pregnant. Her story is one of the rare well-known Resistance accounts in which a woman's reproductive health shaped her clandestine work.",
+     "wiki_en": "Lucie Aubrac",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Lucie_Aubrac",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/06/Lucie_aubrac.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Lucie_aubrac.jpg",
+      "artist": "Paulgypteau",
+      "license": "CC BY 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Lucie_aubrac.jpg"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Russia & Central Asia",
+   "items": [
+    {
+     "key": "SVR (Russia)",
+     "name": "Foreign Intelligence Service (Sluzhba Vneshney Razvedki, SVR)",
+     "text": "Russia's civilian foreign intelligence agency, successor to the KGB's First Chief Directorate. It is known for its 'illegals' program, exposed in the US in 2010. The SVR has published nothing about how its female officers manage menstruation in the field.",
+     "wiki_en": "Foreign Intelligence Service (Russia)",
+     "wiki_ja": "ロシア対外情報庁",
+     "link": "https://en.wikipedia.org/wiki/Foreign_Intelligence_Service_(Russia)",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Emblem_of_the_Foreign_Intelligence_Service_of_Russia.svg/960px-Emblem_of_the_Foreign_Intelligence_Service_of_Russia.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Emblem_of_the_Foreign_Intelligence_Service_of_Russia.svg",
+      "artist": "СВР РФ",
+      "license": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:Emblem_of_the_Foreign_Intelligence_Service_of_Russia.svg"
+     }
+    },
+    {
+     "key": "FSB (Russia)",
+     "name": "Federal Security Service (Federalnaya Sluzhba Bezopasnosti, FSB)",
+     "text": "Russia's main domestic security and counterintelligence agency, formed in 1995 from KGB components. Women serve in its ranks, but the FSB has released no reliable public information on menstrual health policies or how female operatives cope during assignments.",
+     "wiki_en": "Federal Security Service",
+     "wiki_ja": "ロシア連邦保安庁",
+     "link": "https://en.wikipedia.org/wiki/Federal_Security_Service",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_the_Russian_Federal_Security_Service.svg/960px-Flag_of_the_Russian_Federal_Security_Service.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Flag_of_the_Russian_Federal_Security_Service.svg",
+      "artist": "ФСБ России",
+      "license": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Russian_Federal_Security_Service.svg"
+     }
+    },
+    {
+     "key": "GRU (Russia)",
+     "name": "Main Directorate of the General Staff (Glavnoye Razvedyvatelnoye Upravleniye, GR",
+     "text": "Russia's military intelligence service, officially renamed GU in 2010 but still widely called GRU. Because it operates within the armed forces, female personnel follow military service rules. No verified public accounts describe how its women handle periods on missions.",
+     "wiki_en": "GRU (Russian Federation)",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/GRU_(Russian_Federation)",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Emblem_of_the_GRU.svg/960px-Emblem_of_the_GRU.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Emblem_of_the_GRU.svg",
+      "artist": "vector-images.com",
+      "license": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:Emblem_of_the_GRU.svg"
+     }
+    },
+    {
+     "key": "KNB (Kazakhstan)",
+     "name": "National Security Committee of Kazakhstan (Ulttyq Qauipsizdik Komiteti, KNB)",
+     "text": "Kazakhstan's principal intelligence and security agency, created in 1992 after independence from the Soviet KGB structure. It handles counterintelligence and border protection. Publicly available, verified information about how its female officers manage menstruation does not exist.",
+     "wiki_en": "National Security Committee (Kazakhstan)",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/National_Security_Committee_(Kazakhstan)",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/%D0%AD%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0_%D0%9A%D0%9D%D0%91_%D0%A0%D0%9A.svg/960px-%D0%AD%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0_%D0%9A%D0%9D%D0%91_%D0%A0%D0%9A.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Эмблема_КНБ_РК.svg",
+      "artist": "Jelican9",
+      "license": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:%D0%AD%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0_%D0%9A%D0%9D%D0%91_%D0%A0%D0%9A.svg"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Middle East & Africa",
+   "items": [
+    {
+     "key": "Mossad (Israel)",
+     "name": "Mossad (HaMossad)",
+     "text": "Israel's foreign intelligence agency employs many women, including field operatives such as the well-known Sylvia Rafael. It has publicly recruited women, but it has not disclosed how operatives manage menstruation on long covert missions.",
+     "wiki_en": "Mossad",
+     "wiki_ja": "イスラエル諜報特務庁",
+     "link": "https://en.wikipedia.org/wiki/Mossad",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Mossad_seal.svg/960px-Mossad_seal.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Mossad_seal.svg",
+      "artist": "Mossad",
+      "license": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:Mossad_seal.svg"
+     }
+    },
+    {
+     "key": "Shin Bet (Israel)",
+     "name": "Shin Bet (Shabak)",
+     "text": "Israel's domestic security service recruits many staff who served in the IDF, where military service is compulsory for both men and women. The agency publishes no details on how female officers handle periods during surveillance or field duty.",
+     "wiki_en": "Shin Bet",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Shin_Bet"
+    },
+    {
+     "key": "MIT (Turkey)",
+     "name": "National Intelligence Organization (Millî İstihbarat Teşkilatı)",
+     "text": "Turkey's national intelligence agency has grown greatly in scope and size in recent decades, and women work across its ranks. No official information has been released about how its female officers manage menstruation in the field.",
+     "wiki_en": "National Intelligence Organization (Turkey)",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/National_Intelligence_Organization",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/MIT_Building.jpg/960px-MIT_Building.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:MIT_Building.jpg",
+      "artist": "Yesho1231",
+      "license": "CC0",
+      "page": "https://commons.wikimedia.org/wiki/File:MIT_Building.jpg"
+     }
+    },
+    {
+     "key": "GIP (Saudi Arabia)",
+     "name": "General Intelligence Presidency (Ri'āsat al-Istikhbārāt al-'Āmmah)",
+     "text": "Saudi Arabia's main intelligence agency. Women have entered many public-sector fields since the Vision 2030 reforms, which surprises many outside observers. The agency says nothing publicly about how female staff manage menstrual health on duty.",
+     "wiki_en": "",
+     "wiki_ja": ""
+    },
+    {
+     "key": "GIS (Egypt)",
+     "name": "General Intelligence Directorate (Gihaz al-Mukhabarat al-'Amma)",
+     "text": "Egypt's chief intelligence agency, known locally as the Mukhabarat, is very secretive about its personnel. It has not published anything about the role of its female officers or how they manage periods during operations.",
+     "wiki_en": "",
+     "wiki_ja": ""
+    },
+    {
+     "key": "SSA (South Africa)",
+     "name": "State Security Agency",
+     "text": "South Africa's civilian intelligence agency was formed in 2009 by merging several services. The country is known for menstrual-dignity policies, including free sanitary products in schools, but the agency has released no specific policy for its own officers.",
+     "wiki_en": "State Security Agency (South Africa)",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/State_Security_Agency_(South_Africa)"
+    },
+    {
+     "key": "NIS (Kenya)",
+     "name": "National Intelligence Service",
+     "text": "Kenya's intelligence agency operates under the country's national security laws. Kenya was among the first countries to remove taxes on sanitary products and also funds free pads for schoolgirls. The NIS has published no menstrual policy for its operatives.",
+     "wiki_en": "National Intelligence Service (Kenya)",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/National_Intelligence_Service_(Kenya)",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a5/NSIS_Emblem.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:NSIS_Emblem.png",
+      "artist": "Nairobi123",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:NSIS_Emblem.png"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Asia",
+   "items": [
+    {
+     "key": "MSS (China)",
+     "name": "Special Rules on Labour Protection of Female Employees (女职工劳动保护特别规定)",
+     "text": "The MSS publishes nothing about how its female officers manage menstruation. China's 2012 national rules for female employees list types of work women should not be assigned during their periods, such as work in cold water or at height.",
+     "wiki_en": "",
+     "wiki_ja": ""
+    },
+    {
+     "key": "PSIA (Japan)",
+     "name": "Menstrual leave for national public servants (生理日の休暇)",
+     "text": "PSIA officers are national public servants. Japan's National Personnel Authority rules let female civil servants take leave when working during their period is severely difficult. The agency does not publicly describe how its own field officers use this.",
+     "wiki_en": "Menstrual leave",
+     "wiki_ja": "生理休暇",
+     "link": "https://en.wikipedia.org/wiki/Menstrual_leave",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Experiencing_menstrual_pain.jpg/960px-Experiencing_menstrual_pain.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Experiencing_menstrual_pain.jpg",
+      "artist": "Vulvani",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Experiencing_menstrual_pain.jpg"
+     }
+    },
+    {
+     "key": "Cabinet Intelligence and Research Office (Japan)",
+     "name": "Japan's early menstrual leave tradition (生理休暇)",
+     "text": "Japan was one of the first countries to make menstrual leave law, in its 1947 Labor Standards Act. No public information exists on how CIRO's female staff handle their periods, but the leave is now rarely used across Japan.",
+     "wiki_en": "Menstrual leave",
+     "wiki_ja": "生理休暇",
+     "link": "https://en.wikipedia.org/wiki/Menstrual_leave",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Experiencing_menstrual_pain.jpg/960px-Experiencing_menstrual_pain.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Experiencing_menstrual_pain.jpg",
+      "artist": "Vulvani",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Experiencing_menstrual_pain.jpg"
+     }
+    },
+    {
+     "key": "NIS (South Korea)",
+     "name": "Menstrual leave and women's health leave (생리휴가 / 여성보건휴가)",
+     "text": "South Korea's Labor Standards Act grants monthly menstrual leave on request, and public servants have a similar women's health leave. The NIS has not disclosed how this works for its own officers, whose identities are mostly kept secret.",
+     "wiki_en": "Menstrual leave",
+     "wiki_ja": "生理休暇",
+     "link": "https://en.wikipedia.org/wiki/Menstrual_leave",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Experiencing_menstrual_pain.jpg/960px-Experiencing_menstrual_pain.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Experiencing_menstrual_pain.jpg",
+      "artist": "Vulvani",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Experiencing_menstrual_pain.jpg"
+     }
+    },
+    {
+     "key": "RAW (India)",
+     "name": "Bihar's menstrual leave policy (1992)",
+     "text": "RAW reveals almost nothing about its staff, including how women officers manage periods. India has no national menstrual leave law. Bihar, however, has given female state government employees two days of menstrual leave each month since 1992.",
+     "wiki_en": "Menstrual leave",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Menstrual_leave",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Experiencing_menstrual_pain.jpg/960px-Experiencing_menstrual_pain.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Experiencing_menstrual_pain.jpg",
+      "artist": "Vulvani",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Experiencing_menstrual_pain.jpg"
+     }
+    },
+    {
+     "key": "IB (India)",
+     "name": "India's menstrual leave debate",
+     "text": "The Intelligence Bureau has no public policy on menstruation for its officers. Nationally, India still argues over menstrual leave. Supporters call it a health need, while critics worry it could discourage employers from hiring women.",
+     "wiki_en": "Menstrual leave",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Menstrual_leave",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Experiencing_menstrual_pain.jpg/960px-Experiencing_menstrual_pain.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Experiencing_menstrual_pain.jpg",
+      "artist": "Vulvani",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Experiencing_menstrual_pain.jpg"
+     }
+    },
+    {
+     "key": "ISI (Pakistan)",
+     "name": "Absence of public information",
+     "text": "The ISI is among the most secretive agencies in Asia and publishes nothing about its women staff or their menstrual health. Pakistan has no widely known national menstrual leave law, and menstruation is often a sensitive topic there.",
+     "wiki_en": "",
+     "wiki_ja": ""
+    },
+    {
+     "key": "NIB (Taiwan)",
+     "name": "Menstrual leave under the Gender Equality in Employment Act (生理假)",
+     "text": "Taiwan's gender equality employment law lets women take one day of menstrual leave a month. Three days a year do not count against sick leave. Taiwan's National Security Bureau has not disclosed how its own officers use this.",
+     "wiki_en": "Menstrual leave",
+     "wiki_ja": "生理休暇",
+     "link": "https://en.wikipedia.org/wiki/Menstrual_leave",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Experiencing_menstrual_pain.jpg/960px-Experiencing_menstrual_pain.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Experiencing_menstrual_pain.jpg",
+      "artist": "Vulvani",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Experiencing_menstrual_pain.jpg"
+     }
+    },
+    {
+     "key": "BIN (Indonesia)",
+     "name": "Menstrual leave under the Manpower Act (cuti haid)",
+     "text": "Indonesia's 2003 Manpower Act says women in pain are not required to work on the first two days of their period. BIN publishes nothing about how its female agents handle menstruation in the field.",
+     "wiki_en": "Menstrual leave",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Menstrual_leave",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Experiencing_menstrual_pain.jpg/960px-Experiencing_menstrual_pain.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Experiencing_menstrual_pain.jpg",
+      "artist": "Vulvani",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Experiencing_menstrual_pain.jpg"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Oceania & South America",
+   "items": [
+    {
+     "key": "ASIS (Australia)",
+     "name": "Kerri Hartland, first female Director-General of ASIS",
+     "text": "ASIS does not publish how its officers handle menstruation in the field. But in 2022 Kerri Hartland became the first woman to lead Australia's foreign intelligence service, a milestone many Australians saw as a sign of changing workplace norms.",
+     "wiki_en": "Australian Secret Intelligence Service",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Australian_Secret_Intelligence_Service",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Entrance_to_the_head_office_building_of_Australia%27s_Department_of_Foreign_Affairs_and_Trade%2C_Canberra%2C_Australia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Entrance_to_the_head_office_building_of_Australia's_Department_of_Foreign_Affairs_and_Trade,_Canberra,_Australia.jpg",
+      "artist": "Adam Carr at English Wikipedia",
+      "license": "CC0",
+      "page": "https://commons.wikimedia.org/wiki/File:Entrance_to_the_head_office_building_of_Australia%27s_Department_of_Foreign_Affairs_and_Trade,_Canberra,_Australia.jpg"
+     }
+    },
+    {
+     "key": "ASIO (Australia)",
+     "name": "Australia's removal of the 'tampon tax' (GST on menstrual products)",
+     "text": "No public details exist on how ASIO officers manage periods on duty. Nationally, Australia removed the 10% GST on tampons and pads from January 2019 after years of campaigning, a change widely celebrated as a win for menstrual equity.",
+     "wiki_en": "Tampon tax",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Tampon_tax",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Feminine_Hygiene_Products_in_a_Walmart.png/960px-Feminine_Hygiene_Products_in_a_Walmart.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Feminine_Hygiene_Products_in_a_Walmart.png",
+      "artist": "Stilfehler",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Feminine_Hygiene_Products_in_a_Walmart.png"
+     }
+    },
+    {
+     "key": "NZSIS (New Zealand)",
+     "name": "Free period products in New Zealand schools (Ikura | Manaakitia te whare tangata",
+     "text": "NZSIS shares nothing publicly about officers' menstrual needs. New Zealand, though, began offering free period products in all schools from 2021, with a Māori-language programme name, reflecting a broad public push to normalise talking about periods.",
+     "wiki_en": "",
+     "wiki_ja": ""
+    },
+    {
+     "key": "ABIN (Brazil)",
+     "name": "Brazil's Menstrual Dignity Programme (Programa de Proteção e Promoção da Dignida",
+     "text": "ABIN does not disclose how its officers deal with periods in operations. In 2023 Brazil's federal government launched free distribution of pads to low-income people through the Farmácia Popular network, framing menstruation as a matter of dignity.",
+     "wiki_en": "",
+     "wiki_ja": ""
+    },
+    {
+     "key": "AFI (Argentina)",
+     "name": "Argentina's MenstruAcción campaign (#MenstruAcción)",
+     "text": "There is no public information on how AFI's women officers manage menstruation. In 2020 Argentina's Ministry of Economy promoted the #MenstruAcción campaign, highlighting the cost of period products and calling for menstrual products to be treated as a matter of equality.",
+     "wiki_en": "",
+     "wiki_ja": ""
+    },
+    {
+     "key": "ANI (Chile)",
+     "name": "National Intelligence Agency of Chile (Agencia Nacional de Inteligencia)",
+     "text": "Created in 2004 under Law 19.974, Chile's ANI keeps its internal workplace practices confidential, so how its women staff handle periods in the field is not publicly documented. Like most intelligence services, such personal matters remain private.",
+     "wiki_en": "",
+     "wiki_ja": ""
+    }
+   ]
+  }
+ ],
+ "count": 50,
+ "photos": 33,
+ "missing": 0,
+ "failed": [],
+ "claude_error": "",
+ "draft": false
+}
