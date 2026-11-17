@@ -1,0 +1,824 @@
+{
+ "topic": "既存のIQテストの原理を応用し、生物や脳の観点から、意図的に不合理で「馬鹿馬鹿しい」結果を生み出す、独自の測定基準を用いたテストの設計方法",
+ "title": "How to Design a Gloriously Absurd IQ Test",
+ "slug": "absurd-iq-test-design-2",
+ "lead": "Real IQ tests rest on a handful of solid principles: standardized tasks, norm groups, bell curves, and reliability checks. This page borrows that serious machinery and points it at delightfully pointless traits drawn from biology and brain science, so the results come out rigorous, repeatable, and completely ridiculous. Each item below is a building block you can use to design your own nonsense qu",
+ "created": "2026-11-17",
+ "engines": [
+  "claude"
+ ],
+ "groups": [
+  {
+   "name": "Borrowed Principles from Real IQ Tests",
+   "items": [
+    {
+     "key": "Bell Curve Scoring",
+     "name": "Normal distribution (bell curve)",
+     "text": "IQ scores are fitted to a symmetric bell-shaped curve, so most people cluster near the middle. Many are surprised that the shape is imposed by design. An absurd test can bell-curve anything, like yawn frequency.",
+     "wiki_en": "Normal distribution",
+     "wiki_ja": "正規分布",
+     "link": "https://en.wikipedia.org/wiki/Normal_distribution",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Normal_Distribution_PDF.svg/960px-Normal_Distribution_PDF.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Normal_Distribution_PDF.svg",
+      "artist": "Inductiveload",
+      "license": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:Normal_Distribution_PDF.svg"
+     }
+    },
+    {
+     "key": "Norm Group Selection",
+     "name": "Norm-referenced testing",
+     "text": "A raw score means nothing until compared with a reference sample of people. The surprise is that changing the sample changes your score. Parody designers enjoy choosing wildly unfit norm groups, such as pigeons or octopuses.",
+     "wiki_en": "Norm-referenced test",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Norm-referenced_test"
+    },
+    {
+     "key": "Mean of 100 and Deviation of 15",
+     "name": "Deviation IQ",
+     "text": "Modern IQ is not a quotient at all: the average is simply set to 100 and the standard deviation to 15. People are surprised these numbers are conventions. Any silly measurement can be rescaled the same way.",
+     "wiki_en": "Intelligence quotient",
+     "wiki_ja": "知能指数",
+     "link": "https://en.wikipedia.org/wiki/Intelligence_quotient",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Raven_Matrix.svg/960px-Raven_Matrix.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Raven_Matrix.svg",
+      "artist": "User:Life of Riley",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Raven_Matrix.svg"
+     }
+    },
+    {
+     "key": "Standardized Instructions",
+     "name": "Standardized test administration",
+     "text": "Every test-taker hears the same instructions under the same conditions, so scores stay comparable. The strictness surprises newcomers, since examiners follow a script. Absurd tests gain comic authority by scripting ridiculous instructions with equal solemnity.",
+     "wiki_en": "Standardized test",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Standardized_test",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Matura2005_ILOSzczecin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Matura2005_ILOSzczecin.jpg",
+      "artist": "The original uploader was Marcin Otorowski at Polish Wikiped",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Matura2005_ILOSzczecin.jpg"
+     }
+    },
+    {
+     "key": "Test-Retest Reliability",
+     "name": "Test-retest reliability",
+     "text": "A test is reliable if the same person gets similar scores on repeated sittings. Surprisingly, reliability says nothing about whether the test measures anything meaningful. A nonsense test can be perfectly consistent, which designers happily exploit.",
+     "wiki_en": "Reliability (statistics)",
+     "wiki_ja": "信頼性",
+     "link": "https://en.wikipedia.org/wiki/Reliability_(statistics)"
+    },
+    {
+     "key": "Subtest Battery Structure",
+     "name": "Wechsler Adult Intelligence Scale (WAIS)",
+     "text": "The Wechsler scales combine many short subtests, such as vocabulary, block design and digit span, into index scores and one overall IQ. People are surprised how varied the tasks are. Parodies swap in subtests like blink timing.",
+     "wiki_en": "Wechsler Adult Intelligence Scale",
+     "wiki_ja": "ウェクスラー成人知能検査",
+     "link": "https://en.wikipedia.org/wiki/Wechsler_Adult_Intelligence_Scale",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Cubes_de_kohs_utilis%C3%A9s_dans_la_Wais_-_R_avec_un_exemple_de_figure_%C3%A0_4_cubes.jpg/960px-Cubes_de_kohs_utilis%C3%A9s_dans_la_Wais_-_R_avec_un_exemple_de_figure_%C3%A0_4_cubes.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Cubes_de_kohs_utilisés_dans_la_Wais_-_R_avec_un_exemple_de_figure_à_4_cubes.jpg",
+      "artist": "Psyfph2",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Cubes_de_kohs_utilis%C3%A9s_dans_la_Wais_-_R_avec_un_exemple_de_figure_%C3%A0_4_cubes.jpg"
+     }
+    },
+    {
+     "key": "Percentile Ranks",
+     "name": "Percentile rank",
+     "text": "A percentile rank tells you what percentage of the norm group scored below you. Many confuse it with percent correct. Absurd tests delight in reporting that you out-sneezed 97 percent of the population.",
+     "wiki_en": "Percentile rank",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Percentile_rank",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3c/PercentileRankFor10Scores.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:PercentileRankFor10Scores.png",
+      "artist": "DavidCShannon",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:PercentileRankFor10Scores.png"
+     }
+    },
+    {
+     "key": "Timed Sections",
+     "name": "Processing speed and timed subtests",
+     "text": "Some IQ subtests are run against a stopwatch to measure how quickly simple mental tasks are completed. It surprises people that speed is scored separately from reasoning. Comic tests time pointless things, such as untangling earphones.",
+     "wiki_en": "Mental chronometry",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Mental_chronometry",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Reaction_time_stages.png/960px-Reaction_time_stages.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Reaction_time_stages.png",
+      "artist": "Emily Willoughby",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Reaction_time_stages.png"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Brain-Inspired Silly Metrics",
+   "items": [
+    {
+     "key": "Tip-of-the-Tongue Frequency",
+     "name": "Tip-of-the-tongue phenomenon",
+     "text": "The feeling of knowing a word you cannot quite retrieve. Surprisingly, people often recall its first letter or syllable count anyway. Score it by counting how many near-misses a contestant groans through during a trivia round.",
+     "wiki_en": "Tip of the tongue",
+     "wiki_ja": "舌先現象",
+     "link": "https://en.wikipedia.org/wiki/Tip_of_the_tongue"
+    },
+    {
+     "key": "Earworm Persistence",
+     "name": "Earworm (involuntary musical imagery)",
+     "text": "A tune fragment that loops in the mind uninvited. Studies suggest most people experience them, often triggered by recent listening. Play a catchy jingle, then log how many hours pass before participants stop humming it.",
+     "wiki_en": "Earworm",
+     "wiki_ja": "イヤーワーム",
+     "link": "https://en.wikipedia.org/wiki/Earworm"
+    },
+    {
+     "key": "Doorway Forgetting Rate",
+     "name": "Doorway effect",
+     "text": "Walking through a doorway can make people forget what they came for; researchers think the brain files memories by scene. Send test-takers to another room for three items and count what actually arrives.",
+     "wiki_en": "Doorway effect",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Event_perception",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Noun_Brain_Nithinan_2452319.svg/960px-Noun_Brain_Nithinan_2452319.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Noun_Brain_Nithinan_2452319.svg",
+      "artist": "Nithinan Tatah, TH",
+      "license": "CC BY 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Noun_Brain_Nithinan_2452319.svg"
+     }
+    },
+    {
+     "key": "Daydream Drift Speed",
+     "name": "Mind-wandering (daydreaming)",
+     "text": "Attention sliding from the task to unrelated thoughts. One well-known study found minds wander for nearly half of waking time. Read out a dull paragraph and time how quickly each participant admits they drifted elsewhere.",
+     "wiki_en": "Mind-wandering",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Mind-wandering"
+    },
+    {
+     "key": "Deja Vu Count",
+     "name": "Déjà vu",
+     "text": "The eerie sense that a new moment has happened before. Surveys suggest most people have felt it, and it is reported more often by younger adults. Have participants tally episodes in a diary for a proudly unverifiable score.",
+     "wiki_en": "Déjà vu",
+     "wiki_ja": "既視感",
+     "link": "https://en.wikipedia.org/wiki/D%C3%A9j%C3%A0_vu"
+    },
+    {
+     "key": "Brain Freeze Recovery Time",
+     "name": "Brain freeze (cold-stimulus headache)",
+     "text": "The brief stabbing headache from cold food touching the palate, formally called cold-stimulus headache. It usually fades within seconds to a couple of minutes. Hand out slushies and time each recovery with a stopwatch.",
+     "wiki_en": "Cold-stimulus headache",
+     "wiki_ja": "アイスクリーム頭痛",
+     "link": "https://en.wikipedia.org/wiki/Cold-stimulus_headache",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Girl_with_Ice_Cream_-_Southend-on-Sea_-_Essex_-_England_%2827713936233%29.jpg/960px-Girl_with_Ice_Cream_-_Southend-on-Sea_-_Essex_-_England_%2827713936233%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Girl_with_Ice_Cream_-_Southend-on-Sea_-_Essex_-_England_(27713936233).jpg",
+      "artist": "Adam Jones from Kelowna, BC, Canada",
+      "license": "CC BY-SA 2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Girl_with_Ice_Cream_-_Southend-on-Sea_-_Essex_-_England_(27713936233).jpg"
+     }
+    },
+    {
+     "key": "Word Repetition Weirdness Threshold",
+     "name": "Semantic satiation",
+     "text": "Repeat a word enough and it temporarily stops sounding meaningful. The term was coined by psychologist Leon Jakobovits James in 1962. Have people chant \"spoon\" and record the repetition at which it turns strange.",
+     "wiki_en": "Semantic satiation",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Semantic_satiation"
+    },
+    {
+     "key": "Pareidolia Face Spotting",
+     "name": "Pareidolia",
+     "text": "The tendency to see faces or patterns in random things like clouds, power outlets and toast. The brain's face detection is so eager that two dots and a line can trigger it. Show household photos and count the faces found.",
+     "wiki_en": "Pareidolia",
+     "wiki_ja": "パレイドリア",
+     "link": "https://en.wikipedia.org/wiki/Pareidolia",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Felsengesicht_von_Dwejra_%28Gozo%2C_Malta%29.jpg/960px-Felsengesicht_von_Dwejra_%28Gozo%2C_Malta%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Felsengesicht_von_Dwejra_(Gozo,_Malta).jpg",
+      "artist": "Merlingenial",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Felsengesicht_von_Dwejra_(Gozo,_Malta).jpg"
+     }
+    },
+    {
+     "key": "Shower Idea Yield",
+     "name": "Incubation effect (shower thoughts)",
+     "text": "Psychologists call it incubation: stepping away from a problem can let solutions surface later, often during easy routine activities. Pose a riddle, send people off to wash dishes, and count the ideas they bring back.",
+     "wiki_en": "Incubation (psychology)",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Incubation_(psychology)",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Dickensdream.jpg/960px-Dickensdream.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Dickensdream.jpg",
+      "artist": "Robert William Buss",
+      "license": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:Dickensdream.jpg"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Body and Biology Metrics",
+   "items": [
+    {
+     "key": "Yawn Contagion Susceptibility",
+     "name": "Contagious yawning",
+     "text": "Seeing, hearing, or even reading about a yawn can trigger one. Surprisingly, chimpanzees and dogs catch yawns too, and some studies link it to empathy. Score your test-takers by counting how quickly they yawn after the examiner does.",
+     "wiki_en": "Yawn",
+     "wiki_ja": "あくび",
+     "link": "https://en.wikipedia.org/wiki/Yawn",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Yawning_koala_bear_%283589381656%29_%28cropped%29.jpg/960px-Yawning_koala_bear_%283589381656%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Yawning_koala_bear_(3589381656)_(cropped).jpg",
+      "artist": "National Media Museum",
+      "license": "No restrictions",
+      "page": "https://commons.wikimedia.org/wiki/File:Yawning_koala_bear_(3589381656)_(cropped).jpg"
+     }
+    },
+    {
+     "key": "Hiccup Rhythm Regularity",
+     "name": "Hiccup",
+     "text": "A hiccup is an involuntary spasm of the diaphragm, and the famous \"hic\" comes from the vocal cords snapping shut. It serves no clearly agreed purpose, which makes timing its rhythm with a metronome a perfectly pointless test metric.",
+     "wiki_en": "Hiccup",
+     "wiki_ja": "しゃっくり",
+     "link": "https://en.wikipedia.org/wiki/Hiccup"
+    },
+    {
+     "key": "Sneeze Volume Consistency",
+     "name": "Sneeze",
+     "text": "A sneeze is a reflex that blasts air out to clear the nose. Surprisingly, some people also sneeze when they step into bright light, a trait called the photic sneeze reflex. Award points for matching decibel levels across repeated sneezes.",
+     "wiki_en": "Sneeze",
+     "wiki_ja": "くしゃみ",
+     "link": "https://en.wikipedia.org/wiki/Sneeze",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Sneeze.JPG/960px-Sneeze.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Sneeze.JPG",
+      "artist": "James Gathany",
+      "license": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:Sneeze.JPG"
+     }
+    },
+    {
+     "key": "Goosebump Latency",
+     "name": "Goose bumps",
+     "text": "Goose bumps appear when tiny muscles at the base of each hair contract. They are a leftover from furrier ancestors who fluffed up against cold or danger. Time how long a chilly breeze or stirring music takes to raise them.",
+     "wiki_en": "Goose bumps",
+     "wiki_ja": "鳥肌",
+     "link": "https://en.wikipedia.org/wiki/Goose_bumps",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/2003-09-17_Goose_bumps.jpg/960px-2003-09-17_Goose_bumps.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:2003-09-17_Goose_bumps.jpg",
+      "artist": "Ildar Sagdejev (Specious)",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:2003-09-17_Goose_bumps.jpg"
+     }
+    },
+    {
+     "key": "Stomach Growl Timing",
+     "name": "Stomach rumble (borborygmus)",
+     "text": "The rumble is gas and fluid being squeezed through the digestive tract. People are often surprised that much of it comes from the intestines, not the stomach, and that it happens without hunger. Score growls that land during silent moments.",
+     "wiki_en": "Stomach rumble",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Stomach_rumble",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Standardized-Patient-Program-examining-t_he-abdomen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Standardized-Patient-Program-examining-t_he-abdomen.jpg",
+      "artist": "University of Michigan Medical School Information Services",
+      "license": "CC BY 2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Standardized-Patient-Program-examining-t_he-abdomen.jpg"
+     }
+    },
+    {
+     "key": "Blink Rate During Boring Tasks",
+     "name": "Blinking",
+     "text": "Adults blink roughly fifteen to twenty times a minute, far more than is needed to keep the eyes moist. The rate drops when we concentrate, as in reading. Count blinks while test-takers watch paint dry, then interpret the numbers with unearned confidence.",
+     "wiki_en": "Blinking",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Blinking"
+    },
+    {
+     "key": "Tickle Tolerance",
+     "name": "Tickling",
+     "text": "Tickling comes in two kinds: the light, itchy knismesis and the laughter-producing gargalesis. The surprise is that you cannot really tickle yourself, because the brain predicts your own touch. Measure how many feather strokes a volunteer endures before giggling.",
+     "wiki_en": "Tickling",
+     "wiki_ja": "くすぐり",
+     "link": "https://en.wikipedia.org/wiki/Tickling",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Zuber_Buhler_Fritz_Tickling_The_Baby.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Zuber_Buhler_Fritz_Tickling_The_Baby.jpg",
+      "artist": "Fritz Zuber-Buhler",
+      "license": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:Zuber_Buhler_Fritz_Tickling_The_Baby.jpg"
+     }
+    },
+    {
+     "key": "Bed Hair Complexity",
+     "name": "Bed hair (寝癖, neguse)",
+     "text": "Bed hair forms when hair is pressed into odd shapes during sleep. It holds because the hydrogen bonds in hair reset as it dries, which is why a splash of water fixes it. Rate each morning's sculpture for angles, height, and ambition.",
+     "wiki_en": "",
+     "wiki_ja": "寝癖",
+     "link": "https://ja.wikipedia.org/wiki/%E5%AF%9D%E7%99%96",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Neguse_bed_head_8jo_WATANABE_Hachijo.jpg/960px-Neguse_bed_head_8jo_WATANABE_Hachijo.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Neguse_bed_head_8jo_WATANABE_Hachijo.jpg",
+      "artist": "8joKeaton",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Neguse_bed_head_8jo_WATANABE_Hachijo.jpg"
+     }
+    },
+    {
+     "key": "Cold Toe Detection Speed",
+     "name": "Thermoreceptors",
+     "text": "Thermoreceptors are nerve endings in the skin that sense temperature. Toes chill first because the body narrows blood vessels in the extremities to protect core warmth. Time how fast a test-taker notices a sock has been quietly removed.",
+     "wiki_en": "Thermoreceptor",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Thermoreceptor",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/9f/1213_Sensory_Input_Test_Water.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:1213_Sensory_Input_Test_Water.jpg",
+      "artist": "OpenStax",
+      "license": "CC BY 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:1213_Sensory_Input_Test_Water.jpg"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Animal Kingdom Benchmarks",
+   "items": [
+    {
+     "key": "Goldfish Attention Comparison",
+     "name": "Goldfish (金魚)",
+     "text": "The famous \"three-second memory\" is a myth: goldfish can remember feeding routines and learned tasks for months. A deliberately silly test can score humans against this unfairly maligned fish, which keepers happily train to feed from their hands.",
+     "wiki_en": "Goldfish",
+     "wiki_ja": "キンギョ",
+     "link": "https://en.wikipedia.org/wiki/Goldfish",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Gold_fish1.jpg/960px-Gold_fish1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Gold_fish1.jpg",
+      "artist": "לינה אבוגוש",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Gold_fish1.jpg"
+     }
+    },
+    {
+     "key": "Sloth Pace Index",
+     "name": "Sloth (ナマケモノ)",
+     "text": "Sloths move so slowly that algae grows in their fur, and digesting one leafy meal can take days. Surprisingly, they swim well. An absurd index could reward the slowest finisher, honouring an animal that visitors to Central American forests love spotting.",
+     "wiki_en": "Sloth",
+     "wiki_ja": "ナマケモノ",
+     "link": "https://en.wikipedia.org/wiki/Sloth",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Bicho-pregui%C3%A7a_3.jpg/960px-Bicho-pregui%C3%A7a_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Bicho-preguiça_3.jpg",
+      "artist": "Daniella Maraschiello",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Bicho-pregui%C3%A7a_3.jpg"
+     }
+    },
+    {
+     "key": "Squirrel Cache Recall",
+     "name": "Squirrel (リス)",
+     "text": "Tree squirrels scatter-hoard, burying thousands of nuts each autumn and relocating many through spatial memory and smell. The forgotten ones sprout into trees. A recall score measured in lost acorns suits park-goers who enjoy watching them dig.",
+     "wiki_en": "Squirrel",
+     "wiki_ja": "リス",
+     "link": "https://en.wikipedia.org/wiki/Squirrel",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/68/Sciuridae.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Sciuridae.jpg",
+      "artist": "Chicoutimi (montage) Karakal AndiW National Park Service en:",
+      "license": "CC BY 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Sciuridae.jpg"
+     }
+    },
+    {
+     "key": "Octopus Multitasking Scale",
+     "name": "Octopus (タコ)",
+     "text": "About two-thirds of an octopus's neurons sit in its eight arms, so each limb can act semi-independently. It also has three hearts. Aquarium visitors delight in watching them unscrew jars, making an eight-armed multitasking scale gloriously unfair to humans.",
+     "wiki_en": "Octopus",
+     "wiki_ja": "タコ",
+     "link": "https://en.wikipedia.org/wiki/Octopus",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Octopus2.jpg/960px-Octopus2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Octopus2.jpg",
+      "artist": "albert kok",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Octopus2.jpg"
+     }
+    },
+    {
+     "key": "Pigeon Homing Sense",
+     "name": "Homing pigeon (伝書鳩)",
+     "text": "Homing pigeons return to their lofts across hundreds of kilometres, using the sun, Earth's magnetic field and familiar landmarks. Science still debates exactly how. Fanciers race them competitively, a humbling benchmark for anyone who gets lost with a phone map.",
+     "wiki_en": "Homing pigeon",
+     "wiki_ja": "伝書鳩",
+     "link": "https://en.wikipedia.org/wiki/Homing_pigeon",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Postduif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Postduif.jpg",
+      "artist": "Patrick Edwin Moran",
+      "license": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:Postduif.jpg"
+     }
+    },
+    {
+     "key": "Cat Nap Efficiency",
+     "name": "Cat (ネコ)",
+     "text": "Domestic cats sleep roughly twelve to sixteen hours a day, mostly in light dozes from which they can wake instantly. People are surprised how little is deep sleep. Owners adore photographing the improbable spots chosen, ideal for an efficiency ranking.",
+     "wiki_en": "Cat",
+     "wiki_ja": "ネコ",
+     "link": "https://en.wikipedia.org/wiki/Cat",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Siam_lilacpoint.jpg/960px-Siam_lilacpoint.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Siam_lilacpoint.jpg",
+      "artist": "Karin Langner-Bahmann, upload von Martin Bahmann",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Siam_lilacpoint.jpg"
+     }
+    },
+    {
+     "key": "Dog Head Tilt Angle",
+     "name": "Dog (イヌ)",
+     "text": "Many dogs tilt their heads when listening to people. One study found dogs skilled at learning toy names tilted far more often, hinting at a link with attention and memory. Owners love provoking it, so measuring the angle fits a mock intelligence scale.",
+     "wiki_en": "Dog",
+     "wiki_ja": "イヌ",
+     "link": "https://en.wikipedia.org/wiki/Dog",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Huskiesatrest.jpg/960px-Huskiesatrest.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Huskiesatrest.jpg",
+      "artist": "M. Rehemtulla",
+      "license": "CC BY 2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Huskiesatrest.jpg"
+     }
+    },
+    {
+     "key": "Honeybee Waggle Clarity",
+     "name": "Waggle dance (8の字ダンス)",
+     "text": "Honeybees tell nestmates where food is by dancing: the angle of the waggle run shows direction relative to the sun, its duration the distance. Karl von Frisch decoded it and won a Nobel Prize. Beekeepers watch it through glass observation hives.",
+     "wiki_en": "Waggle dance",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Waggle_dance",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Bee_dance.svg/960px-Bee_dance.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Bee_dance.svg",
+      "artist": "Own work",
+      "license": "CC BY-SA 2.5",
+      "page": "https://commons.wikimedia.org/wiki/File:Bee_dance.svg"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Ridiculous Task Formats",
+   "items": [
+    {
+     "key": "Sock Pairing Matrices",
+     "name": "Raven's Progressive Matrices",
+     "text": "A nonverbal test devised by John C. Raven in the 1930s, where you choose the missing piece of a visual pattern grid. Surprisingly, it needs no words at all. Swap the abstract shapes for mismatched socks and the logic still works.",
+     "wiki_en": "Raven's Progressive Matrices",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Raven%27s_Progressive_Matrices"
+    },
+    {
+     "key": "Cloud Shape Interpretation",
+     "name": "Pareidolia",
+     "text": "The brain's tendency to see faces and animals in clouds, wall sockets or toast. People are surprised to learn this is ordinary perception, not a flaw. A playful test can score how quickly someone spots a rabbit in the sky.",
+     "wiki_en": "Pareidolia",
+     "wiki_ja": "パレイドリア",
+     "link": "https://en.wikipedia.org/wiki/Pareidolia",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Felsengesicht_von_Dwejra_%28Gozo%2C_Malta%29.jpg/960px-Felsengesicht_von_Dwejra_%28Gozo%2C_Malta%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Felsengesicht_von_Dwejra_(Gozo,_Malta).jpg",
+      "artist": "Merlingenial",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Felsengesicht_von_Dwejra_(Gozo,_Malta).jpg"
+     }
+    },
+    {
+     "key": "Snack Choice Sequences",
+     "name": "Stanford marshmallow experiment",
+     "text": "Walter Mischel's Stanford study offered children one treat now or two after a wait. Surprisingly, later research found its predictions weaker than first claimed. A playful version can score creative snack-waiting strategies instead of right answers.",
+     "wiki_en": "Stanford marshmallow experiment",
+     "wiki_ja": "マシュマロ実験",
+     "link": "https://en.wikipedia.org/wiki/Stanford_marshmallow_experiment",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Marshmallows.JPG/960px-Marshmallows.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Marshmallows.JPG",
+      "artist": "Smith609",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Marshmallows.JPG"
+     }
+    },
+    {
+     "key": "Imaginary Animal Analogies",
+     "name": "Bouba/kiki effect",
+     "text": "Shown a rounded blob and a spiky shape, most people across many languages call the round one \"bouba\" and the spiky one \"kiki\". That agreement surprises people. Use it to match invented creatures with made-up names.",
+     "wiki_en": "Bouba/kiki effect",
+     "wiki_ja": "ブーバ/キキ効果",
+     "link": "https://en.wikipedia.org/wiki/Bouba/kiki_effect",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Booba-Kiki.svg/960px-Booba-Kiki.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Booba-Kiki.svg",
+      "artist": "Monochrome version 1 June 2007 by Bendž Vectorized with Inks",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Booba-Kiki.svg"
+     }
+    },
+    {
+     "key": "Reverse Mazes",
+     "name": "Porteus Maze Test",
+     "text": "A nonverbal intelligence test developed by Stanley Porteus in the 1910s, using printed mazes to gauge planning and foresight. Surprisingly, no language is needed. For absurdity, ask test-takers to trace from the exit back to the start.",
+     "wiki_en": "Porteus Maze test",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Porteus_Maze_test"
+    },
+    {
+     "key": "Staring Contest with a Houseplant",
+     "name": "Staring contest",
+     "text": "A game where two people lock eyes until one blinks or looks away. Blinking is partly involuntary, which surprises players who trust willpower alone. Against a houseplant, the plant is undefeated, making the scoring delightfully pointless.",
+     "wiki_en": "Staring contest",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Staring",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Staring_at_the_camera.jpg/960px-Staring_at_the_camera.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Staring_at_the_camera.jpg",
+      "artist": "Doggo19292",
+      "license": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:Staring_at_the_camera.jpg"
+     }
+    },
+    {
+     "key": "Lost Key Location Estimation",
+     "name": "Streetlight effect",
+     "text": "An observational bias where people search where looking is easiest, named after the old joke about hunting for lost keys under a streetlight. Surprisingly, researchers fall for it too. Ask test-takers where the keys are, then why.",
+     "wiki_en": "Streetlight effect",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Streetlight_effect",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/af/Lamppost_and_tree.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Lamppost_and_tree.jpg",
+      "artist": "Michiel Jelijs",
+      "license": "CC BY 2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Lamppost_and_tree.jpg"
+     }
+    },
+    {
+     "key": "Pattern Completion with Noodles",
+     "name": "Gestalt psychology",
+     "text": "A school of psychology from early twentieth-century Germany showing that the mind perceives whole patterns and fills gaps automatically. People are surprised how readily they complete broken shapes. Arrange noodles into an unfinished outline and ask what it is.",
+     "wiki_en": "Gestalt psychology",
+     "wiki_ja": "ゲシュタルト心理学",
+     "link": "https://en.wikipedia.org/wiki/Gestalt_psychology",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Greek_uc_psi_icon.svg/960px-Greek_uc_psi_icon.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Greek_uc_psi_icon.svg",
+      "artist": "Mrmw",
+      "license": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:Greek_uc_psi_icon.svg"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Nonsense Scoring Rules",
+   "items": [
+    {
+     "key": "Points for Confident Wrong Answers",
+     "name": "Dunning–Kruger effect",
+     "text": "A cognitive bias described by psychologists David Dunning and Justin Kruger in 1999: people with low skill at a task often overrate their own ability. An absurd test can reward this directly, giving points for certainty instead of correctness.",
+     "wiki_en": "Dunning–Kruger effect",
+     "wiki_ja": "ダニング=クルーガー効果",
+     "link": "https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Dunning%E2%80%93Kruger_Effect2.svg/960px-Dunning%E2%80%93Kruger_Effect2.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Dunning–Kruger_Effect2.svg",
+      "artist": "https://commons.wikimedia.org/w/index.php?title=User:Diego_M",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Dunning%E2%80%93Kruger_Effect2.svg"
+     }
+    },
+    {
+     "key": "Bonus for Laughing Mid-Test",
+     "name": "Laughter",
+     "text": "A rhythmic, largely involuntary vocal response that has its own field of study, gelotology. People are often surprised that it is mostly social, occurring far more in company than alone. A group test can treat every giggle as bonus data.",
+     "wiki_en": "Laughter",
+     "wiki_ja": "笑い",
+     "link": "https://en.wikipedia.org/wiki/Laughter",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Laughing_boy_at_golden_hour.jpg/960px-Laughing_boy_at_golden_hour.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Laughing_boy_at_golden_hour.jpg",
+      "artist": "Basile Morin",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Laughing_boy_at_golden_hour.jpg"
+     }
+    },
+    {
+     "key": "Weather-Adjusted Scores",
+     "name": "Wind chill",
+     "text": "The \"feels-like\" figure forecasters use to express how cold air feels on exposed skin once wind is factored in. The thermometer reading never changes, only the perception. A test can borrow the idea and report a \"feels-like IQ\".",
+     "wiki_en": "Wind chill",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Wind_chill",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Table_of_Wind_Chill_Index_Values.svg/960px-Table_of_Wind_Chill_Index_Values.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Table_of_Wind_Chill_Index_Values.svg",
+      "artist": "Faulty fractal",
+      "license": "CC BY 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Table_of_Wind_Chill_Index_Values.svg"
+     }
+    },
+    {
+     "key": "Breakfast Weighting Factor",
+     "name": "Breakfast",
+     "text": "The first meal of the day, often called the most important, a phrase popularised largely by cereal advertising. Research on its link to concentration is more mixed than people expect, which makes multiplying a score by toast consumed suitably unscientific.",
+     "wiki_en": "Breakfast",
+     "wiki_ja": "朝食",
+     "link": "https://en.wikipedia.org/wiki/Breakfast",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Breakfast_at_the_Black_Bear_Diner.jpg/960px-Breakfast_at_the_Black_Bear_Diner.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Breakfast_at_the_Black_Bear_Diner.jpg",
+      "artist": "Kiddo27",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Breakfast_at_the_Black_Bear_Diner.jpg"
+     }
+    },
+    {
+     "key": "Random Decimal Precision",
+     "name": "False precision",
+     "text": "The practice of presenting a number with more digits than the measurement can justify, also called overprecision. Extra decimals make a figure look rigorous without making it more accurate, so an IQ of 103.7281 feels official while meaning nothing more.",
+     "wiki_en": "False precision",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/False_precision"
+    },
+    {
+     "key": "Scores Reported in Bananas",
+     "name": "Banana equivalent dose",
+     "text": "An informal unit that compares radiation exposure to eating one banana, which contains naturally radioactive potassium-40. Many are surprised that bananas are radioactive at all. Science communicators use it to make tiny doses relatable, and a test can do the same.",
+     "wiki_en": "Banana equivalent dose",
+     "wiki_ja": "バナナ等価線量",
+     "link": "https://en.wikipedia.org/wiki/Banana_equivalent_dose",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Banana-Single.jpg/960px-Banana-Single.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Banana-Single.jpg",
+      "artist": "Evan-Amos",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Banana-Single.jpg"
+     }
+    },
+    {
+     "key": "Moon Phase Correction",
+     "name": "Lunar effect",
+     "text": "The long-held belief that the Moon's phases influence human behaviour, which gave English the word \"lunatic\". Despite its popularity, studies have largely failed to find reliable evidence for it, making a full-moon correction a perfectly meaningless adjustment.",
+     "wiki_en": "Lunar effect",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Lunar_effect",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Caspar_David_Friedrich_-_Mondaufgang_am_Meer_-_Google_Art_Project.jpg/960px-Caspar_David_Friedrich_-_Mondaufgang_am_Meer_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Caspar_David_Friedrich_-_Mondaufgang_am_Meer_-_Google_Art_Project.jpg",
+      "artist": "Caspar David Friedrich",
+      "license": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:Caspar_David_Friedrich_-_Mondaufgang_am_Meer_-_Google_Art_Project.jpg"
+     }
+    },
+    {
+     "key": "Rounding to the Nearest Prime",
+     "name": "Prime number",
+     "text": "A whole number greater than 1 divisible only by 1 and itself. Primes grow sparser as numbers get larger yet never run out, as Euclid proved. Rounding scores to them means 100 becomes 101, with gaps widening unpredictably.",
+     "wiki_en": "Prime number",
+     "wiki_ja": "素数",
+     "link": "https://en.wikipedia.org/wiki/Prime_number",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Primes-vs-composites.svg/960px-Primes-vs-composites.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Primes-vs-composites.svg",
+      "artist": "David Eppstein",
+      "license": "CC0",
+      "page": "https://commons.wikimedia.org/wiki/File:Primes-vs-composites.svg"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Reporting and Presentation",
+   "items": [
+    {
+     "key": "Official-Looking Certificate",
+     "name": "Ig Nobel Prize (イグノーベル賞)",
+     "text": "The Ig Nobel Prize honors research that makes people laugh, then think. Borrow its spirit: print results on a solemn certificate with seals and signatures, so the grand ceremony contrasts delightfully with a score nobody should take seriously.",
+     "wiki_en": "Ig Nobel Prize",
+     "wiki_ja": "イグノーベル賞",
+     "link": "https://en.wikipedia.org/wiki/Ig_Nobel_Prize",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Frog_diamagnetic_levitation.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:Frog_diamagnetic_levitation.jpg",
+      "artist": "Lijnis Nelemans",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Frog_diamagnetic_levitation.jpg"
+     }
+    },
+    {
+     "key": "Overly Specific Personality Label",
+     "name": "Barnum effect (バーナム効果)",
+     "text": "The Barnum effect is the tendency to accept vague personality descriptions as uniquely personal. Flip it for comedy: give absurdly precise labels, such as 'Tuesday-afternoon strategist', and let test-takers notice how readily a description still feels true.",
+     "wiki_en": "Barnum effect",
+     "wiki_ja": "バーナム効果",
+     "link": "https://en.wikipedia.org/wiki/Barnum_effect",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/P._T._Barnum_-_02176a_%28cropped%29.jpg/960px-P._T._Barnum_-_02176a_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:P._T._Barnum_-_02176a_(cropped).jpg",
+      "artist": "Brady-Handy Photograph Collection (Library of Congress)",
+      "license": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:P._T._Barnum_-_02176a_(cropped).jpg"
+     }
+    },
+    {
+     "key": "Meaningless Radar Chart",
+     "name": "Radar chart (レーダーチャート)",
+     "text": "A radar chart plots several variables on axes radiating from a center, forming a polygon. It looks authoritative even when the axes are unrelated, so charting 'yawn frequency' against 'snack intuition' produces an impressive, wholly uninformative shape.",
+     "wiki_en": "Radar chart",
+     "wiki_ja": "レーダーチャート",
+     "link": "https://en.wikipedia.org/wiki/Radar_chart",
+     "photo": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/09/MER_Star_Plot.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "file": "File:MER_Star_Plot.gif",
+      "artist": "NASA Primary START",
+      "license": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:MER_Star_Plot.gif"
+     }
+    },
+    {
+     "key": "Confidence Interval Wider Than the Scale",
+     "name": "Confidence interval (信頼区間)",
+     "text": "A confidence interval gives a range of plausible values for an estimate. Real IQ reports include one because scores carry measurement error. Reporting '104, plus or minus 90' honestly admits the test measures almost nothing, which is the joke.",
+     "wiki_en": "Confidence interval",
+     "wiki_ja": "信頼区間",
+     "link": "https://en.wikipedia.org/wiki/Confidence_interval",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Normal_distribution_50%25_CI_illustration.svg/960px-Normal_distribution_50%25_CI_illustration.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Normal_distribution_50%_CI_illustration.svg",
+      "artist": "FRuDIxAFLG",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Normal_distribution_50%25_CI_illustration.svg"
+     }
+    },
+    {
+     "key": "Spirit Organism Assignment",
+     "name": "Slime mold Physarum polycephalum (モジホコリ)",
+     "text": "Physarum polycephalum is a brainless single-celled slime mold that famously found the shortest path through a maze in experiments. Assigning it as a result gently reminds participants that clever behavior does not always require a brain.",
+     "wiki_en": "Physarum polycephalum",
+     "wiki_ja": "モジホコリ",
+     "link": "https://en.wikipedia.org/wiki/Physarum_polycephalum",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Physarum_polycephalum_plasmodium.jpg/960px-Physarum_polycephalum_plasmodium.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Physarum_polycephalum_plasmodium.jpg",
+      "artist": "frankenstoen",
+      "license": "CC BY 2.5",
+      "page": "https://commons.wikimedia.org/wiki/File:Physarum_polycephalum_plasmodium.jpg"
+     }
+    },
+    {
+     "key": "Fine Print Disclaimer",
+     "name": "Fine print",
+     "text": "Fine print is small-type text carrying the conditions and disclaimers of an offer. Here it does the honest work: stating plainly that the test is entertainment, has no scientific validity, and should never be used to judge anyone.",
+     "wiki_en": "Fine print",
+     "wiki_ja": "",
+     "link": "https://en.wikipedia.org/wiki/Fine_print",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Minnesota_Tax_Cut_Rally_2011_%285697256303%29.jpg/960px-Minnesota_Tax_Cut_Rally_2011_%285697256303%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Minnesota_Tax_Cut_Rally_2011_(5697256303).jpg",
+      "artist": "Fibonacci Blue from Minnesota, USA",
+      "license": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:Minnesota_Tax_Cut_Rally_2011_(5697256303).jpg"
+     }
+    },
+    {
+     "key": "Retake Recommendation After a Nap",
+     "name": "Nap (昼寝)",
+     "text": "A nap is a short daytime sleep, and studies link brief naps to improved alertness and performance. Recommending a retake after one is funny yet sound advice, and it pokes at how much any score depends on the moment.",
+     "wiki_en": "Nap",
+     "wiki_ja": "昼寝",
+     "link": "https://en.wikipedia.org/wiki/Nap",
+     "photo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Hammock_nap_on_patio.jpg/960px-Hammock_nap_on_patio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "file": "File:Hammock_nap_on_patio.jpg",
+      "artist": "Michael Nutt from New York, US",
+      "license": "CC BY-SA 2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Hammock_nap_on_patio.jpg"
+     }
+    }
+   ]
+  }
+ ],
+ "count": 57,
+ "photos": 45,
+ "missing": 0,
+ "failed": [],
+ "claude_error": "",
+ "draft": false
+}
