@@ -1,0 +1,66 @@
+{
+ "kind": "system",
+ "topic": "https://github.com/Allo6600/Piano_roll_game",
+ "slug": "systems/piano-roll-game",
+ "created": "2026-11-18",
+ "engines": [
+  "claude"
+ ],
+ "repo": {
+  "owner": "Allo6600",
+  "name": "Piano_roll_game",
+  "full_name": "Allo6600/Piano_roll_game",
+  "url": "https://github.com/Allo6600/Piano_roll_game",
+  "description": "",
+  "language": "HTML",
+  "languages": [
+   "HTML"
+  ],
+  "topics": [],
+  "license": "",
+  "stars": 0,
+  "updated": "2026-11-18",
+  "pages_url": "",
+  "homepage": ""
+ },
+ "title": "Piano_roll_game",
+ "tagline": "A side-scrolling game you play with a piano's MIDI input, turning your notes into color, motion and speed.",
+ "lead": "Piano_roll_game is a side-scrolling game that you control by playing a piano. It reads the piano's MIDI input and links it to color, movement and speed on screen. MIDI is a standard way for electronic instruments to send note information to a computer.",
+ "sections": [
+  {
+   "heading": "What it does",
+   "paragraphs": [
+    "You play a piano, and the game turns your playing into what happens on screen. Your notes affect the color, the motion and the speed of the game. The game has two courses."
+   ],
+   "bullets": [
+    "Free play course: you play freely, so you can also use it to compose music.",
+    "Set song course: obstacles are placed to follow a song's velocity and sustain. Velocity means how hard a key is pressed. Sustain means how long a note is held. This course can also play the song back as an example.",
+    "Playing the set song course can turn into improvisation without you planning it."
+   ]
+  },
+  {
+   "heading": "How it works",
+   "paragraphs": [
+    "The system has five parts. They handle MIDI input, game movement, drawing the screen, sound effects, and the song courses."
+   ],
+   "bullets": []
+  },
+  {
+   "heading": "Background",
+   "paragraphs": [
+    "The idea for this MIDI-controlled game came from the Casio MT."
+   ],
+   "bullets": []
+  }
+ ],
+ "tech": [
+  "HTML",
+  "MIDI"
+ ],
+ "status": "",
+ "count": 3,
+ "photos": 0,
+ "missing": 0,
+ "draft": false,
+ "claude_error": ""
+}
