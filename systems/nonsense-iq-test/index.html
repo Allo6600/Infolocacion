@@ -29,14 +29,15 @@ h3{font-size:17px;line-height:1.4;margin:0}.card p{margin:4px 0 0;font-size:14px
 
 .stage{margin:18px 0 8px;border:1px solid var(--line);border-radius:14px;overflow:hidden;background:var(--card)}
 .stage iframe{display:block;width:100%;height:min(78vh,720px);border:0;background:#fff}
+.stage.concept iframe{height:85vh}
 .howto{max-width:46em}.howto ol{padding-left:1.3em}
 </style></head><body>
 <header><div class="meta"><a href="../../">Infolocacion</a> › Systems</div>
 <h1>The Extremely Authoritative Nonsense IQ Test</h1><p class="tagline lead">A serious-looking IQ test with absurd subtests that ends by showing why a single number can&#x27;t sum you up.</p><p class="lead">Take the EANIS-4½, a parody intelligence scale that copies only the format of the big professional tests: subtests, index scores, percentiles, classifications and an official report. The questions are ridiculous on purpose. Between subtests, and at the end, you get real reasons why an IQ number deserves skepticism and should never be used to judge anyone&#x27;s worth.</p></header>
-<main><div class="stage"><iframe title="The Extremely Authoritative Nonsense IQ Test" sandbox="allow-scripts" referrerpolicy="no-referrer"
+<main><div class="stage"><iframe id="stage" title="The Extremely Authoritative Nonsense IQ Test" sandbox="allow-scripts" referrerpolicy="no-referrer"
  srcdoc="&lt;!doctype html&gt;
 &lt;html lang=&quot;en&quot;&gt;
-&lt;head&gt;&lt;meta http-equiv=&quot;Content-Security-Policy&quot; content=&quot;default-src &#x27;none&#x27;; script-src &#x27;unsafe-inline&#x27;; style-src &#x27;unsafe-inline&#x27;; img-src data: blob:; font-src data:; media-src data: blob:; connect-src &#x27;none&#x27;; form-action &#x27;none&#x27;; base-uri &#x27;none&#x27;&quot;&gt;
+&lt;head&gt;&lt;meta http-equiv=&quot;Content-Security-Policy&quot; content=&quot;default-src &#x27;none&#x27;; script-src &#x27;unsafe-inline&#x27;; style-src &#x27;unsafe-inline&#x27;; img-src data: blob:; font-src data:; media-src data: blob:; connect-src &#x27;none&#x27;; form-action &#x27;none&#x27;; base-uri &#x27;none&#x27;&quot;&gt;&lt;script&gt;(function(){function s(){try{parent.postMessage({infolocacionHeight:Math.ceil(document.documentElement.scrollHeight)},&#x27;*&#x27;)}catch(e){}}addEventListener(&#x27;load&#x27;,s);addEventListener(&#x27;resize&#x27;,s);if(window.ResizeObserver)new ResizeObserver(s).observe(document.documentElement);setTimeout(s,300)})()&lt;/script&gt;
 &lt;meta charset=&quot;utf-8&quot;&gt;
 &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width,initial-scale=1&quot;&gt;
 &lt;title&gt;EANIS-4½ · Extremely Authoritative Nonsense Intelligence Scale&lt;/title&gt;
@@ -420,7 +421,7 @@ $(&#x27;#again&#x27;).onclick=function(){show(&#x27;intro&#x27;)};
 &lt;/body&gt;
 &lt;/html&gt;"></iframe></div>
 <div class="howto"><h2>How to use</h2><ol><li>Press Begin Assessment and optionally enter a name for your official report.</li><li>Answer the 14 absurd items across 7 subtests using mouse, touch or keyboard.</li><li>Read the Psychometric Footnotes between subtests. They are the actual point.</li><li>Reveal your Full Scale IQ, then use the experiment buttons to watch the same you get many different numbers.</li></ol></div>
-<section class="comments" id="comments"><h2>Comments &amp; reactions</h2><p class="lead">Spotted a mistake, or know a better example? Leave a comment or a reaction. Sign-in with GitHub is required; comments are public.</p><script src="https://giscus.app/client.js" data-repo="Allo6600/Infolocacion" data-repo-id="R_kgDOVwc7rg" data-category="Announcements" data-category-id="DIC_kwDOVwc7rs4DLUXT" data-mapping="pathname" data-strict="1" data-reactions-enabled="1" data-emit-metadata="0" data-input-position="top" data-theme="preferred_color_scheme" data-lang="en" data-loading="lazy" crossorigin="anonymous" async></script></section></main>
+<style>.comments .giscus,.comments .giscus-frame{width:100%;max-width:none}.comments .giscus-frame{border:0;color-scheme:light dark;min-height:150px}</style><section class="comments" id="comments"><h2>Comments &amp; reactions</h2><p class="lead">Spotted a mistake, or know a better example? Leave a comment or a reaction. Sign-in with GitHub is required; comments are public.</p><script src="https://giscus.app/client.js" data-repo="Allo6600/Infolocacion" data-repo-id="R_kgDOVwc7rg" data-category="Announcements" data-category-id="DIC_kwDOVwc7rs4DLUXT" data-mapping="pathname" data-strict="1" data-reactions-enabled="1" data-emit-metadata="0" data-input-position="top" data-theme="preferred_color_scheme" data-lang="en" data-loading="lazy" crossorigin="anonymous" async></script></section></main>
 <footer><p>This small interactive page was built by AI from a one-line idea: "世界で最も権威あるIQテスト(ウェクスラー式など)の構造(下位検査・指標得点・合成得点・パーセンタイル・分類表・結果レポート)だけを真似し、中身は超馬鹿馬鹿しい問題と指標にした、受けられる体験型IQテスト。いちばん大事なのは、IQという数値を信じるに値しない理由や、それで人を判断してはいけない理由を何個も何個も挙げて示すこと。最後に受けた人へ『IQ』を数値で提示し、人を数値化して提示することの愚かさを示す。".
 It runs in a sealed frame with no network access and stores nothing.</p>
-<p><a href="../../">More pages</a></p></footer></body></html>
+<p><a href="../../">More pages</a></p></footer><script>addEventListener('message',function(e){var f=document.getElementById('stage');if(!f||e.source!==f.contentWindow||!e.data)return;var h=Number(e.data.infolocacionHeight);if(isFinite(h)&&h>200)f.style.height=Math.min(h+4,30000)+'px'})</script></body></html>
