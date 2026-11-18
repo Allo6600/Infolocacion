@@ -1,0 +1,82 @@
+{
+ "kind": "system",
+ "topic": "https://github.com/Allo6600/today-state-share",
+ "slug": "systems/today-state-share",
+ "created": "2026-11-18",
+ "engines": [
+  "claude"
+ ],
+ "repo": {
+  "owner": "Allo6600",
+  "name": "today-state-share",
+  "full_name": "Allo6600/today-state-share",
+  "url": "https://github.com/Allo6600/today-state-share",
+  "description": "",
+  "language": "JavaScript",
+  "languages": [
+   "JavaScript",
+   "HTML",
+   "CSS",
+   "Python"
+  ],
+  "topics": [],
+  "license": "MIT",
+  "stars": 0,
+  "updated": "2026-11-15",
+  "pages_url": "",
+  "homepage": ""
+ },
+ "title": "RHYTHM — Personal Rhythm Design",
+ "tagline": "A planning tool that suggests good days for tasks and plans based on your menstrual cycle and how you feel today.",
+ "lead": "RHYTHM is a work-planning tool that takes your menstrual cycle and today's physical condition into account and shows a guide to which days suit different tasks and plans. It is available as a Chrome extension side panel and as a web page for smartphones. It is not intended for medical use or diagnosis.",
+ "sections": [
+  {
+   "heading": "What it does",
+   "paragraphs": [
+    "RHYTHM shows where today falls in your cycle and offers a design suggestion for how to arrange your work and plans for that phase. Its tagline is to help you perform at your best on your own rhythm."
+   ],
+   "bullets": [
+    "Shows your current cycle phase with matching suggestions for placing tasks and plans",
+    "Lets you log how you feel today (light, normal or heavy) and record periods on a calendar",
+    "Lets you rename the A, B and C categories and change their symbols and colors",
+    "Optional setting to apply the colors to Google Calendar",
+    "In the settings: descriptions of each phase with suggestions, research notes on the cycle and on stimulants, and a list of references"
+   ]
+  },
+  {
+   "heading": "Privacy & safety",
+   "paragraphs": [
+    "All records stay on your device only. There is no network communication, no account registration, no ads and no analytics.",
+    "The Google Calendar color feature is optional, and permission for Google Calendar is requested only when you turn it on. RHYTHM is not a medical or diagnostic tool."
+   ],
+   "bullets": []
+  },
+  {
+   "heading": "Getting started",
+   "paragraphs": [
+    "To load the development version, open the Chrome extensions page and turn on Developer mode. Choose to load an unpacked extension and select the extension folder. Then click the toolbar icon to open the side panel."
+   ],
+   "bullets": []
+  },
+  {
+   "heading": "How it is organized",
+   "paragraphs": [
+    "The project contains the Chrome extension, a smartphone web page generated from its own source folder, a file of suggestion texts and key points from research papers, documentation such as the privacy policy and store listing, and store screenshots. A Python build script checks the texts and updates both the extension and the mobile version."
+   ],
+   "bullets": []
+  }
+ ],
+ "tech": [
+  "JavaScript",
+  "HTML",
+  "CSS",
+  "Python",
+  "Chrome extension (side panel)"
+ ],
+ "status": "The README describes loading a development version of the extension; it is a planning aid and not intended for medical use or diagnosis.",
+ "count": 4,
+ "photos": 0,
+ "missing": 0,
+ "draft": false,
+ "claude_error": ""
+}
