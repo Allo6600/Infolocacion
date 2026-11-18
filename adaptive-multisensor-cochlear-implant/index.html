@@ -1,0 +1,493 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'unsafe-inline' https://giscus.app; frame-src https://giscus.app; style-src 'unsafe-inline'; img-src data: blob:; font-src data:; media-src data: blob:; connect-src 'none'; base-uri 'none'; form-action 'none'">
+<title>Adaptive Multisensor Perception for Cochlear Implants · Ideas &amp; Takes · Infolocacion</title><meta name="description" content="Fuse several wearable sensors with deep learning so a cochlear implant adapts what it sends to the ear, moment by moment.">
+<style>
+:root{--bg:#faf7f2;--card:#fff;--ink:#22201c;--sub:#6b655c;--line:#e6dfd3;--accent:#b4532a}
+@media(prefers-color-scheme:dark){:root{--bg:#171512;--card:#211e1a;--ink:#f1ece3;--sub:#a59d91;--line:#35302a;--accent:#e8935f}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.7 "Hiragino Sans","Yu Gothic UI","Noto Sans JP",system-ui,sans-serif}
+header,main,footer{max-width:1180px;margin:0 auto;padding:0 16px}
+header{padding-top:48px}h1{font-size:clamp(26px,5vw,42px);line-height:1.25;margin:0 0 12px}
+.lead{font-size:17px;max-width:46em;margin:0 0 12px}.meta{color:var(--sub);font-size:13px}
+nav{display:flex;flex-wrap:wrap;gap:8px;margin:20px 0 8px}
+nav a{color:var(--ink);text-decoration:none;border:1px solid var(--line);border-radius:999px;padding:4px 14px;font-size:14px;background:var(--card)}
+#q{width:100%;max-width:420px;font:inherit;padding:10px 14px;border:1px solid var(--line);border-radius:10px;background:var(--card);color:var(--ink);margin:8px 0}
+h2{font-size:22px;margin:40px 0 14px;padding-bottom:6px;border-bottom:2px solid var(--line)}h2 small{color:var(--sub);font-weight:400;font-size:14px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:16px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;overflow:hidden;display:flex;flex-direction:column}
+.ph{position:relative;overflow:hidden;aspect-ratio:4/3;background:var(--line);display:flex;align-items:center;justify-content:center;color:var(--sub);font-size:13px}
+.ph img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;display:block}
+.body{padding:12px 14px 14px;display:flex;flex-direction:column;gap:4px;flex:1}
+.key{color:var(--accent);font-size:13px;font-weight:700;letter-spacing:.04em}
+h3{font-size:17px;line-height:1.4;margin:0}.card p{margin:4px 0 0;font-size:14px;line-height:1.65}
+.more{margin-top:auto;padding-top:8px;font-size:13px}a{color:var(--accent)}
+.credit{color:var(--sub);font-size:11px;line-height:1.4;padding:6px 14px 10px;border-top:1px solid var(--line);overflow-wrap:anywhere}
+.credit a{color:var(--sub)}footer{color:var(--sub);font-size:13px;padding:40px 16px 60px}
+.pages{display:grid;gap:14px;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));margin-top:24px}
+.pages a{display:block;background:var(--card);border:1px solid var(--line);border-radius:14px;padding:18px;color:var(--ink);text-decoration:none}
+.pages b{display:block;font-size:18px;margin-bottom:6px}.pages span{color:var(--sub);font-size:13px}
+
+.stage{margin:18px 0 8px;border:1px solid var(--line);border-radius:14px;overflow:hidden;background:var(--card)}
+.stage iframe{display:block;width:100%;height:min(78vh,720px);border:0;background:#fff}
+.stage.concept iframe{height:85vh}
+.howto{max-width:46em}.howto ol{padding-left:1.3em}
+</style></head><body>
+<header><div class="meta"><a href="../">Infolocacion</a> › Ideas &amp; Takes</div>
+<h1>Adaptive Multisensor Perception for Cochlear Implants</h1><p class="tagline lead">Fuse several wearable sensors with deep learning so a cochlear implant adapts what it sends to the ear, moment by moment.</p><p class="lead">Cochlear implants restore access to sound, but noisy rooms, competing talkers and music remain hard for many users. This concept proposes combining several wearable sensors with compact deep-learning models so stimulation adapts to the situation and to the listener. Nothing here is a measured result: it is a design to examine and test.</p></header>
+<main><div class="stage concept"><iframe id="stage" title="Adaptive Multisensor Perception for Cochlear Implants" sandbox="allow-scripts" referrerpolicy="no-referrer"
+ srcdoc="&lt;!doctype html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;&lt;meta http-equiv=&quot;Content-Security-Policy&quot; content=&quot;default-src &#x27;none&#x27;; script-src &#x27;unsafe-inline&#x27;; style-src &#x27;unsafe-inline&#x27;; img-src data: blob:; font-src data:; media-src data: blob:; connect-src &#x27;none&#x27;; form-action &#x27;none&#x27;; base-uri &#x27;none&#x27;&quot;&gt;&lt;script&gt;(function(){function s(){try{parent.postMessage({infolocacionHeight:Math.ceil(document.documentElement.scrollHeight)},&#x27;*&#x27;)}catch(e){}}addEventListener(&#x27;load&#x27;,s);addEventListener(&#x27;resize&#x27;,s);if(window.ResizeObserver)new ResizeObserver(s).observe(document.documentElement);setTimeout(s,300)})()&lt;/script&gt;
+&lt;meta charset=&quot;utf-8&quot;&gt;
+&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1&quot;&gt;
+&lt;title&gt;Adaptive Multisensor Perception for Cochlear Implants&lt;/title&gt;
+&lt;style&gt;
+:root{
+  --bg:#f7f8fb;--fg:#1a1d24;--muted:#565d6d;--card:#ffffff;--line:#d9dce4;--edge:#7a8294;--hi:#111318;--focus:#1d4ed8;
+  --sense-f:#e3eefb;--sense-s:#2b6cb0;
+  --think-f:#ece6fb;--think-s:#6b46c1;
+  --act-f:#e2f5ea;--act-s:#2f855a;
+  --loop-f:#fdf0dc;--loop-s:#c05621;
+  --guard-f:#fde4e4;--guard-s:#c53030;
+  --tagp:#6b46c1;--tagb:#4a5568;--tagx:#b7791f;
+}
+@media (prefers-color-scheme:dark){
+  :root{
+    --bg:#0f1117;--fg:#e8eaf0;--muted:#a3a9b8;--card:#171a22;--line:#2b303c;--edge:#8a92a6;--hi:#ffffff;--focus:#93c5fd;
+    --sense-f:#16263d;--sense-s:#63a4ff;
+    --think-f:#241c3d;--think-s:#a78bfa;
+    --act-f:#12301f;--act-s:#5fd08d;
+    --loop-f:#3a2810;--loop-s:#f6ad55;
+    --guard-f:#3a1616;--guard-s:#fc8181;
+    --tagp:#a78bfa;--tagb:#a0aec0;--tagx:#f6c453;
+  }
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.55 system-ui,-apple-system,&quot;Segoe UI&quot;,Roboto,Helvetica,Arial,sans-serif}
+main{max-width:1060px;margin:0 auto;padding:24px 16px 48px}
+h1{font-size:clamp(1.5rem,4vw,2.2rem);line-height:1.2;margin:.2em 0 .3em}
+h2{font-size:1.25rem;margin:2.2em 0 .6em;padding-top:.4em;border-top:1px solid var(--line)}
+h3{font-size:1rem;margin:0 0 .3em}
+p{margin:.5em 0}
+.tagline{font-size:1.1rem;color:var(--muted);margin:0 0 .6em}
+.kicker{font-size:.8rem;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);font-weight:700}
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:14px}
+figure{margin:18px 0 0}
+figcaption{font-size:.9rem;color:var(--muted);margin-top:8px}
+svg{display:block;width:100%;height:auto}
+.tag{display:inline-block;font-size:.72rem;font-weight:700;letter-spacing:.04em;text-transform:uppercase;border-radius:999px;padding:1px 8px;border:1.5px solid currentColor;vertical-align:.1em;white-space:nowrap}
+.tag.p{color:var(--tagp)}.tag.b{color:var(--tagb)}.tag.x{color:var(--tagx)}.tag.o{color:var(--act-s)}
+.legend{display:flex;flex-wrap:wrap;gap:8px 18px;margin:12px 0 0;padding:0;list-style:none;font-size:.88rem;color:var(--muted)}
+.legend li{display:flex;align-items:center;gap:6px}
+.sw{width:16px;height:12px;border-radius:3px;border:2px solid;display:inline-block}
+.sw.sense{background:var(--sense-f);border-color:var(--sense-s)}
+.sw.think{background:var(--think-f);border-color:var(--think-s)}
+.sw.act{background:var(--act-f);border-color:var(--act-s)}
+.sw.loop{background:var(--loop-f);border-color:var(--loop-s)}
+.sw.guard{background:var(--guard-f);border-color:var(--guard-s)}
+.sw.dash{background:transparent;border-color:var(--muted);border-style:dashed}
+.ln{width:26px;height:0;border-top:2px solid var(--edge);display:inline-block}
+.ln.l{border-top:2px dashed var(--loop-s)}.ln.g{border-top:2px dotted var(--guard-s)}
+#note{min-height:3.2em;margin:12px 0 0;padding:10px 12px;border-radius:10px;background:var(--bg);border:1px solid var(--line);font-size:.95rem}
+.oneline{font-size:1.15rem;border-left:4px solid var(--think-s);padding:8px 14px;background:var(--card);border-radius:0 10px 10px 0}
+.grid{display:grid;gap:12px;grid-template-columns:repeat(auto-fit,minmax(230px,1fr))}
+.grid .card p{font-size:.93rem;margin:.3em 0 0}
+.two{display:grid;gap:12px;grid-template-columns:repeat(auto-fit,minmax(280px,1fr))}
+ul,ol{padding-left:1.3em}
+li{margin:.3em 0}
+.small-fig{max-width:580px;margin-left:auto;margin-right:auto}
+details{margin-top:10px;font-size:.92rem}
+summary{cursor:pointer;color:var(--muted)}
+summary:focus-visible,a:focus-visible{outline:3px solid var(--focus);outline-offset:2px;border-radius:4px}
+.foot{margin-top:2.5em;font-size:.85rem;color:var(--muted);border-top:1px solid var(--line);padding-top:1em}
+
+/* SVG styles */
+.node,.box{--sf:var(--card);--ss:var(--edge)}
+.g-sense{--sf:var(--sense-f);--ss:var(--sense-s)}
+.g-think{--sf:var(--think-f);--ss:var(--think-s)}
+.g-act{--sf:var(--act-f);--ss:var(--act-s)}
+.g-loop{--sf:var(--loop-f);--ss:var(--loop-s)}
+.g-guard{--sf:var(--guard-f);--ss:var(--guard-s)}
+.node rect,.box rect{fill:var(--sf);stroke:var(--ss);stroke-width:2}
+.node.bg rect,.box.bg rect{stroke-dasharray:7 4}
+.node{cursor:pointer;transition:opacity .15s}
+.node:focus{outline:none}
+.node:focus-visible rect{stroke:var(--focus);stroke-width:4}
+.node.on rect{stroke-width:4}
+.t{fill:var(--fg);font-weight:600}
+.st{fill:var(--muted)}
+.head{fill:var(--muted);font-size:12px;font-weight:700;letter-spacing:.14em}
+.grp{fill:none;stroke:var(--sense-s);stroke-opacity:.5;stroke-dasharray:2 5;stroke-width:1.5}
+.e{fill:none;stroke:var(--edge);stroke-width:2;transition:opacity .15s}
+.e.l{stroke:var(--loop-s);stroke-dasharray:7 5}
+.e.g{stroke:var(--guard-s);stroke-dasharray:3 4}
+.e.hi{stroke:var(--hi);stroke-width:3.2}
+.dim{opacity:.28}
+.mk{fill:var(--edge)}.mk.l{fill:var(--loop-s)}.mk.g{fill:var(--guard-s)}.mk.h{fill:var(--hi)}
+.lbl{font-size:13px;font-style:italic;fill:var(--muted);paint-order:stroke;stroke:var(--card);stroke-width:5px;stroke-linejoin:round}
+.lbl.l{fill:var(--loop-s)}.lbl.g{fill:var(--guard-s)}
+@media (prefers-reduced-motion:reduce){.node,.e{transition:none}}
+&lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;main&gt;
+&lt;header&gt;
+  &lt;div class=&quot;kicker&quot;&gt;Concept explainer · design proposal&lt;/div&gt;
+  &lt;h1&gt;Adaptive Multisensor Perception for Cochlear Implants&lt;/h1&gt;
+  &lt;p class=&quot;tagline&quot;&gt;Fuse several wearable sensors with deep learning so a cochlear implant adapts what it sends to the ear, moment by moment.&lt;/p&gt;
+  &lt;p&gt;Cochlear implants restore access to sound, but noisy rooms, competing talkers and music remain hard for many users. This concept proposes combining several wearable sensors with compact deep-learning models so stimulation adapts to the situation and to the listener. Nothing here is a measured result: it is a design to examine and test.&lt;/p&gt;
+  &lt;p style=&quot;font-size:.9rem;color:var(--muted)&quot;&gt;Throughout the page: &lt;span class=&quot;tag b&quot;&gt;Background&lt;/span&gt; = established knowledge or existing technology. &lt;span class=&quot;tag p&quot;&gt;Proposal&lt;/span&gt; = part of this idea, untested. &lt;span class=&quot;tag x&quot;&gt;Exploratory&lt;/span&gt; = speculative even within the proposal.&lt;/p&gt;
+&lt;/header&gt;
+
+&lt;figure class=&quot;card&quot; aria-labelledby=&quot;mainTitle&quot;&gt;
+  &lt;h2 id=&quot;mainTitle&quot; style=&quot;margin:0 0 .5em;border:0;padding:0;font-size:1.05rem&quot;&gt;Main concept: sense → understand → stimulate → learn&lt;/h2&gt;
+  &lt;div id=&quot;diagram&quot;&gt;&lt;/div&gt;
+  &lt;ul class=&quot;legend&quot; aria-label=&quot;Legend&quot;&gt;
+    &lt;li&gt;&lt;span class=&quot;sw sense&quot;&gt;&lt;/span&gt;Sensors (inputs)&lt;/li&gt;
+    &lt;li&gt;&lt;span class=&quot;sw think&quot;&gt;&lt;/span&gt;Learned perception&lt;/li&gt;
+    &lt;li&gt;&lt;span class=&quot;sw act&quot;&gt;&lt;/span&gt;Stimulation &amp;amp; outcome&lt;/li&gt;
+    &lt;li&gt;&lt;span class=&quot;sw loop&quot;&gt;&lt;/span&gt;Learning loop&lt;/li&gt;
+    &lt;li&gt;&lt;span class=&quot;sw guard&quot;&gt;&lt;/span&gt;Safety layer&lt;/li&gt;
+    &lt;li&gt;&lt;span class=&quot;sw dash&quot;&gt;&lt;/span&gt;Dashed box = already exists&lt;/li&gt;
+    &lt;li&gt;&lt;span class=&quot;ln&quot;&gt;&lt;/span&gt;Signal flow&lt;/li&gt;
+    &lt;li&gt;&lt;span class=&quot;ln l&quot;&gt;&lt;/span&gt;Personalisation&lt;/li&gt;
+    &lt;li&gt;&lt;span class=&quot;ln g&quot;&gt;&lt;/span&gt;Hard constraint&lt;/li&gt;
+  &lt;/ul&gt;
+  &lt;p id=&quot;note&quot; aria-live=&quot;polite&quot;&gt;Hover, tap or Tab to a box to read what it does. Enter or Space pins the note.&lt;/p&gt;
+  &lt;details&gt;
+    &lt;summary&gt;All diagram notes as text&lt;/summary&gt;
+    &lt;ul id=&quot;allnotes&quot;&gt;&lt;/ul&gt;
+  &lt;/details&gt;
+&lt;/figure&gt;
+
+&lt;section&gt;
+  &lt;h2&gt;The idea in one line&lt;/h2&gt;
+  &lt;p class=&quot;oneline&quot;&gt;&lt;span class=&quot;tag p&quot;&gt;Proposal&lt;/span&gt; Instead of a microphone feeding a fixed or preset program, let several body-worn sensors tell a compact deep-learning system &lt;em&gt;what scene the user is in and what they want to hear&lt;/em&gt;, and let it shape electrode stimulation accordingly — inside hard safety limits and a slow, supervised personalisation loop.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+  &lt;h2&gt;The problem it addresses&lt;/h2&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;span class=&quot;tag b&quot;&gt;Background&lt;/span&gt; A cochlear implant bypasses damaged parts of the inner ear and stimulates the auditory nerve electrically through an electrode array. Many users understand speech well in quiet conditions.&lt;/li&gt;
+    &lt;li&gt;&lt;span class=&quot;tag b&quot;&gt;Background&lt;/span&gt; Noisy places, several simultaneous talkers, reverberant rooms and music are typically much harder. Part of the reason is that electrical stimulation conveys limited spectral and temporal detail, so the ear has less to work with when sounds overlap.&lt;/li&gt;
+    &lt;li&gt;&lt;span class=&quot;tag b&quot;&gt;Background&lt;/span&gt; Current sound processors already offer directional microphones, noise reduction and automatic scene classification that switches between programs, set up by an audiologist during fitting.&lt;/li&gt;
+    &lt;li&gt;&lt;span class=&quot;tag p&quot;&gt;Proposal&lt;/span&gt; The gap this idea targets: the processor mostly &quot;hears&quot; through microphones alone and switches between a few discrete settings. It knows little about &lt;em&gt;where the user is looking, whether they are speaking, or which talker matters&lt;/em&gt;, and it does not learn from how a particular person responds.&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+  &lt;h2&gt;How it works — walking through the diagram&lt;/h2&gt;
+  &lt;ol&gt;
+    &lt;li&gt;&lt;strong&gt;Sense.&lt;/strong&gt; &lt;span class=&quot;tag p&quot;&gt;Proposal&lt;/span&gt; Alongside the microphones, small sensors add non-acoustic clues: head motion, an own-voice vibration sensor, optional context, and — as an exploratory option — gaze or ear-EEG signals of attention.&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;Fuse.&lt;/strong&gt; The streams are aligned in time and merged into one representation. The design must assume any sensor can drop out or be noisy, and fall back gracefully to microphone-only behaviour.&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;Understand.&lt;/strong&gt; A compact deep network estimates the listening scene and the likely target of attention. This estimate &lt;em&gt;steers&lt;/em&gt; a target-speech enhancement stage that emphasises what the user probably wants to hear.&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;Stimulate.&lt;/strong&gt; An adaptive mapping stage converts the cleaned signal into electrode pulse patterns, adjusting channel emphasis and compression to the scene rather than jumping between fixed programs.&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;Guard.&lt;/strong&gt; A non-learned safety layer enforces limits on stimulation level and processing delay. Learned components can request changes, never exceed these limits.&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;Learn.&lt;/strong&gt; Simple user feedback (ratings, quick overrides) and clinical fitting data slowly personalise the models, within bounds set by the clinician.&lt;/li&gt;
+  &lt;/ol&gt;
+
+  &lt;figure class=&quot;card small-fig&quot; aria-labelledby=&quot;tsTitle&quot;&gt;
+    &lt;h3 id=&quot;tsTitle&quot;&gt;Three loops on three timescales&lt;/h3&gt;
+    &lt;svg viewBox=&quot;0 0 360 290&quot; role=&quot;img&quot; aria-labelledby=&quot;tsT tsD&quot;&gt;
+      &lt;title id=&quot;tsT&quot;&gt;Three adaptation loops&lt;/title&gt;
+      &lt;desc id=&quot;tsD&quot;&gt;A fast loop each audio frame for enhancement and mapping, a medium loop over seconds for scene and attention, and a slow loop over days to weeks for personalisation.&lt;/desc&gt;
+      &lt;defs&gt;
+        &lt;marker id=&quot;ts-a&quot; viewBox=&quot;0 0 10 10&quot; refX=&quot;8&quot; refY=&quot;5&quot; markerWidth=&quot;5&quot; markerHeight=&quot;5&quot; orient=&quot;auto&quot;&gt;&lt;path class=&quot;mk&quot; d=&quot;M0 0L10 5L0 10z&quot;/&gt;&lt;/marker&gt;
+      &lt;/defs&gt;
+      &lt;g class=&quot;box g-act&quot;&gt;&lt;rect x=&quot;8&quot; y=&quot;8&quot; width=&quot;344&quot; height=&quot;84&quot; rx=&quot;12&quot;/&gt;&lt;/g&gt;
+      &lt;g class=&quot;box g-think&quot;&gt;&lt;rect x=&quot;8&quot; y=&quot;102&quot; width=&quot;344&quot; height=&quot;84&quot; rx=&quot;12&quot;/&gt;&lt;/g&gt;
+      &lt;g class=&quot;box g-loop&quot;&gt;&lt;rect x=&quot;8&quot; y=&quot;196&quot; width=&quot;344&quot; height=&quot;84&quot; rx=&quot;12&quot;/&gt;&lt;/g&gt;
+      &lt;path class=&quot;e&quot; d=&quot;M66 50 A18 18 0 1 1 48 32&quot; marker-end=&quot;url(#ts-a)&quot;/&gt;
+      &lt;path class=&quot;e&quot; d=&quot;M66 144 A18 18 0 1 1 48 126&quot; marker-end=&quot;url(#ts-a)&quot;/&gt;
+      &lt;path class=&quot;e&quot; d=&quot;M66 238 A18 18 0 1 1 48 220&quot; marker-end=&quot;url(#ts-a)&quot;/&gt;
+      &lt;g font-size=&quot;12.5&quot;&gt;
+        &lt;text class=&quot;t&quot; x=&quot;80&quot; y=&quot;36&quot; font-size=&quot;14&quot;&gt;Fast · every audio frame&lt;/text&gt;
+        &lt;text class=&quot;st&quot; x=&quot;80&quot; y=&quot;56&quot;&gt;Enhance target speech, map to pulses.&lt;/text&gt;
+        &lt;text class=&quot;st&quot; x=&quot;80&quot; y=&quot;74&quot;&gt;On the processor; tight latency budget.&lt;/text&gt;
+        &lt;text class=&quot;t&quot; x=&quot;80&quot; y=&quot;130&quot; font-size=&quot;14&quot;&gt;Medium · seconds&lt;/text&gt;
+        &lt;text class=&quot;st&quot; x=&quot;80&quot; y=&quot;150&quot;&gt;Re-estimate scene and attention target;&lt;/text&gt;
+        &lt;text class=&quot;st&quot; x=&quot;80&quot; y=&quot;168&quot;&gt;shift strategy smoothly, not abruptly.&lt;/text&gt;
+        &lt;text class=&quot;t&quot; x=&quot;80&quot; y=&quot;224&quot; font-size=&quot;14&quot;&gt;Slow · days to weeks&lt;/text&gt;
+        &lt;text class=&quot;st&quot; x=&quot;80&quot; y=&quot;244&quot;&gt;Personalise from feedback and fitting;&lt;/text&gt;
+        &lt;text class=&quot;st&quot; x=&quot;80&quot; y=&quot;262&quot;&gt;offline, clinician-approved updates.&lt;/text&gt;
+      &lt;/g&gt;
+    &lt;/svg&gt;
+    &lt;figcaption&gt;&lt;span class=&quot;tag p&quot;&gt;Proposal&lt;/span&gt; Separating timescales keeps the real-time path simple and predictable, while learning happens slowly and under supervision.&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+  &lt;h2&gt;Key components&lt;/h2&gt;
+  &lt;div class=&quot;grid&quot;&gt;
+    &lt;div class=&quot;card&quot;&gt;&lt;h3&gt;Sensor set &lt;span class=&quot;tag p&quot;&gt;Proposal&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;Microphones plus head motion, own-voice detection and optional context; gaze or ear-EEG only as an exploratory add-on. Which sensors earn their cost is an open question.&lt;/p&gt;&lt;/div&gt;
+    &lt;div class=&quot;card&quot;&gt;&lt;h3&gt;Fusion with graceful fallback &lt;span class=&quot;tag p&quot;&gt;Proposal&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;Time-aligned merging that degrades to microphone-only behaviour when any sensor is missing, noisy or switched off.&lt;/p&gt;&lt;/div&gt;
+    &lt;div class=&quot;card&quot;&gt;&lt;h3&gt;Scene &amp;amp; attention model &lt;span class=&quot;tag p&quot;&gt;Proposal&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;A compact network small enough for a behind-the-ear processor. Builds on existing scene classification &lt;span class=&quot;tag b&quot;&gt;Background&lt;/span&gt;, extended with attention cues.&lt;/p&gt;&lt;/div&gt;
+    &lt;div class=&quot;card&quot;&gt;&lt;h3&gt;Target-speech enhancement &lt;span class=&quot;tag p&quot;&gt;Proposal&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;Emphasises the attended talker. Deep-learning enhancement and separation, including work aimed at implant users, is an active research field &lt;span class=&quot;tag b&quot;&gt;Background&lt;/span&gt;.&lt;/p&gt;&lt;/div&gt;
+    &lt;div class=&quot;card&quot;&gt;&lt;h3&gt;Adaptive stimulation mapping &lt;span class=&quot;tag p&quot;&gt;Proposal&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;Adjusts how sound is turned into pulses depending on the scene, instead of switching among a few fixed programs.&lt;/p&gt;&lt;/div&gt;
+    &lt;div class=&quot;card&quot;&gt;&lt;h3&gt;Safety envelope &lt;span class=&quot;tag p&quot;&gt;Proposal&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;A deterministic layer that enforces stimulation and latency limits. It is deliberately not learned, so it can be verified.&lt;/p&gt;&lt;/div&gt;
+    &lt;div class=&quot;card&quot;&gt;&lt;h3&gt;Personalisation loop &lt;span class=&quot;tag p&quot;&gt;Proposal&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;Uses ratings, overrides and fitting data to adapt slowly, inside bounds an audiologist sets and can reset.&lt;/p&gt;&lt;/div&gt;
+    &lt;div class=&quot;card&quot;&gt;&lt;h3&gt;User control &lt;span class=&quot;tag p&quot;&gt;Proposal&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;A quick way to say &quot;not that voice&quot; or &quot;back to normal&quot; — so a wrong guess about attention never traps the user.&lt;/p&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+  &lt;h2&gt;What is new here vs what already exists&lt;/h2&gt;
+  &lt;div class=&quot;two&quot;&gt;
+    &lt;div class=&quot;card&quot;&gt;
+      &lt;h3&gt;&lt;span class=&quot;tag b&quot;&gt;Background&lt;/span&gt; Already exists&lt;/h3&gt;
+      &lt;ul&gt;
+        &lt;li&gt;Electrical stimulation of the auditory nerve through an electrode array.&lt;/li&gt;
+        &lt;li&gt;Directional microphones and noise reduction in sound processors.&lt;/li&gt;
+        &lt;li&gt;Automatic scene classification that switches programs.&lt;/li&gt;
+        &lt;li&gt;Clinical fitting by an audiologist.&lt;/li&gt;
+        &lt;li&gt;Research on deep-learning speech enhancement, and on decoding auditory attention from EEG (still experimental).&lt;/li&gt;
+        &lt;li&gt;Vocoder simulations used to approximate implant hearing for normal-hearing listeners, with known limitations.&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;card&quot;&gt;
+      &lt;h3&gt;&lt;span class=&quot;tag p&quot;&gt;Proposal&lt;/span&gt; New in this idea&lt;/h3&gt;
+      &lt;ul&gt;
+        &lt;li&gt;Treating non-acoustic body signals as first-class inputs, not add-ons.&lt;/li&gt;
+        &lt;li&gt;One learned chain from scene and attention through to stimulation mapping.&lt;/li&gt;
+        &lt;li&gt;Continuous, smooth adaptation instead of discrete program switching.&lt;/li&gt;
+        &lt;li&gt;A supervised personalisation loop with clinician-set bounds.&lt;/li&gt;
+        &lt;li&gt;An explicit, non-learned safety envelope as an architectural layer.&lt;/li&gt;
+        &lt;li&gt;Designing for sensor drop-out from the start.&lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;p style=&quot;font-size:.88rem;color:var(--muted)&quot;&gt;Some of these pieces may already be explored in research; a focused literature review is one of the first next steps.&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;figure class=&quot;card small-fig&quot; aria-labelledby=&quot;cmpTitle&quot;&gt;
+    &lt;h3 id=&quot;cmpTitle&quot;&gt;Comparison at a glance&lt;/h3&gt;
+    &lt;svg viewBox=&quot;0 0 360 252&quot; role=&quot;img&quot; aria-labelledby=&quot;cmpT cmpD&quot;&gt;
+      &lt;title id=&quot;cmpT&quot;&gt;Typical processing compared with the proposal&lt;/title&gt;
+      &lt;desc id=&quot;cmpD&quot;&gt;Today: microphones, a preset program, a fixed stimulation map. Proposed: several sensors, learned fusion with scene and attention, an adaptive stimulation map, and a feedback loop back to the learned stage.&lt;/desc&gt;
+      &lt;defs&gt;
+        &lt;marker id=&quot;c-a&quot; viewBox=&quot;0 0 10 10&quot; refX=&quot;9&quot; refY=&quot;5&quot; markerWidth=&quot;5&quot; markerHeight=&quot;5&quot; orient=&quot;auto&quot;&gt;&lt;path class=&quot;mk&quot; d=&quot;M0 0L10 5L0 10z&quot;/&gt;&lt;/marker&gt;
+        &lt;marker id=&quot;c-l&quot; viewBox=&quot;0 0 10 10&quot; refX=&quot;9&quot; refY=&quot;5&quot; markerWidth=&quot;5&quot; markerHeight=&quot;5&quot; orient=&quot;auto&quot;&gt;&lt;path class=&quot;mk l&quot; d=&quot;M0 0L10 5L0 10z&quot;/&gt;&lt;/marker&gt;
+      &lt;/defs&gt;
+      &lt;text class=&quot;head&quot; x=&quot;8&quot; y=&quot;16&quot;&gt;TYPICAL TODAY&lt;/text&gt;
+      &lt;g class=&quot;box bg g-sense&quot;&gt;&lt;rect x=&quot;8&quot; y=&quot;26&quot; width=&quot;104&quot; height=&quot;60&quot; rx=&quot;10&quot;/&gt;&lt;/g&gt;
+      &lt;g class=&quot;box bg g-think&quot;&gt;&lt;rect x=&quot;128&quot; y=&quot;26&quot; width=&quot;104&quot; height=&quot;60&quot; rx=&quot;10&quot;/&gt;&lt;/g&gt;
+      &lt;g class=&quot;box bg g-act&quot;&gt;&lt;rect x=&quot;248&quot; y=&quot;26&quot; width=&quot;104&quot; height=&quot;60&quot; rx=&quot;10&quot;/&gt;&lt;/g&gt;
+      &lt;path class=&quot;e&quot; d=&quot;M112 56 H128&quot; marker-end=&quot;url(#c-a)&quot;/&gt;
+      &lt;path class=&quot;e&quot; d=&quot;M232 56 H248&quot; marker-end=&quot;url(#c-a)&quot;/&gt;
+      &lt;g font-size=&quot;12&quot; text-anchor=&quot;middle&quot;&gt;
+        &lt;text class=&quot;t&quot; x=&quot;60&quot; y=&quot;52&quot;&gt;Microphone&lt;/text&gt;&lt;text class=&quot;t&quot; x=&quot;60&quot; y=&quot;68&quot;&gt;only&lt;/text&gt;
+        &lt;text class=&quot;t&quot; x=&quot;180&quot; y=&quot;44&quot;&gt;Preset program&lt;/text&gt;&lt;text class=&quot;st&quot; x=&quot;180&quot; y=&quot;60&quot;&gt;manual or simple&lt;/text&gt;&lt;text class=&quot;st&quot; x=&quot;180&quot; y=&quot;75&quot;&gt;classifier&lt;/text&gt;
+        &lt;text class=&quot;t&quot; x=&quot;300&quot; y=&quot;52&quot;&gt;Fixed&lt;/text&gt;&lt;text class=&quot;t&quot; x=&quot;300&quot; y=&quot;68&quot;&gt;stimulation map&lt;/text&gt;
+      &lt;/g&gt;
+      &lt;text class=&quot;head&quot; x=&quot;8&quot; y=&quot;122&quot;&gt;PROPOSED&lt;/text&gt;
+      &lt;g class=&quot;box g-sense&quot;&gt;&lt;rect x=&quot;8&quot; y=&quot;132&quot; width=&quot;104&quot; height=&quot;60&quot; rx=&quot;10&quot;/&gt;&lt;/g&gt;
+      &lt;g class=&quot;box g-think&quot;&gt;&lt;rect x=&quot;128&quot; y=&quot;132&quot; width=&quot;104&quot; height=&quot;60&quot; rx=&quot;10&quot;/&gt;&lt;/g&gt;
+      &lt;g class=&quot;box g-act&quot;&gt;&lt;rect x=&quot;248&quot; y=&quot;132&quot; width=&quot;104&quot; height=&quot;60&quot; rx=&quot;10&quot;/&gt;&lt;/g&gt;
+      &lt;path class=&quot;e&quot; d=&quot;M112 162 H128&quot; marker-end=&quot;url(#c-a)&quot;/&gt;
+      &lt;path class=&quot;e&quot; d=&quot;M232 162 H248&quot; marker-end=&quot;url(#c-a)&quot;/&gt;
+      &lt;path class=&quot;e l&quot; d=&quot;M300 192 V220 H180 V194&quot; marker-end=&quot;url(#c-l)&quot;/&gt;
+      &lt;g font-size=&quot;12&quot; text-anchor=&quot;middle&quot;&gt;
+        &lt;text class=&quot;t&quot; x=&quot;60&quot; y=&quot;158&quot;&gt;Several&lt;/text&gt;&lt;text class=&quot;t&quot; x=&quot;60&quot; y=&quot;174&quot;&gt;sensors&lt;/text&gt;
+        &lt;text class=&quot;t&quot; x=&quot;180&quot; y=&quot;150&quot;&gt;Learned fusion&lt;/text&gt;&lt;text class=&quot;st&quot; x=&quot;180&quot; y=&quot;166&quot;&gt;+ scene &amp;amp;&lt;/text&gt;&lt;text class=&quot;st&quot; x=&quot;180&quot; y=&quot;181&quot;&gt;attention&lt;/text&gt;
+        &lt;text class=&quot;t&quot; x=&quot;300&quot; y=&quot;158&quot;&gt;Adaptive&lt;/text&gt;&lt;text class=&quot;t&quot; x=&quot;300&quot; y=&quot;174&quot;&gt;stimulation map&lt;/text&gt;
+        &lt;text class=&quot;lbl l&quot; x=&quot;240&quot; y=&quot;242&quot;&gt;feedback &amp;amp; fitting&lt;/text&gt;
+      &lt;/g&gt;
+    &lt;/svg&gt;
+    &lt;figcaption&gt;Dashed outlines mark existing approaches; solid outlines mark the proposal.&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+  &lt;h2&gt;Open questions and risks&lt;/h2&gt;
+  &lt;div class=&quot;two&quot;&gt;
+    &lt;div class=&quot;card&quot;&gt;
+      &lt;h3&gt;Technical&lt;/h3&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;strong&gt;Latency and power.&lt;/strong&gt; Can a useful model run on a behind-the-ear processor within an acceptable delay and battery budget? Unknown until measured.&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Training data.&lt;/strong&gt; Implant hearing differs from acoustic hearing and between individuals. Vocoder simulations are only a proxy; data from implant users is essential and scarce.&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Generalisation.&lt;/strong&gt; Will models trained on recorded scenes behave sensibly in unfamiliar rooms, languages and noise types?&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Which sensors matter?&lt;/strong&gt; Each extra sensor adds cost, comfort and battery burden; some may add little. Gaze and ear-EEG in daily life are especially uncertain.&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Evaluation.&lt;/strong&gt; Standard objective speech metrics may not predict what implant users actually perceive.&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;card&quot;&gt;
+      &lt;h3&gt;Human, clinical, ethical&lt;/h3&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;strong&gt;Wrong guesses.&lt;/strong&gt; If the system picks the wrong talker, it may suppress the very sound the user wanted. Override and fallback design is critical.&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Agency and trust.&lt;/strong&gt; Users and clinicians need to understand, at least roughly, why the sound changed.&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Regulation.&lt;/strong&gt; Medical-device approval for algorithms that keep adapting after release is a hard, unresolved area.&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Privacy.&lt;/strong&gt; Head motion, location context and brain signals are sensitive; on-device processing and opt-in are assumed, not guaranteed.&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Drift.&lt;/strong&gt; Slow personalisation could drift into worse settings without anyone noticing; it needs monitoring and a reset.&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Equity.&lt;/strong&gt; Extra hardware and fitting time could widen access gaps.&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+  &lt;h2&gt;Possible next steps&lt;/h2&gt;
+  &lt;ol&gt;
+    &lt;li&gt;&lt;strong&gt;Literature review&lt;/strong&gt; of multisensor hearing devices, attention decoding and deep-learning enhancement for implants, to locate what is genuinely new.&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;Define budgets&lt;/strong&gt;: target processing delay, power, and the minimum viable sensor set, together with clinicians.&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;Collect a small multisensor dataset&lt;/strong&gt; of everyday scenes (audio plus head motion and own-voice signals) with consent.&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;Offline prototype and ablation&lt;/strong&gt;: test whether each sensor improves scene and attention estimates compared with microphones alone.&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;Early listening tests&lt;/strong&gt; with vocoder simulations as a rough first filter, clearly treated as a proxy.&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;Research-processor study with implant users&lt;/strong&gt;, measuring speech understanding in noise, listening effort, comfort and preference against their usual settings.&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;Specify the safety envelope and override&lt;/strong&gt; before any adaptive feature is tried with users, and consult regulators early.&lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/section&gt;
+
+&lt;p class=&quot;foot&quot;&gt;This page describes a design concept. It reports no experimental results, numbers or studies; every element marked &quot;Proposal&quot; is a hypothesis to be tested. Background statements are general and should be checked against current literature before use.&lt;/p&gt;
+&lt;/main&gt;
+
+&lt;script&gt;
+(function(){
+&quot;use strict&quot;;
+var N={
+ mic:{t:&quot;Microphone\narray&quot;,g:&quot;sense&quot;,k:&quot;B&quot;,n:&quot;Processors already use one or more microphones and directional processing; here they are one stream among several.&quot;},
+ imu:{t:&quot;Head motion\n(IMU)&quot;,g:&quot;sense&quot;,k:&quot;P&quot;,n:&quot;Head orientation and movement could hint where the listener is facing and when the scene changes.&quot;},
+ voice:{t:&quot;Own-voice\nvibration sensor&quot;,g:&quot;sense&quot;,k:&quot;P&quot;,n:&quot;A contact vibration sensor could tell the system when the user is speaking, so their own voice is treated differently.&quot;},
+ gaze:{t:&quot;Gaze / ear-EEG\n(exploratory)&quot;,g:&quot;sense&quot;,k:&quot;X&quot;,n:&quot;Eye gaze or ear-EEG might indicate which talker the user attends to; whether this works reliably in daily life is unknown.&quot;},
+ ctx:{t:&quot;Context\n(mode, time, phone)&quot;,g:&quot;sense&quot;,k:&quot;P&quot;,n:&quot;Coarse, opt-in context such as a user-chosen mode or paired phone state, used only as a weak hint.&quot;},
+ fusion:{t:&quot;Multisensor\nfusion&quot;,g:&quot;think&quot;,k:&quot;P&quot;,n:&quot;Aligns the streams in time and merges them; must fall back gracefully when a sensor is missing or noisy.&quot;},
+ scene:{t:&quot;Scene &amp; attention\nmodel (DNN)&quot;,g:&quot;think&quot;,k:&quot;P&quot;,n:&quot;A compact deep network estimates the listening scene and the likely target of attention. Simpler scene classifiers already exist.&quot;},
+ enh:{t:&quot;Target-speech\nenhancement&quot;,g:&quot;think&quot;,k:&quot;P&quot;,n:&quot;Emphasises the attended talker and suppresses competing sound before coding; DNN enhancement is an active research area.&quot;},
+ map:{t:&quot;Adaptive\nstimulation map&quot;,g:&quot;act&quot;,k:&quot;P&quot;,n:&quot;Turns the cleaned signal into electrode pulse patterns, adjusting channel emphasis and compression to the scene.&quot;},
+ safe:{t:&quot;Safety &amp; latency guard (hard limits)&quot;,g:&quot;guard&quot;,k:&quot;P&quot;,n:&quot;Fixed, verifiable limits on stimulation level and processing delay that no learned component can override.&quot;},
+ elec:{t:&quot;Electrode\nstimulation&quot;,g:&quot;act&quot;,k:&quot;B&quot;,n:&quot;The implant stimulates the auditory nerve through a limited number of electrode contacts; this part is unchanged.&quot;},
+ user:{t:&quot;What the user\nperceives&quot;,g:&quot;act&quot;,k:&quot;O&quot;,n:&quot;The outcome to measure: speech understanding in noise, listening effort, comfort and enjoyment of music.&quot;},
+ fb:{t:&quot;Feedback &amp;\nfitting data&quot;,g:&quot;loop&quot;,k:&quot;P&quot;,n:&quot;User ratings, quick overrides and clinical fitting data slowly personalise the models within clinician-set bounds.&quot;}
+};
+var TAG={B:[&quot;Background&quot;,&quot;b&quot;],P:[&quot;Proposal&quot;,&quot;p&quot;],X:[&quot;Exploratory&quot;,&quot;x&quot;],O:[&quot;Outcome to test&quot;,&quot;o&quot;]};
+var flow=[[&quot;fusion&quot;,&quot;scene&quot;],[&quot;fusion&quot;,&quot;enh&quot;],[&quot;scene&quot;,&quot;enh&quot;],[&quot;scene&quot;,&quot;map&quot;],[&quot;enh&quot;,&quot;map&quot;]];
+var LAY={
+ wide:{w:1000,h:505,fs:15,lh:18,
+  pos:{mic:[16,34,180,56],imu:[16,110,180,56],voice:[16,186,180,56],gaze:[16,262,180,56],ctx:[16,338,180,56],
+   fusion:[246,180,150,64],scene:[446,80,160,64],enh:[446,280,160,64],map:[656,180,150,64],
+   safe:[246,416,560,50],elec:[846,180,144,64],user:[846,300,144,64],fb:[846,416,144,50]},
+  grp:[6,22,200,382],
+  heads:[[106,14,&quot;SENSE&quot;],[426,14,&quot;UNDERSTAND&quot;],[823,14,&quot;STIMULATE&quot;]],
+  edges:[[&quot;mic&quot;,&quot;fusion&quot;],[&quot;imu&quot;,&quot;fusion&quot;],[&quot;voice&quot;,&quot;fusion&quot;],[&quot;gaze&quot;,&quot;fusion&quot;],[&quot;ctx&quot;,&quot;fusion&quot;]].concat(flow,[
+   [&quot;map&quot;,&quot;elec&quot;],[&quot;elec&quot;,&quot;user&quot;],[&quot;user&quot;,&quot;fb&quot;],
+   [&quot;safe&quot;,&quot;map&quot;,&quot;g&quot;,&quot;M731 416 V244&quot;],
+   [&quot;fb&quot;,&quot;map&quot;,&quot;l&quot;,&quot;M846 430 C800 430 790 300 790 244&quot;],
+   [&quot;fb&quot;,&quot;scene&quot;,&quot;l&quot;,&quot;M918 466 V492 H630 V60 H526 V80&quot;]]),
+  labels:[[534,216,&quot;steers&quot;,&quot;&quot;],[737,398,&quot;limits&quot;,&quot;g&quot;],[800,340,&quot;personalise&quot;,&quot;l&quot;],[640,500,&quot;personalise&quot;,&quot;l&quot;]]
+ },
+ narrow:{w:360,h:700,fs:13.5,lh:16,
+  pos:{mic:[16,32,154,50],imu:[190,32,154,50],voice:[16,92,154,50],gaze:[190,92,154,50],ctx:[103,152,154,50],
+   fusion:[80,240,200,50],scene:[16,316,154,54],enh:[190,316,154,54],map:[80,398,200,50],
+   safe:[16,474,328,46],elec:[16,548,154,54],user:[190,548,154,54],fb:[80,632,200,50]},
+  grp:[6,22,348,190],
+  heads:[],
+  edges:[[&quot;_grp&quot;,&quot;fusion&quot;,&quot;&quot;,&quot;M180 212 V240&quot;]].concat(flow,[
+   [&quot;map&quot;,&quot;safe&quot;],[&quot;safe&quot;,&quot;elec&quot;],[&quot;elec&quot;,&quot;user&quot;],[&quot;user&quot;,&quot;fb&quot;],
+   [&quot;fb&quot;,&quot;map&quot;,&quot;l&quot;,&quot;M280 657 H354 V423 H280&quot;],
+   [&quot;fb&quot;,&quot;scene&quot;,&quot;l&quot;,&quot;M80 657 H6 V343 H16&quot;]]),
+  labels:[]
+ }
+};
+var wrap=document.getElementById(&quot;diagram&quot;),note=document.getElementById(&quot;note&quot;);
+var cur=null,pinned=null,nodes=[],edges=[];
+function esc(s){return String(s).replace(/&amp;/g,&quot;&amp;amp;&quot;).replace(/&lt;/g,&quot;&amp;lt;&quot;).replace(/&quot;/g,&quot;&amp;quot;&quot;);}
+function auto(a,b){
+ var x1,y1,x2,y2,d;
+ if(b[0]&gt;=a[0]+a[2]-1){x1=a[0]+a[2];y1=a[1]+a[3]/2;x2=b[0];y2=b[1]+b[3]/2;d=(x2-x1)/2;
+  return &quot;M&quot;+x1+&quot; &quot;+y1+&quot; C&quot;+(x1+d)+&quot; &quot;+y1+&quot; &quot;+(x2-d)+&quot; &quot;+y2+&quot; &quot;+x2+&quot; &quot;+y2;}
+ if(b[1]&gt;=a[1]+a[3]-1){x1=a[0]+a[2]/2;y1=a[1]+a[3];x2=b[0]+b[2]/2;y2=b[1];d=(y2-y1)/2;
+  return &quot;M&quot;+x1+&quot; &quot;+y1+&quot; C&quot;+x1+&quot; &quot;+(y1+d)+&quot; &quot;+x2+&quot; &quot;+(y2-d)+&quot; &quot;+x2+&quot; &quot;+y2;}
+ if(b[1]+b[3]&lt;=a[1]){x1=a[0]+a[2]/2;y1=a[1];x2=b[0]+b[2]/2;y2=b[1]+b[3];d=(y1-y2)/2;
+  return &quot;M&quot;+x1+&quot; &quot;+y1+&quot; C&quot;+x1+&quot; &quot;+(y1-d)+&quot; &quot;+x2+&quot; &quot;+(y2+d)+&quot; &quot;+x2+&quot; &quot;+y2;}
+ x1=a[0];y1=a[1]+a[3]/2;x2=b[0]+b[2];y2=b[1]+b[3]/2;d=(x1-x2)/2;
+ return &quot;M&quot;+x1+&quot; &quot;+y1+&quot; C&quot;+(x1-d)+&quot; &quot;+y1+&quot; &quot;+(x2+d)+&quot; &quot;+y2+&quot; &quot;+x2+&quot; &quot;+y2;
+}
+function mk(id,c){return &#x27;&lt;marker id=&quot;&#x27;+id+&#x27;&quot; viewBox=&quot;0 0 10 10&quot; refX=&quot;9&quot; refY=&quot;5&quot; markerWidth=&quot;5&quot; markerHeight=&quot;5&quot; orient=&quot;auto&quot;&gt;&lt;path class=&quot;mk &#x27;+c+&#x27;&quot; d=&quot;M0 0L10 5L0 10z&quot;/&gt;&lt;/marker&gt;&#x27;;}
+function build(mode){
+ var L=LAY[mode],s=&quot;&quot;,i,id;
+ s+=&#x27;&lt;svg viewBox=&quot;0 0 &#x27;+L.w+&#x27; &#x27;+L.h+&#x27;&quot; role=&quot;group&quot; aria-label=&quot;Concept diagram. Sensors feed fusion, a scene and attention model and speech enhancement, then an adaptive stimulation map under a safety guard drives the electrodes; user feedback personalises the models.&quot;&gt;&#x27;;
+ s+=&quot;&lt;defs&gt;&quot;+mk(&quot;m-n&quot;,&quot;&quot;)+mk(&quot;m-l&quot;,&quot;l&quot;)+mk(&quot;m-g&quot;,&quot;g&quot;)+mk(&quot;m-h&quot;,&quot;h&quot;)+&quot;&lt;/defs&gt;&quot;;
+ var g=L.grp;
+ s+=&#x27;&lt;rect class=&quot;grp&quot; x=&quot;&#x27;+g[0]+&#x27;&quot; y=&quot;&#x27;+g[1]+&#x27;&quot; width=&quot;&#x27;+g[2]+&#x27;&quot; height=&quot;&#x27;+g[3]+&#x27;&quot; rx=&quot;14&quot;/&gt;&#x27;;
+ for(i=0;i&lt;L.heads.length;i++){var h=L.heads[i];s+=&#x27;&lt;text class=&quot;head&quot; x=&quot;&#x27;+h[0]+&#x27;&quot; y=&quot;&#x27;+h[1]+&#x27;&quot; text-anchor=&quot;middle&quot;&gt;&#x27;+h[2]+&quot;&lt;/text&gt;&quot;;}
+ for(i=0;i&lt;L.edges.length;i++){
+  var e=L.edges[i],k=e[2]||&quot;&quot;,d=e[3]||auto(L.pos[e[0]],L.pos[e[1]]);
+  s+=&#x27;&lt;path class=&quot;e &#x27;+k+&#x27;&quot; data-f=&quot;&#x27;+e[0]+&#x27;&quot; data-t=&quot;&#x27;+e[1]+&#x27;&quot; data-k=&quot;&#x27;+k+&#x27;&quot; d=&quot;&#x27;+d+&#x27;&quot; marker-end=&quot;url(#m-&#x27;+(k||&quot;n&quot;)+&#x27;)&quot;/&gt;&#x27;;
+ }
+ for(i=0;i&lt;L.labels.length;i++){var b=L.labels[i];s+=&#x27;&lt;text class=&quot;lbl &#x27;+b[3]+&#x27;&quot; x=&quot;&#x27;+b[0]+&#x27;&quot; y=&quot;&#x27;+b[1]+&#x27;&quot; text-anchor=&quot;middle&quot;&gt;&#x27;+b[2]+&quot;&lt;/text&gt;&quot;;}
+ for(id in N){
+  var n=N[id],p=L.pos[id],lines=n.t.split(&quot;\n&quot;),cx=p[0]+p[2]/2,cy=p[1]+p[3]/2,y0=cy-(lines.length-1)*L.lh/2;
+  s+=&#x27;&lt;g class=&quot;node g-&#x27;+n.g+(n.k===&quot;B&quot;?&quot; bg&quot;:&quot;&quot;)+&#x27;&quot; data-id=&quot;&#x27;+id+&#x27;&quot; tabindex=&quot;0&quot; role=&quot;button&quot; aria-pressed=&quot;false&quot; aria-label=&quot;&#x27;+esc(lines.join(&quot; &quot;)+&quot;. &quot;+TAG[n.k][0]+&quot;. &quot;+n.n)+&#x27;&quot;&gt;&#x27;;
+  s+=&#x27;&lt;rect x=&quot;&#x27;+p[0]+&#x27;&quot; y=&quot;&#x27;+p[1]+&#x27;&quot; width=&quot;&#x27;+p[2]+&#x27;&quot; height=&quot;&#x27;+p[3]+&#x27;&quot; rx=&quot;10&quot;/&gt;&#x27;;
+  s+=&#x27;&lt;text class=&quot;t&quot; text-anchor=&quot;middle&quot; font-size=&quot;&#x27;+L.fs+&#x27;&quot;&gt;&#x27;;
+  for(var j=0;j&lt;lines.length;j++){s+=&#x27;&lt;tspan x=&quot;&#x27;+cx+&#x27;&quot; y=&quot;&#x27;+(y0+j*L.lh)+&#x27;&quot; dominant-baseline=&quot;central&quot;&gt;&#x27;+esc(lines[j])+&quot;&lt;/tspan&gt;&quot;;}
+  s+=&quot;&lt;/text&gt;&lt;/g&gt;&quot;;
+ }
+ s+=&quot;&lt;/svg&gt;&quot;;
+ wrap.innerHTML=s;
+ nodes=[].slice.call(wrap.querySelectorAll(&quot;.node&quot;));
+ edges=[].slice.call(wrap.querySelectorAll(&quot;.e&quot;));
+ nodes.forEach(function(el){
+  var id=el.getAttribute(&quot;data-id&quot;);
+  el.addEventListener(&quot;mouseenter&quot;,function(){apply(id);});
+  el.addEventListener(&quot;mouseleave&quot;,function(){apply(pinned);});
+  el.addEventListener(&quot;focus&quot;,function(){apply(id);});
+  el.addEventListener(&quot;blur&quot;,function(){apply(pinned);});
+  el.addEventListener(&quot;click&quot;,function(){toggle(id);});
+  el.addEventListener(&quot;keydown&quot;,function(ev){
+   if(ev.key===&quot;Enter&quot;||ev.key===&quot; &quot;){ev.preventDefault();toggle(id);}
+   else if(ev.key===&quot;Escape&quot;){pinned=null;apply(id);syncPressed();}
+  });
+ });
+ syncPressed();apply(pinned);
+}
+function touches(e,id){
+ var f=e.getAttribute(&quot;data-f&quot;),t=e.getAttribute(&quot;data-t&quot;);
+ return f===id||t===id||(f===&quot;_grp&quot;&amp;&amp;N[id]&amp;&amp;N[id].g===&quot;sense&quot;);
+}
+function apply(id){
+ var nb={};
+ edges.forEach(function(e){
+  var on=id&amp;&amp;touches(e,id);
+  e.classList.toggle(&quot;hi&quot;,!!on);
+  e.classList.toggle(&quot;dim&quot;,!!id&amp;&amp;!on);
+  var k=e.getAttribute(&quot;data-k&quot;)||&quot;n&quot;;
+  e.setAttribute(&quot;marker-end&quot;,&quot;url(#m-&quot;+(on?&quot;h&quot;:k)+&quot;)&quot;);
+  if(on){var f=e.getAttribute(&quot;data-f&quot;),t=e.getAttribute(&quot;data-t&quot;);
+   if(f===&quot;_grp&quot;){for(var x in N){if(N[x].g===&quot;sense&quot;)nb[x]=1;}}else nb[f]=1; nb[t]=1;}
+ });
+ nodes.forEach(function(el){
+  var i=el.getAttribute(&quot;data-id&quot;);
+  el.classList.toggle(&quot;on&quot;,i===id);
+  el.classList.toggle(&quot;dim&quot;,!!id&amp;&amp;i!==id&amp;&amp;!nb[i]);
+ });
+ if(id&amp;&amp;N[id]){
+  var n=N[id],tg=TAG[n.k];
+  note.innerHTML=&#x27;&lt;span class=&quot;tag &#x27;+tg[1]+&#x27;&quot;&gt;&#x27;+tg[0]+&quot;&lt;/span&gt; &lt;strong&gt;&quot;+esc(n.t.replace(&quot;\n&quot;,&quot; &quot;))+&quot;&lt;/strong&gt; — &quot;+esc(n.n)+(pinned===id?&#x27; &lt;em style=&quot;color:var(--muted)&quot;&gt;(pinned)&lt;/em&gt;&#x27;:&quot;&quot;);
+ } else {
+  note.textContent=&quot;Hover, tap or Tab to a box to read what it does. Enter or Space pins the note.&quot;;
+ }
+}
+function toggle(id){pinned=(pinned===id)?null:id;syncPressed();apply(pinned||id);}
+function syncPressed(){nodes.forEach(function(el){el.setAttribute(&quot;aria-pressed&quot;,el.getAttribute(&quot;data-id&quot;)===pinned?&quot;true&quot;:&quot;false&quot;);});}
+function render(){
+ var mode=(wrap.clientWidth||window.innerWidth)&lt;640?&quot;narrow&quot;:&quot;wide&quot;;
+ if(mode===cur)return;cur=mode;
+ var focused=document.activeElement&amp;&amp;document.activeElement.getAttribute&amp;&amp;document.activeElement.getAttribute(&quot;data-id&quot;);
+ build(mode);
+ if(focused){var el=wrap.querySelector(&#x27;[data-id=&quot;&#x27;+focused+&#x27;&quot;]&#x27;);if(el)el.focus();}
+}
+var list=document.getElementById(&quot;allnotes&quot;),html=&quot;&quot;;
+for(var id in N){var n=N[id];html+=&#x27;&lt;li&gt;&lt;span class=&quot;tag &#x27;+TAG[n.k][1]+&#x27;&quot;&gt;&#x27;+TAG[n.k][0]+&quot;&lt;/span&gt; &lt;strong&gt;&quot;+esc(n.t.replace(&quot;\n&quot;,&quot; &quot;))+&quot;&lt;/strong&gt; — &quot;+esc(n.n)+&quot;&lt;/li&gt;&quot;;}
+list.innerHTML=html;
+render();
+if(typeof ResizeObserver!==&quot;undefined&quot;){new ResizeObserver(render).observe(wrap);}
+else{window.addEventListener(&quot;resize&quot;,render);}
+})();
+&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;"></iframe></div>
+<div class="howto"><h2>How to use</h2><ol><li>Hover, tap or Tab to any box in the main diagram to highlight it and read a one-line note.</li><li>Press Enter or Space to pin a note; press Escape to clear it.</li><li>Tags mark what is established background and what is part of this proposal.</li></ol></div>
+<section class="comments" id="comments"><h2>Comments &amp; reactions</h2><p class="lead">Spotted a mistake, or know a better example? Leave a comment or a reaction. Sign-in with GitHub is required; comments are public.</p><script src="https://giscus.app/client.js" data-repo="Allo6600/Infolocacion" data-repo-id="R_kgDOVwc7rg" data-category="Announcements" data-category-id="DIC_kwDOVwc7rs4DLUXT" data-mapping="pathname" data-strict="1" data-reactions-enabled="1" data-emit-metadata="0" data-input-position="top" data-theme="preferred_color_scheme" data-lang="en" data-loading="lazy" crossorigin="anonymous" async></script></section></main>
+<footer><p>This page was built by AI to explain an idea as concept diagrams. The idea: "人工内耳の性能向上のための多重センサーと深層学習を用いた適応型知覚システムの設計概念と課題、概念図".
+It runs in a sealed frame with no network access and stores nothing.</p>
+<p><a href="../">More pages</a></p></footer><script>addEventListener('message',function(e){var f=document.getElementById('stage');if(!f||e.source!==f.contentWindow||!e.data)return;var h=Number(e.data.infolocacionHeight);if(isFinite(h)&&h>200)f.style.height=Math.min(h+4,30000)+'px'})</script></body></html>
