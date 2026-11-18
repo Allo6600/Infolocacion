@@ -1,0 +1,422 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'unsafe-inline' https://giscus.app; frame-src https://giscus.app; style-src 'unsafe-inline'; img-src data: blob:; font-src data:; media-src data: blob:; connect-src 'none'; base-uri 'none'; form-action 'none'">
+<title>The Wexsler-ish Exam: A Parody IQ Test · Systems · Infolocacion</title><meta name="description" content="Take a tiny fake IQ test, then see how scoring, hidden factors and stats tricks bend the number.">
+<style>
+:root{--bg:#faf7f2;--card:#fff;--ink:#22201c;--sub:#6b655c;--line:#e6dfd3;--accent:#b4532a}
+@media(prefers-color-scheme:dark){:root{--bg:#171512;--card:#211e1a;--ink:#f1ece3;--sub:#a59d91;--line:#35302a;--accent:#e8935f}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.7 "Hiragino Sans","Yu Gothic UI","Noto Sans JP",system-ui,sans-serif}
+header,main,footer{max-width:1180px;margin:0 auto;padding:0 16px}
+header{padding-top:48px}h1{font-size:clamp(26px,5vw,42px);line-height:1.25;margin:0 0 12px}
+.lead{font-size:17px;max-width:46em;margin:0 0 12px}.meta{color:var(--sub);font-size:13px}
+nav{display:flex;flex-wrap:wrap;gap:8px;margin:20px 0 8px}
+nav a{color:var(--ink);text-decoration:none;border:1px solid var(--line);border-radius:999px;padding:4px 14px;font-size:14px;background:var(--card)}
+#q{width:100%;max-width:420px;font:inherit;padding:10px 14px;border:1px solid var(--line);border-radius:10px;background:var(--card);color:var(--ink);margin:8px 0}
+h2{font-size:22px;margin:40px 0 14px;padding-bottom:6px;border-bottom:2px solid var(--line)}h2 small{color:var(--sub);font-weight:400;font-size:14px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:16px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;overflow:hidden;display:flex;flex-direction:column}
+.ph{position:relative;overflow:hidden;aspect-ratio:4/3;background:var(--line);display:flex;align-items:center;justify-content:center;color:var(--sub);font-size:13px}
+.ph img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;display:block}
+.body{padding:12px 14px 14px;display:flex;flex-direction:column;gap:4px;flex:1}
+.key{color:var(--accent);font-size:13px;font-weight:700;letter-spacing:.04em}
+h3{font-size:17px;line-height:1.4;margin:0}.card p{margin:4px 0 0;font-size:14px;line-height:1.65}
+.more{margin-top:auto;padding-top:8px;font-size:13px}a{color:var(--accent)}
+.credit{color:var(--sub);font-size:11px;line-height:1.4;padding:6px 14px 10px;border-top:1px solid var(--line);overflow-wrap:anywhere}
+.credit a{color:var(--sub)}footer{color:var(--sub);font-size:13px;padding:40px 16px 60px}
+.pages{display:grid;gap:14px;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));margin-top:24px}
+.pages a{display:block;background:var(--card);border:1px solid var(--line);border-radius:14px;padding:18px;color:var(--ink);text-decoration:none}
+.pages b{display:block;font-size:18px;margin-bottom:6px}.pages span{color:var(--sub);font-size:13px}
+
+.stage{margin:18px 0 8px;border:1px solid var(--line);border-radius:14px;overflow:hidden;background:var(--card)}
+.stage iframe{display:block;width:100%;height:min(78vh,720px);border:0;background:#fff}
+.stage.concept iframe{height:85vh}
+.howto{max-width:46em}.howto ol{padding-left:1.3em}
+</style></head><body>
+<header><div class="meta"><a href="../../">Infolocacion</a> › Systems</div>
+<h1>The Wexsler-ish Exam: A Parody IQ Test</h1><p class="tagline lead">Take a tiny fake IQ test, then see how scoring, hidden factors and stats tricks bend the number.</p><p class="lead">This is a playful parody of IQ-style tests. You answer six quick items and get a score on a bell curve. Then you see how the same answers can turn into very different numbers.</p></header>
+<main><div class="stage"><iframe id="stage" title="The Wexsler-ish Exam: A Parody IQ Test" sandbox="allow-scripts" referrerpolicy="no-referrer"
+ srcdoc="&lt;!doctype html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;&lt;meta http-equiv=&quot;Content-Security-Policy&quot; content=&quot;default-src &#x27;none&#x27;; script-src &#x27;unsafe-inline&#x27;; style-src &#x27;unsafe-inline&#x27;; img-src data: blob:; font-src data:; media-src data: blob:; connect-src &#x27;none&#x27;; form-action &#x27;none&#x27;; base-uri &#x27;none&#x27;&quot;&gt;&lt;script&gt;(function(){var last=0;function m(){var b=document.body;if(!b)return 0;var r=0,c=b.children;for(var i=0;i&lt;c.length;i++){var x=c[i].getBoundingClientRect();if(x.height)r=Math.max(r,x.bottom)}var cs=getComputedStyle(b);return Math.ceil(r+scrollY+parseFloat(cs.marginBottom||0)+parseFloat(cs.paddingBottom||0))}function s(){var h=m();if(Math.abs(h-last)&lt;2)return;last=h;try{parent.postMessage({infolocacionHeight:h},&#x27;*&#x27;)}catch(e){}}addEventListener(&#x27;load&#x27;,s);addEventListener(&#x27;resize&#x27;,s);if(window.ResizeObserver)new ResizeObserver(s).observe(document.body||document.documentElement);setTimeout(s,300)})()&lt;/script&gt;
+&lt;meta charset=&quot;utf-8&quot;&gt;
+&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width,initial-scale=1&quot;&gt;
+&lt;title&gt;The Wexsler-ish Exam (A Parody)&lt;/title&gt;
+&lt;style&gt;
+:root{--bg:#fbfaf7;--fg:#1d1d1f;--muted:#5c5c66;--card:#fff;--line:#ddd8cc;--acc:#3b5bdb;--acc2:#d9480f;--good:#2b8a3e;--bad:#c92a2a;--shade:rgba(59,91,219,.18);--band:rgba(217,72,15,.13)}
+@media (prefers-color-scheme:dark){:root{--bg:#15161a;--fg:#ececf1;--muted:#a3a3ae;--card:#1f2128;--line:#363945;--acc:#91a7ff;--acc2:#ffa94d;--good:#69db7c;--bad:#ff8787;--shade:rgba(145,167,255,.22);--band:rgba(255,169,77,.16)}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.55 system-ui,-apple-system,&quot;Segoe UI&quot;,Roboto,sans-serif}
+main{max-width:760px;margin:0 auto;padding:16px}
+header{padding:20px 0 8px}
+h1{font-size:1.7rem;margin:0 0 4px;line-height:1.2}
+h2{font-size:1.25rem;margin:0 0 10px}
+h3{font-size:1.05rem;margin:0 0 10px}
+p{margin:0 0 10px}
+.muted{color:var(--muted);font-size:.92rem}
+.tag{display:inline-block;background:var(--acc2);color:#fff;font-size:.75rem;font-weight:700;padding:2px 8px;border-radius:99px;letter-spacing:.04em}
+@media (prefers-color-scheme:dark){.tag{color:#15161a}}
+section{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px;margin:16px 0}
+.num{font-size:.8rem;color:var(--acc);font-weight:700;text-transform:uppercase;letter-spacing:.08em}
+button{font:inherit;cursor:pointer;border-radius:10px;border:1px solid var(--line);background:var(--bg);color:var(--fg);padding:10px 14px;min-height:44px}
+button:hover{border-color:var(--acc)}
+button.primary{background:var(--acc);color:#fff;border-color:var(--acc);font-weight:600}
+@media (prefers-color-scheme:dark){button.primary{color:#15161a}}
+button:disabled{cursor:default;opacity:.75}
+:focus-visible{outline:3px solid var(--acc2);outline-offset:2px}
+.row{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.opts{display:grid;gap:8px;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));margin:8px 0}
+.opts button.right{border-color:var(--good);box-shadow:inset 0 0 0 2px var(--good)}
+.opts button.wrong{border-color:var(--bad);box-shadow:inset 0 0 0 2px var(--bad)}
+.bar{height:8px;background:var(--line);border-radius:99px;overflow:hidden;margin:6px 0 14px}
+.bar i{display:block;height:100%;background:var(--acc);width:0;transition:width .3s}
+.fb{min-height:1.5em;margin:8px 0}
+.digits{font-size:2.4rem;letter-spacing:.4em;font-weight:700;text-align:center;padding:10px 0;font-variant-numeric:tabular-nums}
+input[type=text]{font:inherit;font-size:1.4rem;letter-spacing:.3em;padding:8px 10px;border-radius:10px;border:1px solid var(--line);background:var(--bg);color:var(--fg);width:9em;min-height:44px}
+.grid{display:grid;grid-template-columns:repeat(5,1fr);gap:6px;max-width:340px;margin:10px 0}
+.grid button{font-size:1.5rem;padding:4px;aspect-ratio:1;min-height:44px}
+.grid button.hit{background:var(--good);color:#fff;border-color:var(--good)}
+.grid button.miss{background:var(--bad);color:#fff;border-color:var(--bad)}
+.big{font-size:3rem;font-weight:800;line-height:1.1;color:var(--acc);font-variant-numeric:tabular-nums;word-break:break-all}
+svg{width:100%;height:auto;display:block;margin:8px 0}
+.curve{fill:none;stroke:var(--fg);stroke-width:2}
+.fill{fill:var(--shade)}
+.band{fill:var(--band)}
+.axis{stroke:var(--muted);stroke-width:1}
+.tick{fill:var(--muted);font-size:10px;text-anchor:middle}
+.mk{stroke-width:2.5}.mk.a{stroke:var(--acc)}.mk.b{stroke:var(--acc2);stroke-dasharray:5 3}
+.ml{font-size:11px;font-weight:700;text-anchor:middle}.ml.a{fill:var(--acc)}.ml.b{fill:var(--acc2)}
+table{border-collapse:collapse;width:100%;font-size:.95rem}
+td{padding:6px 4px;border-bottom:1px solid var(--line)}
+td:last-child{text-align:right;font-variant-numeric:tabular-nums}
+ol.steps{padding-left:1.3em;margin:0}
+ol.steps li{margin-bottom:12px}
+.val{font-weight:700;color:var(--acc);font-variant-numeric:tabular-nums}
+select{font:inherit;padding:8px;border-radius:10px;border:1px solid var(--line);background:var(--bg);color:var(--fg);min-height:44px;max-width:100%}
+.slider{margin:10px 0}
+.slider label{display:flex;justify-content:space-between;gap:8px;font-size:.95rem}
+.slider output{font-variant-numeric:tabular-nums;color:var(--muted);white-space:nowrap}
+input[type=range]{width:100%;accent-color:var(--acc);min-height:32px}
+.compare{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin:10px 0}
+.box{border:1px solid var(--line);border-radius:10px;padding:10px;text-align:center}
+.box b{display:block;font-size:1.8rem;font-variant-numeric:tabular-nums}
+.box.a b{color:var(--acc)}.box.b b{color:var(--acc2)}
+fieldset{border:1px solid var(--line);border-radius:10px;padding:10px;margin:10px 0}
+legend{font-weight:600;padding:0 4px}
+.radio{display:flex;align-items:center;gap:8px;padding:4px 0;min-height:36px}
+.radio input,.chk input{width:20px;height:20px;accent-color:var(--acc)}
+.chk{display:flex;align-items:center;gap:8px;margin:10px 0;min-height:36px}
+ul.notes{padding-left:1.2em;margin:8px 0 0}
+ul.notes li{margin-bottom:6px}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:8px;margin:10px 0}
+.cards button{text-align:left;display:flex;flex-direction:column;gap:2px}
+.cards button span{font-size:.85rem;color:var(--muted)}
+.cards button[aria-pressed=true]{border-color:var(--acc2);box-shadow:inset 0 0 0 2px var(--acc2)}
+footer{color:var(--muted);font-size:.85rem;padding:8px 0 30px}
+.hidden{display:none}
+.sample{background:var(--band);border-radius:8px;padding:6px 10px;font-size:.9rem}
+&lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;main&gt;
+&lt;header&gt;
+&lt;span class=&quot;tag&quot;&gt;PARODY&lt;/span&gt;
+&lt;h1&gt;The Wexsler-ish Exam&lt;/h1&gt;
+&lt;p&gt;A tiny, very unofficial &quot;intelligence&quot; test. It gives you one confident number. Then it shows how wobbly that number is.&lt;/p&gt;
+&lt;p class=&quot;muted&quot;&gt;This is not a real IQ test. It is not linked to any real test or publisher. All groups and weights here are made up.&lt;/p&gt;
+&lt;/header&gt;
+
+&lt;section id=&quot;s1&quot; aria-labelledby=&quot;h1s&quot;&gt;
+&lt;div class=&quot;num&quot;&gt;Section 1&lt;/div&gt;
+&lt;h2 id=&quot;h1s&quot;&gt;Test: your result&lt;/h2&gt;
+&lt;div id=&quot;intro&quot;&gt;
+&lt;p&gt;Six short items. Some are timed. Fast answers earn a bonus, because tests often reward speed.&lt;/p&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;button class=&quot;primary&quot; id=&quot;start&quot;&gt;Start the test&lt;/button&gt;
+&lt;button id=&quot;skip&quot;&gt;Skip: fill in random answers&lt;/button&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&quot;test&quot; class=&quot;hidden&quot;&gt;
+&lt;div id=&quot;prog&quot; class=&quot;muted&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;bar&quot; aria-hidden=&quot;true&quot;&gt;&lt;i id=&quot;barI&quot;&gt;&lt;/i&gt;&lt;/div&gt;
+&lt;div id=&quot;qArea&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;fb&quot; id=&quot;fb&quot; aria-live=&quot;polite&quot;&gt;&lt;/div&gt;
+&lt;button class=&quot;primary hidden&quot; id=&quot;next&quot;&gt;Next&lt;/button&gt;
+&lt;/div&gt;
+&lt;div id=&quot;result&quot; class=&quot;hidden&quot;&gt;
+&lt;h3 id=&quot;resH&quot; tabindex=&quot;-1&quot;&gt;Your official-looking number&lt;/h3&gt;
+&lt;div class=&quot;big&quot; id=&quot;resScore&quot;&gt;–&lt;/div&gt;
+&lt;p id=&quot;resPct&quot;&gt;&lt;/p&gt;
+&lt;svg id=&quot;c1&quot; viewBox=&quot;0 0 320 160&quot; role=&quot;img&quot; aria-label=&quot;Bell curve&quot;&gt;&lt;/svg&gt;
+&lt;table id=&quot;resTable&quot;&gt;&lt;/table&gt;
+&lt;p class=&quot;muted&quot;&gt;The bell curve shows how scores spread out in a group. Most people sit near the middle. The shaded part is the share of the group below you.&lt;/p&gt;
+&lt;div class=&quot;row&quot;&gt;&lt;button id=&quot;again&quot;&gt;Take it again&lt;/button&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;
+
+&lt;section id=&quot;s2&quot; aria-labelledby=&quot;h2s&quot;&gt;
+&lt;div class=&quot;num&quot;&gt;Section 2&lt;/div&gt;
+&lt;h2 id=&quot;h2s&quot;&gt;How the scoring works&lt;/h2&gt;
+&lt;p class=&quot;sample hidden&quot; id=&quot;sm2&quot;&gt;No test taken yet. Using a sample of 5 raw points.&lt;/p&gt;
+&lt;ol class=&quot;steps&quot;&gt;
+&lt;li&gt;&lt;b&gt;Count raw points.&lt;/b&gt; You earned &lt;span class=&quot;val&quot; id=&quot;pRaw&quot;&gt;&lt;/span&gt; of 8 points.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Pick a comparison group.&lt;/b&gt; Your score only means something next to other people&#x27;s.&lt;br&gt;
+&lt;label for=&quot;norm&quot; class=&quot;muted&quot;&gt;Group:&lt;/label&gt;
+&lt;select id=&quot;norm&quot;&gt;
+&lt;option value=&quot;avg&quot;&gt;Imaginary everyday crowd&lt;/option&gt;
+&lt;option value=&quot;club&quot;&gt;Imaginary puzzle club&lt;/option&gt;
+&lt;option value=&quot;sleepy&quot;&gt;Imaginary 3 a.m. crowd&lt;/option&gt;
+&lt;/select&gt;&lt;br&gt;
+&lt;span class=&quot;muted&quot;&gt;This made-up group averages &lt;span class=&quot;val&quot; id=&quot;pM&quot;&gt;&lt;/span&gt; points, with a typical spread of &lt;span class=&quot;val&quot; id=&quot;pSd&quot;&gt;&lt;/span&gt;.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Find your z-score.&lt;/b&gt; A z-score says how many &quot;typical spreads&quot; you are above or below the group average.&lt;br&gt;
+z = (&lt;span id=&quot;pR2&quot;&gt;&lt;/span&gt; − &lt;span id=&quot;pM2&quot;&gt;&lt;/span&gt;) ÷ &lt;span id=&quot;pSd2&quot;&gt;&lt;/span&gt; = &lt;span class=&quot;val&quot; id=&quot;pZ&quot;&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Stretch it to the familiar scale.&lt;/b&gt; Many IQ-style tests set the average at 100. One typical spread (a &quot;standard deviation&quot;) becomes 15 points.&lt;br&gt;
+score = 100 + 15 × &lt;span id=&quot;pZ2&quot;&gt;&lt;/span&gt; = &lt;span class=&quot;val&quot; id=&quot;pS&quot;&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Turn it into a percentile.&lt;/b&gt; A percentile is the share of the group that scores below you. Here it is about &lt;span class=&quot;val&quot; id=&quot;pP&quot;&gt;&lt;/span&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p class=&quot;muted&quot;&gt;Real tests build their groups from large samples of real people. This page uses invented numbers, so the result means nothing.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section id=&quot;s3&quot; aria-labelledby=&quot;h3s&quot;&gt;
+&lt;div class=&quot;num&quot;&gt;Section 3&lt;/div&gt;
+&lt;h2 id=&quot;h3s&quot;&gt;Hidden variables that move the score&lt;/h2&gt;
+&lt;p&gt;Your answers are fixed. But imagine you took the test on a different day. Move the sliders.&lt;/p&gt;
+&lt;div id=&quot;sliders&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;compare&quot;&gt;
+&lt;div class=&quot;box a&quot;&gt;&lt;span class=&quot;muted&quot;&gt;Score as taken&lt;/span&gt;&lt;b id=&quot;hA&quot;&gt;–&lt;/b&gt;&lt;/div&gt;
+&lt;div class=&quot;box b&quot;&gt;&lt;span class=&quot;muted&quot;&gt;On that other day&lt;/span&gt;&lt;b id=&quot;hB&quot;&gt;–&lt;/b&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p id=&quot;hMsg&quot; aria-live=&quot;polite&quot;&gt;&lt;/p&gt;
+&lt;svg id=&quot;c2&quot; viewBox=&quot;0 0 320 160&quot; role=&quot;img&quot; aria-label=&quot;Bell curve with two scores&quot;&gt;&lt;/svg&gt;
+&lt;p class=&quot;muted&quot;&gt;The weights on this page are invented. Research does find that sleep, stress, practice and language can affect test results. The sizes here are not real.&lt;/p&gt;
+&lt;div class=&quot;row&quot;&gt;&lt;button id=&quot;hReset&quot;&gt;Reset sliders&lt;/button&gt;&lt;/div&gt;
+&lt;/section&gt;
+
+&lt;section id=&quot;s4&quot; aria-labelledby=&quot;h4s&quot;&gt;
+&lt;div class=&quot;num&quot;&gt;Section 4&lt;/div&gt;
+&lt;h2 id=&quot;h4s&quot;&gt;Statistical sleight of hand&lt;/h2&gt;
+&lt;p&gt;Same answers. Let&#x27;s change only how we report them.&lt;/p&gt;
+&lt;div class=&quot;row&quot;&gt;&lt;button id=&quot;flatter&quot;&gt;Pick the most flattering group&lt;/button&gt;&lt;/div&gt;
+&lt;p class=&quot;muted&quot; id=&quot;flatMsg&quot; aria-live=&quot;polite&quot;&gt;&lt;/p&gt;
+&lt;label for=&quot;old&quot;&gt;&lt;b&gt;Compare against norms from:&lt;/b&gt;&lt;/label&gt;&lt;br&gt;
+&lt;select id=&quot;old&quot;&gt;
+&lt;option value=&quot;0&quot;&gt;This year&lt;/option&gt;
+&lt;option value=&quot;1&quot;&gt;10 years ago&lt;/option&gt;
+&lt;option value=&quot;2&quot;&gt;20 years ago&lt;/option&gt;
+&lt;option value=&quot;3&quot;&gt;30 years ago&lt;/option&gt;
+&lt;/select&gt;
+&lt;fieldset&gt;
+&lt;legend&gt;Report the result as&lt;/legend&gt;
+&lt;label class=&quot;radio&quot;&gt;&lt;input type=&quot;radio&quot; name=&quot;fmt&quot; value=&quot;whole&quot; checked&gt; A whole number&lt;/label&gt;
+&lt;label class=&quot;radio&quot;&gt;&lt;input type=&quot;radio&quot; name=&quot;fmt&quot; value=&quot;precise&quot;&gt; A very precise number&lt;/label&gt;
+&lt;label class=&quot;radio&quot;&gt;&lt;input type=&quot;radio&quot; name=&quot;fmt&quot; value=&quot;pct&quot;&gt; A percentile&lt;/label&gt;
+&lt;label class=&quot;radio&quot;&gt;&lt;input type=&quot;radio&quot; name=&quot;fmt&quot; value=&quot;best&quot;&gt; My best item only&lt;/label&gt;
+&lt;label class=&quot;radio&quot;&gt;&lt;input type=&quot;radio&quot; name=&quot;fmt&quot; value=&quot;label&quot;&gt; A catchy label&lt;/label&gt;
+&lt;/fieldset&gt;
+&lt;label class=&quot;chk&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;bandChk&quot;&gt; Show an honest error band&lt;/label&gt;
+&lt;p class=&quot;muted&quot;&gt;The reported result:&lt;/p&gt;
+&lt;div class=&quot;big&quot; id=&quot;rep&quot; aria-live=&quot;polite&quot;&gt;–&lt;/div&gt;
+&lt;svg id=&quot;c3&quot; viewBox=&quot;0 0 320 160&quot; role=&quot;img&quot; aria-label=&quot;Bell curve for the reported score&quot;&gt;&lt;/svg&gt;
+&lt;ul class=&quot;notes&quot; id=&quot;tricks&quot;&gt;&lt;/ul&gt;
+&lt;/section&gt;
+
+&lt;section id=&quot;s5&quot; aria-labelledby=&quot;h5s&quot;&gt;
+&lt;div class=&quot;num&quot;&gt;Section 5&lt;/div&gt;
+&lt;h2 id=&quot;h5s&quot;&gt;What the number cannot see&lt;/h2&gt;
+&lt;p&gt;Tap a card to &quot;measure&quot; it.&lt;/p&gt;
+&lt;div class=&quot;cards&quot; id=&quot;cards&quot;&gt;&lt;/div&gt;
+&lt;p id=&quot;cardMsg&quot; aria-live=&quot;polite&quot; class=&quot;muted&quot;&gt;Measured so far: 0 of 0.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;footer&gt;
+&lt;p&gt;Made as a parody of one-number thinking. Real intelligence tests are long, given by trained people, and read with care. This page is none of those things.&lt;/p&gt;
+&lt;p&gt;The name is a playful nod to well-known test batteries. No real test items are used.&lt;/p&gt;
+&lt;/footer&gt;
+&lt;/main&gt;
+
+&lt;script&gt;
+(function(){
+var $=function(id){return document.getElementById(id)};
+var norms={avg:{n:&#x27;Imaginary everyday crowd&#x27;,m:5,sd:1.5},club:{n:&#x27;Imaginary puzzle club&#x27;,m:6.6,sd:0.9},sleepy:{n:&#x27;Imaginary 3 a.m. crowd&#x27;,m:3.6,sd:1.6}};
+var MAX=8;
+var items=[
+{t:&#x27;mc&#x27;,name:&#x27;Number pattern&#x27;,q:&#x27;What comes next? 3, 6, 12, 24, …&#x27;,o:[&#x27;30&#x27;,&#x27;36&#x27;,&#x27;48&#x27;,&#x27;42&#x27;],a:2},
+{t:&#x27;mc&#x27;,name:&#x27;Odd one out&#x27;,q:&#x27;Which one does not belong? 🍎 🍌 🥕 🍇&#x27;,o:[&#x27;🍎 Apple&#x27;,&#x27;🍌 Banana&#x27;,&#x27;🥕 Carrot&#x27;,&#x27;🍇 Grapes&#x27;],a:2,note:&#x27;But the banana is the only long one. The grapes are the only bunch. Many answers make sense. The test accepts only one.&#x27;},
+{t:&#x27;mc&#x27;,name:&#x27;Word meaning&#x27;,q:&#x27;Which word is closest in meaning to &quot;brief&quot;?&#x27;,o:[&#x27;bright&#x27;,&#x27;short&#x27;,&#x27;heavy&#x27;,&#x27;loud&#x27;],a:1,note:&#x27;This item checks English words as much as thinking.&#x27;},
+{t:&#x27;mem&#x27;,name:&#x27;Digit memory&#x27;},
+{t:&#x27;mc&#x27;,name:&#x27;Logic&#x27;,q:&#x27;All bloops are razzies. All razzies are lazzies. Are all bloops lazzies?&#x27;,o:[&#x27;Yes&#x27;,&#x27;No&#x27;,&#x27;Cannot tell&#x27;],a:0},
+{t:&#x27;speed&#x27;,name:&#x27;Star hunt&#x27;}
+];
+items.forEach(function(it){it.max=it.t===&#x27;mc&#x27;?1.5:1});
+var st={i:0,res:[],raw:null,norm:&#x27;avg&#x27;};
+var timers=[];
+function clearTimers(){timers.forEach(function(t){clearTimeout(t);clearInterval(t)});timers=[]}
+
+function erf(x){var t=1/(1+0.3275911*Math.abs(x));var y=1-(((((1.061405429*t-1.453152027)*t)+1.421413741)*t-0.284496736)*t+0.254829592)*t*Math.exp(-x*x);return x&gt;=0?y:-y}
+function cdf(z){return 0.5*(1+erf(z/Math.SQRT2))}
+function clamp(v,a,b){return Math.max(a,Math.min(b,v))}
+function calc(raw,key){var n=norms[key];var z=(raw-n.m)/n.sd;var s=clamp(100+15*z,40,160);return{z:z,s:s,p:cdf((s-100)/15)*100}}
+function f1(v){return (Math.round(v*10)/10).toFixed(1)}
+function f2(v){return (Math.round(v*100)/100).toFixed(2)}
+function ord(p){return Math.round(clamp(p,0.1,99.9))+&#x27;%&#x27;}
+
+function drawCurve(svg,marks,band){
+ var X=function(s){return 20+(s-40)/120*280},Y=function(s){return 120-100*Math.exp(-Math.pow((s-100)/15,2)/2)};
+ var d=&#x27;&#x27;,s,h=&#x27;&#x27;;
+ for(s=40;s&lt;=160;s+=2)d+=(s===40?&#x27;M&#x27;:&#x27;L&#x27;)+X(s).toFixed(1)+&#x27; &#x27;+Y(s).toFixed(1);
+ if(band){var a=clamp(band[0],40,160),b=clamp(band[1],40,160);h+=&#x27;&lt;rect x=&quot;&#x27;+X(a)+&#x27;&quot; y=&quot;15&quot; width=&quot;&#x27;+(X(b)-X(a))+&#x27;&quot; height=&quot;105&quot; class=&quot;band&quot;/&gt;&#x27;}
+ if(marks[0]){var m=clamp(marks[0].s,40,160),ap=&#x27;M&#x27;+X(40)+&#x27; 120&#x27;;for(s=40;s&lt;=m;s+=1)ap+=&#x27;L&#x27;+X(s).toFixed(1)+&#x27; &#x27;+Y(s).toFixed(1);ap+=&#x27;L&#x27;+X(m).toFixed(1)+&#x27; &#x27;+Y(m).toFixed(1)+&#x27;L&#x27;+X(m).toFixed(1)+&#x27; 120Z&#x27;;h+=&#x27;&lt;path d=&quot;&#x27;+ap+&#x27;&quot; class=&quot;fill&quot;/&gt;&#x27;}
+ h+=&#x27;&lt;path d=&quot;&#x27;+d+&#x27;&quot; class=&quot;curve&quot;/&gt;&lt;line x1=&quot;20&quot; y1=&quot;120&quot; x2=&quot;300&quot; y2=&quot;120&quot; class=&quot;axis&quot;/&gt;&#x27;;
+ [55,70,85,100,115,130,145].forEach(function(t){h+=&#x27;&lt;line x1=&quot;&#x27;+X(t)+&#x27;&quot; y1=&quot;120&quot; x2=&quot;&#x27;+X(t)+&#x27;&quot; y2=&quot;124&quot; class=&quot;axis&quot;/&gt;&lt;text x=&quot;&#x27;+X(t)+&#x27;&quot; y=&quot;135&quot; class=&quot;tick&quot;&gt;&#x27;+t+&#x27;&lt;/text&gt;&#x27;});
+ marks.forEach(function(mk,i){var x=X(clamp(mk.s,40,160)),lx=clamp(x,34,286);h+=&#x27;&lt;line x1=&quot;&#x27;+x+&#x27;&quot; y1=&quot;&#x27;+(i?120:16)+&#x27;&quot; x2=&quot;&#x27;+x+&#x27;&quot; y2=&quot;&#x27;+(i?140:120)+&#x27;&quot; class=&quot;mk &#x27;+mk.c+&#x27;&quot;/&gt;&lt;text x=&quot;&#x27;+lx+&#x27;&quot; y=&quot;&#x27;+(i?153:11)+&#x27;&quot; class=&quot;ml &#x27;+mk.c+&#x27;&quot;&gt;&#x27;+mk.l+&#x27;&lt;/text&gt;&#x27;});
+ svg.innerHTML=h;
+ svg.setAttribute(&#x27;aria-label&#x27;,&#x27;Bell curve from 40 to 160. &#x27;+marks.map(function(m){return m.l}).join(&#x27;. &#x27;));
+}
+
+/* ---------- Test ---------- */
+var qArea=$(&#x27;qArea&#x27;),fb=$(&#x27;fb&#x27;),nextBtn=$(&#x27;next&#x27;);
+function el(tag,props,text){var e=document.createElement(tag);for(var k in props)e.setAttribute(k,props[k]);if(text!=null)e.textContent=text;return e}
+function begin(){st.i=0;st.res=[];$(&#x27;intro&#x27;).classList.add(&#x27;hidden&#x27;);$(&#x27;result&#x27;).classList.add(&#x27;hidden&#x27;);$(&#x27;test&#x27;).classList.remove(&#x27;hidden&#x27;);show()}
+function record(pts){var it=items[st.i];st.res.push({name:it.name,pts:pts,max:it.max});nextBtn.classList.remove(&#x27;hidden&#x27;);nextBtn.textContent=st.i===items.length-1?&#x27;See my number&#x27;:&#x27;Next&#x27;;nextBtn.focus()}
+function show(){
+ clearTimers();var it=items[st.i];qArea.innerHTML=&#x27;&#x27;;fb.textContent=&#x27;&#x27;;nextBtn.classList.add(&#x27;hidden&#x27;);
+ $(&#x27;prog&#x27;).textContent=&#x27;Item &#x27;+(st.i+1)+&#x27; of &#x27;+items.length+&#x27; — &#x27;+it.name;
+ $(&#x27;barI&#x27;).style.width=(st.i/items.length*100)+&#x27;%&#x27;;
+ if(it.t===&#x27;mc&#x27;)showMC(it);else if(it.t===&#x27;mem&#x27;)showMem();else showSpeed();
+}
+function showMC(it){
+ var h=el(&#x27;h3&#x27;,{tabindex:&#x27;-1&#x27;},it.q);qArea.appendChild(h);
+ var box=el(&#x27;div&#x27;,{class:&#x27;opts&#x27;});var t0=performance.now();
+ it.o.forEach(function(o,k){var b=el(&#x27;button&#x27;,{type:&#x27;button&#x27;},o);b.onclick=function(){
+  var dt=performance.now()-t0,ok=k===it.a,fast=dt&lt;5000;
+  Array.prototype.forEach.call(box.children,function(c){c.disabled=true});
+  b.classList.add(ok?&#x27;right&#x27;:&#x27;wrong&#x27;);if(!ok)box.children[it.a].classList.add(&#x27;right&#x27;);
+  var pts=ok?(1+(fast?0.5:0)):0;
+  fb.textContent=(ok?&#x27;Expected answer. &#x27;+(fast?&#x27;Fast, too: +0.5 speed bonus.&#x27;:&#x27;No speed bonus (over 5 seconds).&#x27;):&#x27;Not the expected answer. 0 points.&#x27;)+(it.note?&#x27; &#x27;+it.note:&#x27;&#x27;);
+  record(pts)};box.appendChild(b)});
+ qArea.appendChild(box);h.focus();
+}
+function showMem(){
+ var digits=&#x27;&#x27;;for(var k=0;k&lt;5;k++)digits+=Math.floor(Math.random()*10);
+ qArea.appendChild(el(&#x27;p&#x27;,{},&#x27;Press Show. Five digits appear for 3 seconds. Then type them in the same order.&#x27;));
+ var b=el(&#x27;button&#x27;,{type:&#x27;button&#x27;,class:&#x27;primary&#x27;},&#x27;Show digits&#x27;);qArea.appendChild(b);b.focus();
+ b.onclick=function(){
+  b.remove();var d=el(&#x27;div&#x27;,{class:&#x27;digits&#x27;,&#x27;aria-live&#x27;:&#x27;assertive&#x27;},digits.split(&#x27;&#x27;).join(&#x27; &#x27;));qArea.appendChild(d);
+  timers.push(setTimeout(function(){
+   d.remove();var row=el(&#x27;div&#x27;,{class:&#x27;row&#x27;});var lab=el(&#x27;label&#x27;,{for:&#x27;memIn&#x27;},&#x27;Digits:&#x27;);
+   var inp=el(&#x27;input&#x27;,{type:&#x27;text&#x27;,id:&#x27;memIn&#x27;,inputmode:&#x27;numeric&#x27;,maxlength:&#x27;5&#x27;,autocomplete:&#x27;off&#x27;});
+   var c=el(&#x27;button&#x27;,{type:&#x27;button&#x27;,class:&#x27;primary&#x27;},&#x27;Check&#x27;);
+   row.appendChild(lab);row.appendChild(inp);row.appendChild(c);qArea.appendChild(row);inp.focus();
+   function check(){var v=inp.value.replace(/\D/g,&#x27;&#x27;),m=0;for(var k=0;k&lt;5;k++)if(v[k]===digits[k])m++;
+    inp.disabled=true;c.disabled=true;fb.textContent=&#x27;You got &#x27;+m+&#x27; of 5 digits in the right place. The digits were &#x27;+digits+&#x27;.&#x27;;record(m/5)}
+   c.onclick=check;inp.onkeydown=function(e){if(e.key===&#x27;Enter&#x27;)check()};
+  },3000));
+ };
+}
+function showSpeed(){
+ qArea.appendChild(el(&#x27;p&#x27;,{},&#x27;Tap every ★ (filled star). You have 8 seconds. Wrong taps cost half a star.&#x27;));
+ var b=el(&#x27;button&#x27;,{type:&#x27;button&#x27;,class:&#x27;primary&#x27;},&#x27;Start the hunt&#x27;);qArea.appendChild(b);b.focus();
+ b.onclick=function(){
+  b.remove();var others=[[&#x27;☆&#x27;,&#x27;outline star&#x27;],[&#x27;✦&#x27;,&#x27;four-point star&#x27;],[&#x27;●&#x27;,&#x27;dot&#x27;],[&#x27;◆&#x27;,&#x27;diamond&#x27;],[&#x27;✧&#x27;,&#x27;outline four-point star&#x27;]];
+  var cells=[],k;for(k=0;k&lt;5;k++)cells.push([&#x27;★&#x27;,&#x27;filled star&#x27;,1]);for(k=0;k&lt;15;k++){var o=others[k%others.length];cells.push([o[0],o[1],0])}
+  for(k=cells.length-1;k&gt;0;k--){var j=Math.floor(Math.random()*(k+1)),tmp=cells[k];cells[k]=cells[j];cells[j]=tmp}
+  var timer=el(&#x27;p&#x27;,{class:&#x27;muted&#x27;},&#x27;8.0 seconds left&#x27;);qArea.appendChild(timer);
+  var g=el(&#x27;div&#x27;,{class:&#x27;grid&#x27;}),found=0,wrong=0,done=false,end=performance.now()+8000;
+  cells.forEach(function(c){var btn=el(&#x27;button&#x27;,{type:&#x27;button&#x27;,&#x27;aria-label&#x27;:c[1]},c[0]);btn.onclick=function(){if(done)return;btn.disabled=true;
+   if(c[2]){found++;btn.classList.add(&#x27;hit&#x27;);if(found===5)finishHunt()}else{wrong++;btn.classList.add(&#x27;miss&#x27;)}};g.appendChild(btn)});
+  qArea.appendChild(g);g.firstChild.focus();
+  function finishHunt(){if(done)return;done=true;clearTimers();Array.prototype.forEach.call(g.children,function(c){c.disabled=true});
+   var pts=Math.max(0,(found-0.5*wrong)/5);timer.textContent=&#x27;Time!&#x27;;
+   fb.textContent=&#x27;Found &#x27;+found+&#x27; of 5 stars, with &#x27;+wrong+&#x27; wrong tap&#x27;+(wrong===1?&#x27;&#x27;:&#x27;s&#x27;)+&#x27;. Points: &#x27;+f2(pts)+&#x27; of 1.&#x27;;record(pts)}
+  timers.push(setInterval(function(){var left=Math.max(0,(end-performance.now())/1000);timer.textContent=left.toFixed(1)+&#x27; seconds left&#x27;;if(left&lt;=0)finishHunt()},100));
+ };
+}
+nextBtn.onclick=function(){st.i++;if(st.i&lt;items.length)show();else finish()};
+function finish(){
+ clearTimers();st.raw=st.res.reduce(function(a,r){return a+r.pts},0);
+ $(&#x27;test&#x27;).classList.add(&#x27;hidden&#x27;);$(&#x27;result&#x27;).classList.remove(&#x27;hidden&#x27;);
+ var t=&#x27;&#x27;;st.res.forEach(function(r){t+=&#x27;&lt;tr&gt;&lt;td&gt;&#x27;+r.name+&#x27;&lt;/td&gt;&lt;td&gt;&#x27;+f2(r.pts)+&#x27; / &#x27;+r.max+&#x27;&lt;/td&gt;&lt;/tr&gt;&#x27;});
+ t+=&#x27;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Raw total&lt;/b&gt;&lt;/td&gt;&lt;td&gt;&lt;b&gt;&#x27;+f2(st.raw)+&#x27; / &#x27;+MAX+&#x27;&lt;/b&gt;&lt;/td&gt;&lt;/tr&gt;&#x27;;$(&#x27;resTable&#x27;).innerHTML=t;
+ update();$(&#x27;resH&#x27;).focus();
+}
+$(&#x27;start&#x27;).onclick=begin;
+$(&#x27;again&#x27;).onclick=begin;
+$(&#x27;skip&#x27;).onclick=function(){st.res=items.map(function(it){var p=it.t===&#x27;mc&#x27;?(Math.random()&lt;0.65?(Math.random()&lt;0.5?1.5:1):0):Math.round(Math.random()*5)/5;return{name:it.name,pts:p,max:it.max}});
+ $(&#x27;intro&#x27;).classList.add(&#x27;hidden&#x27;);finish()};
+
+/* ---------- Hidden variables ---------- */
+var hv=[
+{id:&#x27;sleep&#x27;,l:&#x27;Hours of sleep last night&#x27;,min:3,max:10,v:7,u:&#x27; h&#x27;,f:function(v){return(Math.min(v,8)-7)*0.25}},
+{id:&#x27;coffee&#x27;,l:&#x27;Cups of coffee or tea&#x27;,min:0,max:6,v:1,u:&#x27;&#x27;,f:function(v){return(0.3*v-0.08*v*v)-0.22}},
+{id:&#x27;nerves&#x27;,l:&#x27;Nervousness (0 calm, 10 very nervous)&#x27;,min:0,max:10,v:3,u:&#x27;&#x27;,f:function(v){return-(v-3)*0.12}},
+{id:&#x27;lang&#x27;,l:&#x27;How well you know the test language (0–10)&#x27;,min:0,max:10,v:10,u:&#x27;&#x27;,f:function(v){return(v-10)*0.15}},
+{id:&#x27;prac&#x27;,l:&#x27;Times you have seen puzzles like these&#x27;,min:0,max:5,v:0,u:&#x27;&#x27;,f:function(v){return v*0.25}},
+{id:&#x27;noise&#x27;,l:&#x27;Room noise (0 quiet, 10 loud)&#x27;,min:0,max:10,v:2,u:&#x27;&#x27;,f:function(v){return-(v-2)*0.06}}
+];
+var sl=$(&#x27;sliders&#x27;);
+hv.forEach(function(h){var w=el(&#x27;div&#x27;,{class:&#x27;slider&#x27;});
+ w.innerHTML=&#x27;&lt;label for=&quot;hv_&#x27;+h.id+&#x27;&quot;&gt;&lt;span&gt;&#x27;+h.l+&#x27;&lt;/span&gt;&lt;output id=&quot;o_&#x27;+h.id+&#x27;&quot;&gt;&lt;/output&gt;&lt;/label&gt;&lt;input type=&quot;range&quot; id=&quot;hv_&#x27;+h.id+&#x27;&quot; min=&quot;&#x27;+h.min+&#x27;&quot; max=&quot;&#x27;+h.max+&#x27;&quot; step=&quot;1&quot; value=&quot;&#x27;+h.v+&#x27;&quot;&gt;&#x27;;
+ sl.appendChild(w);w.querySelector(&#x27;input&#x27;).oninput=update});
+$(&#x27;hReset&#x27;).onclick=function(){hv.forEach(function(h){$(&#x27;hv_&#x27;+h.id).value=h.v});update()};
+
+/* ---------- Cards ---------- */
+var cards=[[&#x27;🤝&#x27;,&#x27;Kindness&#x27;],[&#x27;🔍&#x27;,&#x27;Curiosity&#x27;],[&#x27;😄&#x27;,&#x27;Humor&#x27;],[&#x27;⏳&#x27;,&#x27;Patience&#x27;],[&#x27;🎨&#x27;,&#x27;Making new things&#x27;],[&#x27;🚲&#x27;,&#x27;Fixing a bike&#x27;],[&#x27;🫂&#x27;,&#x27;Comforting a friend&#x27;],[&#x27;🍅&#x27;,&#x27;Growing tomatoes&#x27;],[&#x27;🗺️&#x27;,&#x27;Knowing your neighborhood&#x27;],[&#x27;🔁&#x27;,&#x27;Learning from mistakes&#x27;],[&#x27;🎶&#x27;,&#x27;Keeping a rhythm&#x27;],[&#x27;🧭&#x27;,&#x27;Doing the right thing&#x27;]];
+var cg=$(&#x27;cards&#x27;),measured=0;
+cards.forEach(function(c){var b=el(&#x27;button&#x27;,{type:&#x27;button&#x27;,&#x27;aria-pressed&#x27;:&#x27;false&#x27;});b.innerHTML=&#x27;&lt;b&gt;&#x27;+c[0]+&#x27; &#x27;+c[1]+&#x27;&lt;/b&gt;&lt;span&gt;Tap to measure&lt;/span&gt;&#x27;;
+ b.onclick=function(){if(b.getAttribute(&#x27;aria-pressed&#x27;)===&#x27;false&#x27;){b.setAttribute(&#x27;aria-pressed&#x27;,&#x27;true&#x27;);measured++}
+  b.querySelector(&#x27;span&#x27;).textContent=&#x27;Measured value: — (no item for this)&#x27;;
+  $(&#x27;cardMsg&#x27;).textContent=&#x27;Measured so far: &#x27;+measured+&#x27; of &#x27;+cards.length+&#x27;. The test has no item for any of them.&#x27;+(measured===cards.length?&#x27; They still matter.&#x27;:&#x27;&#x27;)};cg.appendChild(b)});
+$(&#x27;cardMsg&#x27;).textContent=&#x27;Measured so far: 0 of &#x27;+cards.length+&#x27;.&#x27;;
+
+/* ---------- Update everything ---------- */
+$(&#x27;norm&#x27;).onchange=function(){st.norm=this.value;$(&#x27;flatMsg&#x27;).textContent=&#x27;&#x27;;update()};
+$(&#x27;old&#x27;).onchange=update;$(&#x27;bandChk&#x27;).onchange=update;
+Array.prototype.forEach.call(document.querySelectorAll(&#x27;input[name=fmt]&#x27;),function(r){r.onchange=update});
+$(&#x27;flatter&#x27;).onclick=function(){var r=st.raw==null?5:st.raw,best=&#x27;avg&#x27;;for(var k in norms)if(calc(r,k).s&gt;calc(r,best).s)best=k;
+ st.norm=best;$(&#x27;norm&#x27;).value=best;$(&#x27;flatMsg&#x27;).textContent=&#x27;Picked: &#x27;+norms[best].n+&#x27;. Your answers did not change.&#x27;;update()};
+
+function label(s){return s&lt;80?&#x27;Mysteriously Undermeasured&#x27;:s&lt;95?&#x27;Gloriously Typical-ish&#x27;:s&lt;105?&#x27;Statistically Beige&#x27;:s&lt;120?&#x27;Suspiciously Above Beige&#x27;:&#x27;Wexsler-ishly Luminous&#x27;}
+
+function update(){
+ var sample=st.raw==null,r=sample?5:st.raw,n=norms[st.norm],c=calc(r,st.norm);
+ $(&#x27;sm2&#x27;).classList.toggle(&#x27;hidden&#x27;,!sample);
+ // Section 1
+ if(!sample){$(&#x27;resScore&#x27;).textContent=Math.round(c.s);
+  $(&#x27;resPct&#x27;).textContent=&#x27;Compared with the &#x27;+n.n.toLowerCase()+&#x27;, about &#x27;+ord(c.p)+&#x27; would score below you. Group and numbers are invented.&#x27;;
+  drawCurve($(&#x27;c1&#x27;),[{s:c.s,l:&#x27;You: &#x27;+Math.round(c.s),c:&#x27;a&#x27;}])}
+ // Section 2
+ $(&#x27;pRaw&#x27;).textContent=f2(r);$(&#x27;pR2&#x27;).textContent=f2(r);$(&#x27;pM&#x27;).textContent=n.m;$(&#x27;pM2&#x27;).textContent=n.m;$(&#x27;pSd&#x27;).textContent=n.sd;$(&#x27;pSd2&#x27;).textContent=n.sd;
+ $(&#x27;pZ&#x27;).textContent=f2(c.z);$(&#x27;pZ2&#x27;).textContent=f2(c.z);$(&#x27;pS&#x27;).textContent=f1(100+15*c.z)+(c.s!==100+15*c.z?&#x27; (capped at &#x27;+Math.round(c.s)+&#x27;)&#x27;:&#x27;&#x27;);$(&#x27;pP&#x27;).textContent=ord(c.p);
+ // Section 3
+ var tot=0;hv.forEach(function(h){var v=+$(&#x27;hv_&#x27;+h.id).value,e=h.f(v);tot+=e;$(&#x27;o_&#x27;+h.id).textContent=v+h.u+&#x27;  (&#x27;+(e&gt;=0?&#x27;+&#x27;:&#x27;&#x27;)+f2(e)+&#x27; pts)&#x27;});
+ var c2=calc(clamp(r+tot,0,MAX),st.norm),dA=Math.round(c.s),dB=Math.round(c2.s),diff=dB-dA;
+ $(&#x27;hA&#x27;).textContent=dA;$(&#x27;hB&#x27;).textContent=dB;
+ $(&#x27;hMsg&#x27;).textContent=diff===0?&#x27;No change. Try moving a slider.&#x27;:&#x27;Same person, same mind. The number moved by &#x27;+(diff&gt;0?&#x27;+&#x27;:&#x27;&#x27;)+diff+&#x27; points.&#x27;;
+ drawCurve($(&#x27;c2&#x27;),[{s:c.s,l:&#x27;As taken: &#x27;+dA,c:&#x27;a&#x27;},{s:c2.s,l:&#x27;Other day: &#x27;+dB,c:&#x27;b&#x27;}]);
+ // Section 4
+ var dec=+$(&#x27;old&#x27;).value,fmt=document.querySelector(&#x27;input[name=fmt]:checked&#x27;).value,band=$(&#x27;bandChk&#x27;).checked;
+ var base=c.s,notes=[];
+ if(fmt===&#x27;best&#x27;){var br=0;(sample?[{pts:1,max:1}]:st.res).forEach(function(x){br=Math.max(br,x.pts/x.max)});base=calc(br*MAX,st.norm).s;
+  notes.push(&#x27;Best item only: one good moment is reported as if it were the whole test.&#x27;)}
+ var s=clamp(base+3*dec,40,160),out;
+ if(dec)notes.push(&#x27;Old norms: average scores on many tests rose during the 1900s. This is called the Flynn effect. An old comparison group makes you look better. We add 3 points per decade, a rough figure often quoted.&#x27;);
+ if(fmt===&#x27;whole&#x27;||fmt===&#x27;best&#x27;)out=String(Math.round(s));
+ else if(fmt===&#x27;precise&#x27;){out=(s+((r*7.31)%1)/10).toFixed(4);notes.push(&#x27;Four decimals look exact. A short test cannot measure anything this finely.&#x27;)}
+ else if(fmt===&#x27;pct&#x27;){out=&#x27;Top &#x27;+ord(100-cdf((s-100)/15)*100);notes.push(&#x27;A percentile can sound more impressive. &quot;Top 25%&quot; and &quot;110&quot; are the same result here.&#x27;)}
+ else {out=label(s);notes.push(&#x27;A label feels like a fact about you. It is only a range of numbers with a name.&#x27;)}
+ if(band&amp;&amp;fmt!==&#x27;label&#x27;&amp;&amp;fmt!==&#x27;pct&#x27;)out+=&#x27; ± 15&#x27;;
+ notes.unshift(st.norm===&#x27;avg&#x27;?&#x27;Comparison group: &#x27;+n.n+&#x27;. Try &quot;Pick the most flattering group&quot;.&#x27;:&#x27;Comparison group: &#x27;+n.n+&#x27;. Changing the group changed the number. Your answers stayed the same.&#x27;);
+ notes.push(band?&#x27;Error band on: every test score has measurement error. If you retook this tiny test, your score could land anywhere in the band (±15 is made up).&#x27;:&#x27;No error band: the number looks certain. It is not.&#x27;);
+ $(&#x27;rep&#x27;).textContent=out;
+ var tl=$(&#x27;tricks&#x27;);tl.innerHTML=&#x27;&#x27;;notes.forEach(function(t){tl.appendChild(el(&#x27;li&#x27;,{},t))});
+ drawCurve($(&#x27;c3&#x27;),[{s:s,l:&#x27;Reported: &#x27;+Math.round(s),c:&#x27;a&#x27;}],band?[s-15,s+15]:null);
+}
+update();
+})();
+&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;"></iframe></div>
+<div class="howto"><h2>How to use</h2><ol><li>Press Start and answer the six short items.</li><li>Read your score and see where it falls on the bell curve.</li><li>Move the sliders to see how sleep, nerves and practice could shift it.</li><li>Try the statistics tricks to make the same answers look better or worse.</li><li>Finish by tapping the things a test number cannot see.</li></ol></div>
+<style>.comments .giscus,.comments .giscus-frame{width:100%;max-width:none}.comments .giscus-frame{border:0;color-scheme:light dark;min-height:150px}</style><section class="comments" id="comments"><h2>Comments &amp; reactions</h2><p class="lead">Spotted a mistake, or know a better example? Leave a comment or a reaction. Sign-in with GitHub is required; comments are public.</p><script src="https://giscus.app/client.js" data-repo="Allo6600/Infolocacion" data-repo-id="R_kgDOVwc7rg" data-category="Announcements" data-category-id="DIC_kwDOVwc7rs4DLUXT" data-mapping="pathname" data-strict="1" data-reactions-enabled="1" data-emit-metadata="0" data-input-position="top" data-theme="preferred_color_scheme" data-lang="en" data-loading="lazy" crossorigin="anonymous" async></script></section></main>
+<footer><p>This small interactive page was built by AI from a one-line idea: "/system/test/graph/numerize/ 実際 ウェくすらー 検査 と皮肉って作るHTML ページ です セクション：テストあなたの結果 セクション：採点の仕組み セクション：スコアを左右する隠れた変数 セクション：統計的手品 セクション：数字には見えないもの [Requested format: test / graph / numerize — build the page in this form.]".
+It runs in a sealed frame with no network access and stores nothing.</p>
+<p><a href="../../">More pages</a></p></footer><script>(function(){var grows=0;addEventListener('message',function(e){var f=document.getElementById('stage');if(!f||e.source!==f.contentWindow||!e.data)return;var h=Number(e.data.infolocacionHeight);if(!isFinite(h)||h<200)return;h=Math.min(Math.ceil(h),30000);var cur=f.getBoundingClientRect().height;if(h>cur+1){if(++grows>60)return}f.style.height=h+'px'})})()</script></body></html>
