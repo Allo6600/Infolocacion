@@ -1,0 +1,337 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'unsafe-inline' https://giscus.app; frame-src https://giscus.app; style-src 'unsafe-inline'; img-src data: blob:; font-src data:; media-src data: blob:; connect-src 'none'; base-uri 'none'; form-action 'none'">
+<title>Five-Seven Squeeze: Compress Thoughts into Tanka · Systems · Infolocacion</title><meta name="description" content="Squeeze a thought into the sound pattern of Japanese verse, or play rounds to fit words into 5-7-5 and 5-7-5-7-7.">
+<style>
+:root{--bg:#faf7f2;--card:#fff;--ink:#22201c;--sub:#6b655c;--line:#e6dfd3;--accent:#b4532a}
+@media(prefers-color-scheme:dark){:root{--bg:#171512;--card:#211e1a;--ink:#f1ece3;--sub:#a59d91;--line:#35302a;--accent:#e8935f}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.7 "Hiragino Sans","Yu Gothic UI","Noto Sans JP",system-ui,sans-serif}
+header,main,footer{max-width:1180px;margin:0 auto;padding:0 16px}
+header{padding-top:48px}h1{font-size:clamp(26px,5vw,42px);line-height:1.25;margin:0 0 12px}
+.lead{font-size:17px;max-width:46em;margin:0 0 12px}.meta{color:var(--sub);font-size:13px}
+nav{display:flex;flex-wrap:wrap;gap:8px;margin:20px 0 8px}
+nav a{color:var(--ink);text-decoration:none;border:1px solid var(--line);border-radius:999px;padding:4px 14px;font-size:14px;background:var(--card)}
+#q{width:100%;max-width:420px;font:inherit;padding:10px 14px;border:1px solid var(--line);border-radius:10px;background:var(--card);color:var(--ink);margin:8px 0}
+h2{font-size:22px;margin:40px 0 14px;padding-bottom:6px;border-bottom:2px solid var(--line)}h2 small{color:var(--sub);font-weight:400;font-size:14px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:16px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;overflow:hidden;display:flex;flex-direction:column}
+.ph{position:relative;overflow:hidden;aspect-ratio:4/3;background:var(--line);display:flex;align-items:center;justify-content:center;color:var(--sub);font-size:13px}
+.ph img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;display:block}
+.body{padding:12px 14px 14px;display:flex;flex-direction:column;gap:4px;flex:1}
+.key{color:var(--accent);font-size:13px;font-weight:700;letter-spacing:.04em}
+h3{font-size:17px;line-height:1.4;margin:0}.card p{margin:4px 0 0;font-size:14px;line-height:1.65}
+.more{margin-top:auto;padding-top:8px;font-size:13px}a{color:var(--accent)}
+.credit{color:var(--sub);font-size:11px;line-height:1.4;padding:6px 14px 10px;border-top:1px solid var(--line);overflow-wrap:anywhere}
+.credit a{color:var(--sub)}footer{color:var(--sub);font-size:13px;padding:40px 16px 60px}
+.pages{display:grid;gap:14px;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));margin-top:24px}
+.pages a{display:block;background:var(--card);border:1px solid var(--line);border-radius:14px;padding:18px;color:var(--ink);text-decoration:none}
+.pages b{display:block;font-size:18px;margin-bottom:6px}.pages span{color:var(--sub);font-size:13px}
+
+.stage{margin:18px 0 8px;border:1px solid var(--line);border-radius:14px;overflow:hidden;background:var(--card)}
+.stage iframe{display:block;width:100%;height:min(78vh,720px);border:0;background:#fff}
+.stage.concept iframe{height:85vh}
+.howto{max-width:46em}.howto ol{padding-left:1.3em}
+</style></head><body>
+<header><div class="meta"><a href="../../">Infolocacion</a> › Systems</div>
+<h1>Five-Seven Squeeze: Compress Thoughts into Tanka</h1><p class="tagline lead">Squeeze a thought into the sound pattern of Japanese verse, or play rounds to fit words into 5-7-5 and 5-7-5-7-7.</p><p class="lead">Type a thought in English or Japanese, and the page squeezes it into the sound pattern of classical Japanese verse. Or play a round: write a verse for a set thought, hit the sound counts, and keep the key words.</p></header>
+<main><div class="stage"><iframe id="stage" title="Five-Seven Squeeze: Compress Thoughts into Tanka" sandbox="allow-scripts" referrerpolicy="no-referrer"
+ srcdoc="&lt;!doctype html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;&lt;meta http-equiv=&quot;Content-Security-Policy&quot; content=&quot;default-src &#x27;none&#x27;; script-src &#x27;unsafe-inline&#x27;; style-src &#x27;unsafe-inline&#x27;; img-src data: blob:; font-src data:; media-src data: blob:; connect-src &#x27;none&#x27;; form-action &#x27;none&#x27;; base-uri &#x27;none&#x27;&quot;&gt;&lt;script&gt;(function(){var last=0;function m(){var b=document.body;if(!b)return 0;var r=0,c=b.children;for(var i=0;i&lt;c.length;i++){var x=c[i].getBoundingClientRect();if(x.height)r=Math.max(r,x.bottom)}var cs=getComputedStyle(b);return Math.ceil(r+scrollY+parseFloat(cs.marginBottom||0)+parseFloat(cs.paddingBottom||0))}function s(){var h=m();if(Math.abs(h-last)&lt;2)return;last=h;try{parent.postMessage({infolocacionHeight:h},&#x27;*&#x27;)}catch(e){}}addEventListener(&#x27;load&#x27;,s);addEventListener(&#x27;resize&#x27;,s);if(window.ResizeObserver)new ResizeObserver(s).observe(document.body||document.documentElement);setTimeout(s,300)})()&lt;/script&gt;
+&lt;meta charset=&quot;utf-8&quot;&gt;
+&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width,initial-scale=1&quot;&gt;
+&lt;title&gt;Five-Seven Squeeze&lt;/title&gt;
+&lt;style&gt;
+:root{--bg:#f7f3ea;--ink:#2a2622;--muted:#6d645a;--accent:#8a3b2e;--card:#fffdf8;--line:#d8cfc0;--ok:#2f7a4a;--bad:#a33a2a;--focus:#1f5fbf}
+@media (prefers-color-scheme: dark){:root{--bg:#1d1b19;--ink:#ece5d8;--muted:#a79d8f;--accent:#e08a74;--card:#26231f;--line:#3d3830;--ok:#7fd196;--bad:#f09a8a;--focus:#8ab6ff}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:system-ui,-apple-system,&quot;Segoe UI&quot;,sans-serif;line-height:1.5;min-height:100vh}
+main{max-width:720px;margin:0 auto;padding:16px}
+h1{font-family:&quot;Yu Mincho&quot;,&quot;Hiragino Mincho ProN&quot;,Georgia,serif;font-size:1.6rem;margin:4px 0;color:var(--accent)}
+h2{font-size:1.05rem;margin:0 0 8px}
+.sub{color:var(--muted);margin:0 0 16px;font-size:.95rem}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px;margin-bottom:14px}
+label{display:block;font-weight:600;margin-bottom:6px}
+textarea{width:100%;min-height:90px;font:inherit;font-size:1rem;padding:10px;border-radius:8px;border:1px solid var(--line);background:var(--bg);color:var(--ink);resize:vertical}
+.ln-input{width:100%;font:inherit;font-size:1rem;min-height:44px;padding:8px 10px;border-radius:8px;border:1px solid var(--line);background:var(--bg);color:var(--ink)}
+button{font:inherit;min-height:44px;padding:8px 16px;border-radius:8px;border:1px solid var(--accent);background:var(--accent);color:#fff;cursor:pointer}
+button.ghost{background:transparent;color:var(--accent)}
+button:focus-visible,textarea:focus-visible,.ln-input:focus-visible,input[type=checkbox]:focus-visible{outline:3px solid var(--focus);outline-offset:2px}
+.row{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-top:10px}
+.toggle{display:flex;align-items:center;gap:10px;min-height:44px;font-weight:600;margin:0;cursor:pointer}
+.toggle input{width:20px;height:20px}
+.poem{display:flex;flex-direction:column;align-items:center;gap:8px;padding:14px 0 4px;font-family:&quot;Yu Mincho&quot;,&quot;Hiragino Mincho ProN&quot;,Georgia,serif;font-size:1.25rem;min-height:12px}
+.line{text-align:center;word-break:break-word}
+.count{font-family:system-ui,sans-serif;font-size:.8rem;color:var(--muted)}
+.count.good{color:var(--ok)}
+.count.bad{color:var(--bad)}
+.note{color:var(--muted);font-size:.9rem;margin:8px 0 0}
+.thought{font-family:&quot;Yu Mincho&quot;,&quot;Hiragino Mincho ProN&quot;,Georgia,serif;font-size:1.15rem;margin:4px 0 10px}
+.keys{margin-bottom:12px}
+.keys span{display:inline-block;margin:3px;padding:4px 12px;border-radius:999px;border:1px solid var(--line);font-size:.9rem}
+.keys span.hit{border-color:var(--ok);color:var(--ok);font-weight:600}
+.slot{display:grid;gap:4px;margin-bottom:10px}
+.score{font-size:1.4rem;font-weight:700;margin:10px 0 4px}
+#result p{margin:4px 0}
+&lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;main&gt;
+&lt;h1&gt;Five-Seven Squeeze&lt;/h1&gt;
+&lt;p class=&quot;sub&quot;&gt;Squeeze a thought into the sound pattern of Japanese verse.&lt;/p&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;label class=&quot;toggle&quot;&gt;&lt;input type=&quot;checkbox&quot; id=&quot;tanka&quot;&gt; Tanka pattern (5-7-5-7-7) instead of haiku (5-7-5)&lt;/label&gt;
+&lt;/div&gt;
+
+&lt;section class=&quot;card&quot; aria-labelledby=&quot;h-comp&quot;&gt;
+  &lt;h2 id=&quot;h-comp&quot;&gt;1. Compress a thought&lt;/h2&gt;
+  &lt;label for=&quot;src&quot;&gt;Your thought (separate words or phrases with spaces)&lt;/label&gt;
+  &lt;textarea id=&quot;src&quot; placeholder=&quot;e.g. I walk home slowly while the sky turns orange&quot;&gt;&lt;/textarea&gt;
+  &lt;div class=&quot;row&quot;&gt;
+    &lt;button id=&quot;go&quot; type=&quot;button&quot;&gt;Compress&lt;/button&gt;
+    &lt;button id=&quot;clr&quot; type=&quot;button&quot; class=&quot;ghost&quot;&gt;Clear&lt;/button&gt;
+  &lt;/div&gt;
+  &lt;div id=&quot;out&quot; class=&quot;poem&quot; aria-live=&quot;polite&quot;&gt;&lt;/div&gt;
+  &lt;p id=&quot;note&quot; class=&quot;note&quot;&gt;&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section class=&quot;card&quot; aria-labelledby=&quot;h-game&quot;&gt;
+  &lt;h2 id=&quot;h-game&quot;&gt;2. Round&lt;/h2&gt;
+  &lt;p&gt;Write a verse that says this thought. Hit each line&#x27;s sound count and use the key words.&lt;/p&gt;
+  &lt;p id=&quot;thought&quot; class=&quot;thought&quot;&gt;&lt;/p&gt;
+  &lt;div id=&quot;keys&quot; class=&quot;keys&quot; aria-label=&quot;Key words&quot;&gt;&lt;/div&gt;
+  &lt;div id=&quot;slots&quot;&gt;&lt;/div&gt;
+  &lt;div class=&quot;row&quot;&gt;
+    &lt;button id=&quot;score&quot; type=&quot;button&quot;&gt;Score&lt;/button&gt;
+    &lt;button id=&quot;next&quot; type=&quot;button&quot; class=&quot;ghost&quot;&gt;New thought&lt;/button&gt;
+  &lt;/div&gt;
+  &lt;div id=&quot;result&quot; aria-live=&quot;polite&quot;&gt;&lt;/div&gt;
+  &lt;p class=&quot;note&quot;&gt;Best score this visit: &lt;span id=&quot;best&quot;&gt;0&lt;/span&gt;&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;p class=&quot;note&quot;&gt;Sound counts are estimates. English uses vowel groups. Japanese counts each kana as one sound and each kanji as two.&lt;/p&gt;
+&lt;/main&gt;
+
+&lt;script&gt;
+(function(){
+  const $ = id =&gt; document.getElementById(id);
+
+  // Filler words that are removed first when compressing.
+  const STOP = new Set([&quot;a&quot;,&quot;an&quot;,&quot;the&quot;,&quot;is&quot;,&quot;am&quot;,&quot;are&quot;,&quot;was&quot;,&quot;were&quot;,&quot;be&quot;,&quot;been&quot;,&quot;to&quot;,&quot;of&quot;,&quot;and&quot;,&quot;but&quot;,&quot;so&quot;,&quot;very&quot;,&quot;really&quot;,&quot;just&quot;,&quot;that&quot;,&quot;this&quot;,&quot;it&quot;,&quot;in&quot;,&quot;on&quot;,&quot;at&quot;,&quot;for&quot;,&quot;with&quot;,&quot;i&quot;,&quot;me&quot;,&quot;my&quot;,&quot;we&quot;,&quot;our&quot;,&quot;or&quot;,&quot;as&quot;,&quot;by&quot;,&quot;from&quot;,&quot;の&quot;,&quot;は&quot;,&quot;が&quot;,&quot;を&quot;,&quot;に&quot;,&quot;で&quot;,&quot;と&quot;,&quot;も&quot;]);
+
+  const THOUGHTS = [
+    {text:&quot;I miss the sound of rain on the old roof.&quot;, keys:[&quot;rain&quot;,&quot;roof&quot;,&quot;miss&quot;]},
+    {text:&quot;The first cold morning, I finally felt calm.&quot;, keys:[&quot;morning&quot;,&quot;cold&quot;,&quot;calm&quot;]},
+    {text:&quot;Our small boat drifts slowly toward the moon.&quot;, keys:[&quot;boat&quot;,&quot;moon&quot;,&quot;slowly&quot;]},
+    {text:&quot;A cat sleeps in the sun by the window.&quot;, keys:[&quot;cat&quot;,&quot;sun&quot;,&quot;window&quot;]}
+  ];
+
+  let cur = 0;
+  let best = 0;
+
+  // Rough English syllable count using vowel groups.
+  function englishSyl(w){
+    w = w.toLowerCase().replace(/[^a-z]/g, &quot;&quot;);
+    if (!w) return 0;
+    if (w.length &lt;= 3) return 1;
+    w = w.replace(/(?:[^laeiouy]es|[^laeiouy]ed|[^laeiouy]e)$/, &quot;&quot;).replace(/^y/, &quot;&quot;);
+    const m = w.match(/[aeiouy]{1,2}/g);
+    return m ? m.length : 1;
+  }
+
+  // Japanese: each kana is one sound (small kana add none), each kanji is two (estimate).
+  function sounds(word){
+    let jp = 0;
+    for (const ch of word){
+      if (/[\u3041-\u3096\u30a1-\u30fa\u30fc]/.test(ch)){
+        if (!/[ぁぃぅぇぉゃゅょゎァィゥェォャュョヮ]/.test(ch)) jp++;
+      } else if (/[\u4e00-\u9fff]/.test(ch)){
+        jp += 2;
+      }
+    }
+    return jp + englishSyl(word.replace(/[^A-Za-z&#x27;]/g, &quot;&quot;));
+  }
+
+  function tokens(text){
+    return text.trim().split(/\s+/).filter(Boolean)
+      .map(w =&gt; ({w, n: sounds(w)}))
+      .filter(t =&gt; t.n &gt; 0);
+  }
+
+  function lineSounds(text){
+    return tokens(text).reduce((s, t) =&gt; s + t.n, 0);
+  }
+
+  // Greedy fit: keep words in order, drop filler first, skip words that do not fit.
+  function compress(text, pattern){
+    const all = tokens(text);
+    let pool = all.filter(t =&gt; !STOP.has(t.w.toLowerCase().replace(/[^a-z&#x27;\u3041-\u3096\u30a1-\u30fa\u4e00-\u9fff]/g, &quot;&quot;)));
+    if (!pool.length) pool = all;
+    const used = new Set();
+    const lines = [];
+    for (const target of pattern){
+      let sum = 0;
+      const picked = [];
+      pool.forEach((t, k) =&gt; {
+        if (!used.has(k) &amp;&amp; sum &lt; target &amp;&amp; sum + t.n &lt;= target){
+          sum += t.n;
+          picked.push(k);
+          used.add(k);
+        }
+      });
+      lines.push({target, sum, text: picked.map(k =&gt; pool[k].w).join(&quot; &quot;)});
+    }
+    const left = pool.filter((_, k) =&gt; !used.has(k)).map(t =&gt; t.w);
+    return {lines, left, removed: all.length - pool.length, total: all.length, kept: used.size};
+  }
+
+  function currentPattern(){
+    return $(&quot;tanka&quot;).checked ? [5,7,5,7,7] : [5,7,5];
+  }
+
+  // Compress section
+  function renderCompress(){
+    const out = $(&quot;out&quot;), note = $(&quot;note&quot;);
+    out.textContent = &quot;&quot;;
+    note.textContent = &quot;&quot;;
+    const r = compress($(&quot;src&quot;).value, currentPattern());
+    if (!r.total){
+      note.textContent = &quot;Type a thought first.&quot;;
+      return;
+    }
+    let short = false;
+    r.lines.forEach(ln =&gt; {
+      if (ln.sum &lt; ln.target) short = true;
+      const d = document.createElement(&quot;div&quot;);
+      d.className = &quot;line&quot;;
+      d.textContent = ln.text || &quot;(no words fit)&quot;;
+      const c = document.createElement(&quot;span&quot;);
+      c.className = &quot;count&quot;;
+      c.textContent = &quot; [&quot; + ln.sum + &quot;/&quot; + ln.target + &quot;]&quot;;
+      d.appendChild(c);
+      out.appendChild(d);
+    });
+    let msg = &quot;Kept &quot; + r.kept + &quot; of &quot; + r.total + &quot; words. Removed &quot; + r.removed + &quot; filler words.&quot;;
+    if (r.left.length) msg += &quot; Left out: &quot; + r.left.join(&quot;, &quot;) + &quot;.&quot;;
+    if (short) msg += &quot; Some lines are short. Try other words to fill the gap.&quot;;
+    note.textContent = msg;
+  }
+
+  // Game section
+  function updateCount(i){
+    const inp = $(&quot;ln&quot; + i), c = $(&quot;c&quot; + i);
+    const t = Number(inp.dataset.target);
+    const n = lineSounds(inp.value);
+    c.textContent = n + &quot; / &quot; + t + (n === t ? &quot; ✓&quot; : &quot;&quot;);
+    c.className = &quot;count &quot; + (n === t ? &quot;good&quot; : (inp.value.trim() ? &quot;bad&quot; : &quot;&quot;));
+  }
+
+  function buildSlots(){
+    const pattern = currentPattern();
+    const vals = Array.from(document.querySelectorAll(&quot;.ln-input&quot;)).map(i =&gt; i.value);
+    const wrap = $(&quot;slots&quot;);
+    wrap.textContent = &quot;&quot;;
+    pattern.forEach((target, i) =&gt; {
+      const row = document.createElement(&quot;div&quot;);
+      row.className = &quot;slot&quot;;
+      const lab = document.createElement(&quot;label&quot;);
+      lab.htmlFor = &quot;ln&quot; + i;
+      lab.textContent = &quot;Line &quot; + (i + 1) + &quot; (&quot; + target + &quot; sounds)&quot;;
+      const inp = document.createElement(&quot;input&quot;);
+      inp.type = &quot;text&quot;;
+      inp.id = &quot;ln&quot; + i;
+      inp.className = &quot;ln-input&quot;;
+      inp.autocomplete = &quot;off&quot;;
+      inp.value = vals[i] || &quot;&quot;;
+      inp.dataset.target = target;
+      inp.addEventListener(&quot;input&quot;, () =&gt; updateCount(i));
+      const cnt = document.createElement(&quot;span&quot;);
+      cnt.className = &quot;count&quot;;
+      cnt.id = &quot;c&quot; + i;
+      row.append(lab, inp, cnt);
+      wrap.appendChild(row);
+    });
+    pattern.forEach((_, i) =&gt; updateCount(i));
+  }
+
+  function setupRound(){
+    const t = THOUGHTS[cur];
+    $(&quot;thought&quot;).textContent = &quot;\u201C&quot; + t.text + &quot;\u201D&quot;;
+    const keys = $(&quot;keys&quot;);
+    keys.textContent = &quot;&quot;;
+    t.keys.forEach(k =&gt; {
+      const s = document.createElement(&quot;span&quot;);
+      s.textContent = k;
+      keys.appendChild(s);
+    });
+    $(&quot;result&quot;).textContent = &quot;&quot;;
+    buildSlots();
+  }
+
+  function scoreRound(){
+    const t = THOUGHTS[cur];
+    const inputs = Array.from(document.querySelectorAll(&quot;.ln-input&quot;));
+    let okLines = 0;
+    const parts = [];
+    inputs.forEach(inp =&gt; {
+      parts.push(inp.value);
+      if (lineSounds(inp.value) === Number(inp.dataset.target)) okLines++;
+    });
+    const text = parts.join(&quot; &quot;);
+    let hits = 0;
+    const chips = $(&quot;keys&quot;).children;
+    t.keys.forEach((k, i) =&gt; {
+      const ok = new RegExp(&quot;\\b&quot; + k + &quot;\\b&quot;, &quot;i&quot;).test(text);
+      if (ok) hits++;
+      chips[i].classList.toggle(&quot;hit&quot;, ok);
+    });
+    const linePts = Math.round(60 * okLines / inputs.length);
+    const keyPts = Math.round(40 * hits / t.keys.length);
+    const total = linePts + keyPts;
+    best = Math.max(best, total);
+    $(&quot;best&quot;).textContent = best;
+
+    const res = $(&quot;result&quot;);
+    res.textContent = &quot;&quot;;
+    const s = document.createElement(&quot;p&quot;);
+    s.className = &quot;score&quot;;
+    s.textContent = total + &quot; / 100&quot;;
+    const a = document.createElement(&quot;p&quot;);
+    a.textContent = &quot;Lines with the right sound count: &quot; + okLines + &quot; of &quot; + inputs.length + &quot;.&quot;;
+    const b = document.createElement(&quot;p&quot;);
+    b.textContent = &quot;Key words used: &quot; + hits + &quot; of &quot; + t.keys.length + &quot;.&quot;;
+    const f = document.createElement(&quot;p&quot;);
+    f.textContent = total &gt;= 90 ? &quot;Excellent. The verse fits the pattern and the thought.&quot;
+      : total &gt;= 60 ? &quot;Good. Fix the lines that are off.&quot;
+      : &quot;Keep trying. Check each count and use the key words.&quot;;
+    res.append(s, a, b, f);
+  }
+
+  $(&quot;tanka&quot;).addEventListener(&quot;change&quot;, buildSlots);
+  $(&quot;go&quot;).addEventListener(&quot;click&quot;, renderCompress);
+  $(&quot;clr&quot;).addEventListener(&quot;click&quot;, () =&gt; {
+    $(&quot;src&quot;).value = &quot;&quot;;
+    $(&quot;out&quot;).textContent = &quot;&quot;;
+    $(&quot;note&quot;).textContent = &quot;&quot;;
+  });
+  $(&quot;score&quot;).addEventListener(&quot;click&quot;, scoreRound);
+  $(&quot;next&quot;).addEventListener(&quot;click&quot;, () =&gt; {
+    let n;
+    do { n = Math.floor(Math.random() * THOUGHTS.length); }
+    while (THOUGHTS.length &gt; 1 &amp;&amp; n === cur);
+    cur = n;
+    setupRound();
+  });
+
+  $(&quot;src&quot;).placeholder = &quot;e.g. I walk home slowly while the sky turns orange&quot;;
+  setupRound();
+})();
+&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;"></iframe></div>
+<div class="howto"><h2>How to use</h2><ol><li>Type a thought in the box. Separate words or phrases with spaces.</li><li>Press Compress to fit it into 5-7-5, or tick the tanka box for 5-7-5-7-7.</li><li>Press New thought, then write each line to hit its sound count.</li><li>Use every key word shown, then press Score.</li></ol></div>
+<style>.comments .giscus,.comments .giscus-frame{width:100%;max-width:none}.comments .giscus-frame{border:0;color-scheme:light dark;min-height:150px}</style><section class="comments" id="comments"><h2>Comments &amp; reactions</h2><p class="lead">Spotted a mistake, or know a better example? Leave a comment or a reaction. Sign-in with GitHub is required; comments are public.</p><script src="https://giscus.app/client.js" data-repo="Allo6600/Infolocacion" data-repo-id="R_kgDOVwc7rg" data-category="Announcements" data-category-id="DIC_kwDOVwc7rs4DLUXT" data-mapping="pathname" data-strict="1" data-reactions-enabled="1" data-emit-metadata="0" data-input-position="top" data-theme="preferred_color_scheme" data-lang="en" data-loading="lazy" crossorigin="anonymous" async></script></section></main>
+<footer><p>This small interactive page was built by AI from a one-line idea: "音声・テキスト入力の考えを特定の形式（５７５/５７５77）に圧縮・提示する古文インタラクションシステム。 [Requested format: game — build the page in this form.]".
+It runs in a sealed frame with no network access and stores nothing.</p>
+<p><a href="../../">More pages</a></p></footer><script>(function(){var grows=0;addEventListener('message',function(e){var f=document.getElementById('stage');if(!f||e.source!==f.contentWindow||!e.data)return;var h=Number(e.data.infolocacionHeight);if(!isFinite(h)||h<200)return;h=Math.min(Math.ceil(h),30000);var cur=f.getBoundingClientRect().height;if(h>cur+1){if(++grows>60)return}f.style.height=h+'px'})})()</script></body></html>
