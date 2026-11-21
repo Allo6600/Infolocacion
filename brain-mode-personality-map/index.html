@@ -1,0 +1,279 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'unsafe-inline' https://giscus.app; frame-src https://giscus.app; style-src 'unsafe-inline'; img-src data: blob:; font-src data:; media-src data: blob:; connect-src 'none'; base-uri 'none'; form-action 'none'">
+<title>Brain-Mode Map: A Tendency-Based Alternative to MBTI · Ideas &amp; Takes · Infolocacion</title><meta name="description" content="Describe personality as tendencies that shift between inner-focus and task-focus brain modes, not four fixed types.">
+<style>
+:root{--bg:#faf7f2;--card:#fff;--ink:#22201c;--sub:#6b655c;--line:#e6dfd3;--accent:#b4532a}
+@media(prefers-color-scheme:dark){:root{--bg:#171512;--card:#211e1a;--ink:#f1ece3;--sub:#a59d91;--line:#35302a;--accent:#e8935f}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.7 "Hiragino Sans","Yu Gothic UI","Noto Sans JP",system-ui,sans-serif}
+header,main,footer{max-width:1180px;margin:0 auto;padding:0 16px}
+header{padding-top:48px}h1{font-size:clamp(26px,5vw,42px);line-height:1.25;margin:0 0 12px}
+.lead{font-size:17px;max-width:46em;margin:0 0 12px}.meta{color:var(--sub);font-size:13px}
+nav{display:flex;flex-wrap:wrap;gap:8px;margin:20px 0 8px}
+nav a{color:var(--ink);text-decoration:none;border:1px solid var(--line);border-radius:999px;padding:4px 14px;font-size:14px;background:var(--card)}
+#q{width:100%;max-width:420px;font:inherit;padding:10px 14px;border:1px solid var(--line);border-radius:10px;background:var(--card);color:var(--ink);margin:8px 0}
+h2{font-size:22px;margin:40px 0 14px;padding-bottom:6px;border-bottom:2px solid var(--line)}h2 small{color:var(--sub);font-weight:400;font-size:14px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:16px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;overflow:hidden;display:flex;flex-direction:column}
+.ph{position:relative;overflow:hidden;aspect-ratio:4/3;background:var(--line);display:flex;align-items:center;justify-content:center;color:var(--sub);font-size:13px}
+.ph img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;display:block}
+.body{padding:12px 14px 14px;display:flex;flex-direction:column;gap:4px;flex:1}
+.key{color:var(--accent);font-size:13px;font-weight:700;letter-spacing:.04em}
+h3{font-size:17px;line-height:1.4;margin:0}.card p{margin:4px 0 0;font-size:14px;line-height:1.65}
+.more{margin-top:auto;padding-top:8px;font-size:13px}a{color:var(--accent)}
+.credit{color:var(--sub);font-size:11px;line-height:1.4;padding:6px 14px 10px;border-top:1px solid var(--line);overflow-wrap:anywhere}
+.credit a{color:var(--sub)}footer{color:var(--sub);font-size:13px;padding:40px 16px 60px}
+.pages{display:grid;gap:14px;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));margin-top:24px}
+.pages a{display:block;background:var(--card);border:1px solid var(--line);border-radius:14px;padding:18px;color:var(--ink);text-decoration:none}
+.pages b{display:block;font-size:18px;margin-bottom:6px}.pages span{color:var(--sub);font-size:13px}
+
+.stage{margin:18px 0 8px;border:1px solid var(--line);border-radius:14px;overflow:hidden;background:var(--card)}
+.stage iframe{display:block;width:100%;height:min(78vh,720px);border:0;background:#fff}
+.stage.concept iframe{height:85vh}
+.howto{max-width:46em}.howto ol{padding-left:1.3em}
+</style></head><body>
+<header><div class="meta"><a href="../">Infolocacion</a> › Ideas &amp; Takes</div>
+<h1>Brain-Mode Map: A Tendency-Based Alternative to MBTI</h1><p class="tagline lead">Describe personality as tendencies that shift between inner-focus and task-focus brain modes, not four fixed types.</p><p class="lead">MBTI sorts people into 16 fixed types, and critics say those boxes are too rigid. This idea describes personality as tendencies that shift between two brain modes. It links those tendencies to the Default Mode Network and the Central Executive Network.</p></header>
+<main><div class="stage concept"><iframe id="stage" title="Brain-Mode Map: A Tendency-Based Alternative to MBTI" sandbox="allow-scripts" referrerpolicy="no-referrer"
+ srcdoc="&lt;!doctype html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;&lt;meta http-equiv=&quot;Content-Security-Policy&quot; content=&quot;default-src &#x27;none&#x27;; script-src &#x27;unsafe-inline&#x27;; style-src &#x27;unsafe-inline&#x27;; img-src data: blob:; font-src data:; media-src data: blob:; connect-src &#x27;none&#x27;; form-action &#x27;none&#x27;; base-uri &#x27;none&#x27;&quot;&gt;&lt;script&gt;(function(){var last=0;function m(){var b=document.body;if(!b)return 0;var r=0,c=b.children;for(var i=0;i&lt;c.length;i++){var x=c[i].getBoundingClientRect();if(x.height)r=Math.max(r,x.bottom)}var cs=getComputedStyle(b);return Math.ceil(r+scrollY+parseFloat(cs.marginBottom||0)+parseFloat(cs.paddingBottom||0))}function s(){var h=m();if(Math.abs(h-last)&lt;2)return;last=h;try{parent.postMessage({infolocacionHeight:h},&#x27;*&#x27;)}catch(e){}}addEventListener(&#x27;load&#x27;,s);addEventListener(&#x27;resize&#x27;,s);if(window.ResizeObserver)new ResizeObserver(s).observe(document.body||document.documentElement);setTimeout(s,300)})()&lt;/script&gt;
+&lt;meta charset=&quot;utf-8&quot;&gt;
+&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width,initial-scale=1&quot;&gt;
+&lt;meta name=&quot;color-scheme&quot; content=&quot;light dark&quot;&gt;
+&lt;title&gt;Brain-Mode Map: A Tendency-Based Alternative to MBTI&lt;/title&gt;
+&lt;style&gt;
+:root{--bg:#fbfbfd;--fg:#1d1d24;--muted:#55555f;--card:#f0f0f5;--focus:#111}
+@media (prefers-color-scheme: dark){:root{--bg:#121217;--fg:#ececf2;--muted:#adadb9;--card:#1d1d26;--focus:#fff}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.6 system-ui,-apple-system,&quot;Segoe UI&quot;,sans-serif}
+main{max-width:720px;margin:0 auto;padding:20px 16px 48px}
+h1{font-size:1.6rem;line-height:1.25;margin:0 0 8px}
+h2{font-size:1.15rem;margin:28px 0 8px}
+p{margin:6px 0}
+.lead{color:var(--muted)}
+.card{background:var(--card);border-radius:12px;padding:14px 16px;margin:12px 0}
+.tag{display:inline-block;font-size:.75rem;font-weight:600;padding:1px 8px;border-radius:999px;margin-right:6px;color:#fff;vertical-align:1px}
+.tag.p{background:#6d28d9}
+.tag.b{background:#4b5563}
+figure{margin:14px 0}
+figcaption{font-size:.9rem;color:var(--muted);margin-top:6px}
+svg{width:100%;height:auto;display:block;color:var(--muted)}
+.node{cursor:pointer;outline:none}
+.node rect{stroke:transparent;stroke-width:3;transition:stroke .15s}
+.node.on rect,.node:focus-visible rect{stroke:var(--focus)}
+.node text{fill:#fff;text-anchor:middle;pointer-events:none}
+.node .ttl{font-size:16px;font-weight:700}
+.node .sub{font-size:14px}
+.prop rect{fill:#6d28d9}
+.dmn rect{fill:#1d4ed8}
+.cen rect{fill:#15803d}
+.sal rect{fill:#4b5563}
+.arrow{fill:none;stroke:currentColor;stroke-width:2}
+.arrow.dash{stroke-dasharray:6 5}
+.edge{font-size:13px;fill:var(--muted)}
+.legend{display:flex;flex-wrap:wrap;gap:8px 16px;font-size:.9rem;margin:8px 0 0;padding:0;list-style:none}
+.legend li::before{content:&quot;&quot;;display:inline-block;width:12px;height:12px;border-radius:3px;margin-right:6px;vertical-align:-1px;background:var(--c)}
+#note{min-height:2.6em;margin:12px 0 0;padding:10px 14px;border-left:4px solid #6d28d9;background:var(--card);border-radius:6px}
+ul,ol{padding-left:22px;margin:6px 0}
+li{margin:4px 0}
+.small{font-size:.85rem;color:var(--muted)}
+&lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;main&gt;
+&lt;h1&gt;Brain-Mode Map: A Tendency-Based Alternative to MBTI&lt;/h1&gt;
+&lt;p class=&quot;lead&quot;&gt;MBTI sorts people into 16 fixed types, and critics say those boxes are too rigid. This idea describes personality as tendencies that shift between two brain modes. It links those tendencies to the Default Mode Network and the Central Executive Network.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;svg viewBox=&quot;0 0 400 370&quot; role=&quot;img&quot; aria-labelledby=&quot;d1t&quot;&gt;
+&lt;title id=&quot;d1t&quot;&gt;Brain-mode map: a tendency profile linked to the DMN, the CEN, and a mode switch&lt;/title&gt;
+&lt;defs&gt;
+&lt;marker id=&quot;ah1&quot; viewBox=&quot;0 0 10 10&quot; refX=&quot;9&quot; refY=&quot;5&quot; markerWidth=&quot;7&quot; markerHeight=&quot;7&quot; orient=&quot;auto-start-reverse&quot;&gt;&lt;path d=&quot;M0 0L10 5L0 10z&quot; fill=&quot;currentColor&quot;/&gt;&lt;/marker&gt;
+&lt;/defs&gt;
+
+&lt;path class=&quot;arrow&quot; d=&quot;M200 72V158&quot; marker-end=&quot;url(#ah1)&quot;/&gt;
+&lt;text class=&quot;edge&quot; x=&quot;212&quot; y=&quot;120&quot;&gt;baseline&lt;/text&gt;
+&lt;path class=&quot;arrow&quot; d=&quot;M114 194H130&quot; marker-end=&quot;url(#ah1)&quot;/&gt;
+&lt;path class=&quot;arrow&quot; d=&quot;M270 194H286&quot; marker-end=&quot;url(#ah1)&quot;/&gt;
+&lt;path class=&quot;arrow dash&quot; d=&quot;M60 162L110 42&quot; marker-end=&quot;url(#ah1)&quot;/&gt;
+&lt;path class=&quot;arrow dash&quot; d=&quot;M60 226V296&quot; marker-end=&quot;url(#ah1)&quot;/&gt;
+&lt;path class=&quot;arrow&quot; d=&quot;M150 296V230&quot; marker-end=&quot;url(#ah1)&quot;/&gt;
+&lt;text class=&quot;edge&quot; x=&quot;158&quot; y=&quot;270&quot;&gt;task style&lt;/text&gt;
+&lt;path class=&quot;arrow&quot; d=&quot;M250 230V296&quot; marker-end=&quot;url(#ah1)&quot;/&gt;
+&lt;text class=&quot;edge&quot; x=&quot;258&quot; y=&quot;270&quot;&gt;checked by&lt;/text&gt;
+
+&lt;g class=&quot;node dmn&quot; tabindex=&quot;0&quot; role=&quot;button&quot; aria-label=&quot;DMN, inner-focus mode. Background.&quot; data-note=&quot;DMN (default mode network): active when the mind is at rest, reflecting on self. Background.&quot;&gt;
+&lt;rect x=&quot;110&quot; y=&quot;12&quot; width=&quot;180&quot; height=&quot;60&quot; rx=&quot;10&quot;/&gt;
+&lt;text class=&quot;ttl&quot; x=&quot;200&quot; y=&quot;36&quot;&gt;DMN&lt;/text&gt;
+&lt;text class=&quot;sub&quot; x=&quot;200&quot; y=&quot;58&quot;&gt;Inner-focus mode&lt;/text&gt;
+&lt;/g&gt;
+
+&lt;g class=&quot;node prop&quot; tabindex=&quot;0&quot; role=&quot;button&quot; aria-label=&quot;Tendency profile. Your proposal.&quot; data-note=&quot;Your proposal: a score on each tendency, not one fixed type.&quot;&gt;
+&lt;rect x=&quot;130&quot; y=&quot;158&quot; width=&quot;140&quot; height=&quot;72&quot; rx=&quot;10&quot;/&gt;
+&lt;text class=&quot;ttl&quot; x=&quot;200&quot; y=&quot;182&quot;&gt;Tendency&lt;/text&gt;
+&lt;text class=&quot;sub&quot; x=&quot;200&quot; y=&quot;202&quot;&gt;profile&lt;/text&gt;
+&lt;text class=&quot;sub&quot; x=&quot;200&quot; y=&quot;220&quot;&gt;(your proposal)&lt;/text&gt;
+&lt;/g&gt;
+
+&lt;g class=&quot;node sal&quot; tabindex=&quot;0&quot; role=&quot;button&quot; aria-label=&quot;Switch, salience network. Background.&quot; data-note=&quot;Salience network: helps choose which mode to use. Background; a common model, not settled.&quot;&gt;
+&lt;rect x=&quot;6&quot; y=&quot;162&quot; width=&quot;108&quot; height=&quot;64&quot; rx=&quot;10&quot;/&gt;
+&lt;text class=&quot;ttl&quot; x=&quot;60&quot; y=&quot;188&quot;&gt;Switch&lt;/text&gt;
+&lt;text class=&quot;sub&quot; x=&quot;60&quot; y=&quot;208&quot;&gt;(salience net)&lt;/text&gt;
+&lt;/g&gt;
+
+&lt;g class=&quot;node prop&quot; tabindex=&quot;0&quot; role=&quot;button&quot; aria-label=&quot;Context fit. Your proposal.&quot; data-note=&quot;Your proposal: how well a situation suits a person&#x27;s profile.&quot;&gt;
+&lt;rect x=&quot;286&quot; y=&quot;162&quot; width=&quot;108&quot; height=&quot;64&quot; rx=&quot;10&quot;/&gt;
+&lt;text class=&quot;ttl&quot; x=&quot;340&quot; y=&quot;188&quot;&gt;Context&lt;/text&gt;
+&lt;text class=&quot;sub&quot; x=&quot;340&quot; y=&quot;208&quot;&gt;fit (proposal)&lt;/text&gt;
+&lt;/g&gt;
+
+&lt;g class=&quot;node cen&quot; tabindex=&quot;0&quot; role=&quot;button&quot; aria-label=&quot;CEN, task-focus mode. Background.&quot; data-note=&quot;CEN (central executive network): active during focused tasks and holding information in mind. Background.&quot;&gt;
+&lt;rect x=&quot;12&quot; y=&quot;296&quot; width=&quot;160&quot; height=&quot;60&quot; rx=&quot;10&quot;/&gt;
+&lt;text class=&quot;ttl&quot; x=&quot;92&quot; y=&quot;320&quot;&gt;CEN&lt;/text&gt;
+&lt;text class=&quot;sub&quot; x=&quot;92&quot; y=&quot;342&quot;&gt;Task-focus mode&lt;/text&gt;
+&lt;/g&gt;
+
+&lt;g class=&quot;node prop&quot; tabindex=&quot;0&quot; role=&quot;button&quot; aria-label=&quot;Daily log. Your proposal.&quot; data-note=&quot;Your proposal: a simple way to check the map over time.&quot;&gt;
+&lt;rect x=&quot;228&quot; y=&quot;296&quot; width=&quot;160&quot; height=&quot;60&quot; rx=&quot;10&quot;/&gt;
+&lt;text class=&quot;ttl&quot; x=&quot;308&quot; y=&quot;320&quot;&gt;Daily log&lt;/text&gt;
+&lt;text class=&quot;sub&quot; x=&quot;308&quot; y=&quot;342&quot;&gt;(proposal)&lt;/text&gt;
+&lt;/g&gt;
+&lt;/svg&gt;
+&lt;ul class=&quot;legend&quot; aria-label=&quot;Legend&quot;&gt;
+&lt;li style=&quot;--c:#6d28d9&quot;&gt;Proposal (your idea)&lt;/li&gt;
+&lt;li style=&quot;--c:#1d4ed8&quot;&gt;Background: DMN&lt;/li&gt;
+&lt;li style=&quot;--c:#15803d&quot;&gt;Background: CEN&lt;/li&gt;
+&lt;li style=&quot;--c:#4b5563&quot;&gt;Background: switch&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figcaption&gt;Main map. Solid arrows show influence. Dashed arrows show the switch choosing a mode.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p id=&quot;note&quot; aria-live=&quot;polite&quot;&gt;Hover, tab to, or tap a node to see a short note.&lt;/p&gt;
+
+&lt;h2&gt;The idea in one line &lt;span class=&quot;tag p&quot;&gt;Proposal&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;A person&#x27;s personality is a profile of tendencies. Each tendency is proposed to depend on the brain mode the person tends to be in.&lt;/p&gt;
+
+&lt;h2&gt;The problem it addresses&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&quot;tag b&quot;&gt;Background&lt;/span&gt; MBTI sorts people into 16 types. Scores near the middle can flip to a different type.&lt;/li&gt;
+&lt;li&gt;&lt;span class=&quot;tag b&quot;&gt;Background&lt;/span&gt; Many researchers prefer continuous trait models, such as the Big Five, which place people on scales.&lt;/li&gt;
+&lt;li&gt;&lt;span class=&quot;tag p&quot;&gt;Proposal&lt;/span&gt; A type does not say when a tendency shows up, such as during focused work or quiet reflection.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;How it works&lt;/h2&gt;
+&lt;p&gt;Read the main map from top to bottom.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;tag b&quot;&gt;Background&lt;/span&gt; The DMN (blue) is active when the mind is at rest and reflecting on self.&lt;/li&gt;
+&lt;li&gt;&lt;span class=&quot;tag b&quot;&gt;Background&lt;/span&gt; The CEN (green) is active during focused tasks, such as planning and holding information in mind.&lt;/li&gt;
+&lt;li&gt;&lt;span class=&quot;tag b&quot;&gt;Background&lt;/span&gt; The switch (grey) helps choose which mode to use. This is a common model, not a settled one.&lt;/li&gt;
+&lt;li&gt;&lt;span class=&quot;tag p&quot;&gt;Proposal&lt;/span&gt; The tendency profile (purple, centre) reflects how easily a person moves between the two modes.&lt;/li&gt;
+&lt;li&gt;&lt;span class=&quot;tag p&quot;&gt;Proposal&lt;/span&gt; The profile is then matched to a context, and a daily log checks the map over time.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;figure&gt;
+&lt;svg viewBox=&quot;0 0 400 120&quot; role=&quot;img&quot; aria-labelledby=&quot;d2t&quot;&gt;
+&lt;title id=&quot;d2t&quot;&gt;Proposed flow: answers become mode scores, then a profile, then a context fit&lt;/title&gt;
+&lt;defs&gt;
+&lt;marker id=&quot;ah2&quot; viewBox=&quot;0 0 10 10&quot; refX=&quot;9&quot; refY=&quot;5&quot; markerWidth=&quot;7&quot; markerHeight=&quot;7&quot; orient=&quot;auto-start-reverse&quot;&gt;&lt;path d=&quot;M0 0L10 5L0 10z&quot; fill=&quot;currentColor&quot;/&gt;&lt;/marker&gt;
+&lt;/defs&gt;
+&lt;path class=&quot;arrow&quot; d=&quot;M86 60H106&quot; marker-end=&quot;url(#ah2)&quot;/&gt;
+&lt;path class=&quot;arrow&quot; d=&quot;M186 60H206&quot; marker-end=&quot;url(#ah2)&quot;/&gt;
+&lt;path class=&quot;arrow&quot; d=&quot;M286 60H306&quot; marker-end=&quot;url(#ah2)&quot;/&gt;
+
+&lt;g class=&quot;node sal&quot; tabindex=&quot;0&quot; role=&quot;button&quot; aria-label=&quot;Answers. Background.&quot; data-note=&quot;Background: self-report questions are common in personality research.&quot;&gt;
+&lt;rect x=&quot;6&quot; y=&quot;28&quot; width=&quot;80&quot; height=&quot;64&quot; rx=&quot;10&quot;/&gt;
+&lt;text class=&quot;sub&quot; x=&quot;46&quot; y=&quot;66&quot;&gt;Answers&lt;/text&gt;
+&lt;/g&gt;
+&lt;g class=&quot;node prop&quot; tabindex=&quot;0&quot; role=&quot;button&quot; aria-label=&quot;Mode scores. Your proposal.&quot; data-note=&quot;Your proposal: how often a person uses each mode.&quot;&gt;
+&lt;rect x=&quot;106&quot; y=&quot;28&quot; width=&quot;80&quot; height=&quot;64&quot; rx=&quot;10&quot;/&gt;
+&lt;text class=&quot;sub&quot; x=&quot;146&quot; y=&quot;52&quot;&gt;Mode&lt;/text&gt;
+&lt;text class=&quot;sub&quot; x=&quot;146&quot; y=&quot;72&quot;&gt;scores&lt;/text&gt;
+&lt;/g&gt;
+&lt;g class=&quot;node prop&quot; tabindex=&quot;0&quot; role=&quot;button&quot; aria-label=&quot;Tendency profile. Your proposal.&quot; data-note=&quot;Your proposal: the set of tendency scores for one person.&quot;&gt;
+&lt;rect x=&quot;206&quot; y=&quot;28&quot; width=&quot;80&quot; height=&quot;64&quot; rx=&quot;10&quot;/&gt;
+&lt;text class=&quot;sub&quot; x=&quot;246&quot; y=&quot;52&quot;&gt;Tendency&lt;/text&gt;
+&lt;text class=&quot;sub&quot; x=&quot;246&quot; y=&quot;72&quot;&gt;profile&lt;/text&gt;
+&lt;/g&gt;
+&lt;g class=&quot;node prop&quot; tabindex=&quot;0&quot; role=&quot;button&quot; aria-label=&quot;Context fit. Your proposal.&quot; data-note=&quot;Your proposal: the last step, linking the profile to a situation.&quot;&gt;
+&lt;rect x=&quot;306&quot; y=&quot;28&quot; width=&quot;80&quot; height=&quot;64&quot; rx=&quot;10&quot;/&gt;
+&lt;text class=&quot;sub&quot; x=&quot;346&quot; y=&quot;52&quot;&gt;Context&lt;/text&gt;
+&lt;text class=&quot;sub&quot; x=&quot;346&quot; y=&quot;72&quot;&gt;fit&lt;/text&gt;
+&lt;/g&gt;
+&lt;/svg&gt;
+&lt;figcaption&gt;Second diagram: the proposed flow from answers to a context fit. Only the first box is background.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2&gt;Key components&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&quot;tag p&quot;&gt;Proposal&lt;/span&gt; &lt;strong&gt;Tendency profile:&lt;/strong&gt; a score on each tendency. There is no fixed box.&lt;/li&gt;
+&lt;li&gt;&lt;span class=&quot;tag b&quot;&gt;Background&lt;/span&gt; &lt;strong&gt;Inner-focus mode (DMN):&lt;/strong&gt; linked to self-reflection and memory.&lt;/li&gt;
+&lt;li&gt;&lt;span class=&quot;tag b&quot;&gt;Background&lt;/span&gt; &lt;strong&gt;Task-focus mode (CEN):&lt;/strong&gt; linked to planning and focused work.&lt;/li&gt;
+&lt;li&gt;&lt;span class=&quot;tag b&quot;&gt;Background&lt;/span&gt; &lt;strong&gt;Mode switch (salience network):&lt;/strong&gt; the network that helps pick the mode.&lt;/li&gt;
+&lt;li&gt;&lt;span class=&quot;tag p&quot;&gt;Proposal&lt;/span&gt; &lt;strong&gt;Context fit:&lt;/strong&gt; how well a situation suits a profile.&lt;/li&gt;
+&lt;li&gt;&lt;span class=&quot;tag p&quot;&gt;Proposal&lt;/span&gt; &lt;strong&gt;Daily log:&lt;/strong&gt; a simple record to test the map.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;What is new here vs what already exists&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&quot;tag b&quot;&gt;Already exists&lt;/span&gt; Trait models such as the Big Five. Research on the DMN and CEN. Models of a switching network.&lt;/li&gt;
+&lt;li&gt;&lt;span class=&quot;tag p&quot;&gt;New in this idea&lt;/span&gt; Linking trait-style scores to mode switching, and describing a person by how well they fit a context.&lt;/li&gt;
+&lt;li&gt;&lt;span class=&quot;tag p&quot;&gt;Not claimed&lt;/span&gt; That any link between traits and these networks has been shown. No results exist yet.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;Open questions and risks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&quot;tag p&quot;&gt;Open&lt;/span&gt; Do tendency scores track how often a person uses each mode? This needs testing.&lt;/li&gt;
+&lt;li&gt;&lt;span class=&quot;tag p&quot;&gt;Open&lt;/span&gt; Can the link be tested with cheap measures, such as self-reports and logs, before any brain scans?&lt;/li&gt;
+&lt;li&gt;&lt;span class=&quot;tag p&quot;&gt;Risk&lt;/span&gt; The idea could sound more scientific than the evidence allows.&lt;/li&gt;
+&lt;li&gt;&lt;span class=&quot;tag p&quot;&gt;Risk&lt;/span&gt; A mode label could be used to excuse behaviour, or to box people in again.&lt;/li&gt;
+&lt;li&gt;&lt;span class=&quot;tag p&quot;&gt;Risk&lt;/span&gt; A trait score and a mode score might measure the same thing, so a link would prove nothing.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;Possible next steps&lt;/h2&gt;
+&lt;p class=&quot;small&quot;&gt;Each step is a test. None has been run.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class=&quot;tag p&quot;&gt;Proposal&lt;/span&gt; Write clear tendency statements and rate them on a simple scale.&lt;/li&gt;
+&lt;li&gt;&lt;span class=&quot;tag p&quot;&gt;Proposal&lt;/span&gt; Compare the scores with an established trait model to see how much they overlap.&lt;/li&gt;
+&lt;li&gt;&lt;span class=&quot;tag p&quot;&gt;Proposal&lt;/span&gt; Run a small self-report study. Ask people to note when they focus and when their mind wanders.&lt;/li&gt;
+&lt;li&gt;&lt;span class=&quot;tag p&quot;&gt;Proposal&lt;/span&gt; Only if the first three steps look promising, talk to experts about brain-imaging tests.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p class=&quot;small&quot;&gt;This page shows no data, numbers, or studies. Everything tagged Proposal is a hypothesis to test.&lt;/p&gt;
+&lt;/main&gt;
+
+&lt;script&gt;
+(function(){
+  var note=document.getElementById(&#x27;note&#x27;);
+  var sel=null;
+  var nodes=document.querySelectorAll(&#x27;.node&#x27;);
+  function hl(el){el.classList.add(&#x27;on&#x27;)}
+  function unhl(el){if(el!==sel){el.classList.remove(&#x27;on&#x27;)}}
+  function say(el){note.textContent=el.getAttribute(&#x27;data-note&#x27;)}
+  for(var i=0;i&lt;nodes.length;i++){
+    (function(el){
+      el.addEventListener(&#x27;mouseenter&#x27;,function(){hl(el);say(el)});
+      el.addEventListener(&#x27;mouseleave&#x27;,function(){unhl(el)});
+      el.addEventListener(&#x27;focus&#x27;,function(){hl(el);say(el)});
+      el.addEventListener(&#x27;blur&#x27;,function(){unhl(el)});
+      el.addEventListener(&#x27;click&#x27;,function(){
+        if(sel&amp;&amp;sel!==el){sel.classList.remove(&#x27;on&#x27;)}
+        sel=el;hl(el);say(el);
+      });
+      el.addEventListener(&#x27;keydown&#x27;,function(e){
+        if(e.key===&#x27;Enter&#x27;||e.key===&#x27; &#x27;){
+          e.preventDefault();
+          el.dispatchEvent(new MouseEvent(&#x27;click&#x27;,{bubbles:true}));
+        }
+      });
+    })(nodes[i]);
+  }
+})();
+&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;"></iframe></div>
+<div class="howto"><h2>How to use</h2><ol><li>Read the main diagram first, then the sections below it.</li><li>Hover over, tab to, or tap a node to see a short note.</li><li>The Proposal tag marks your idea. The Background tag marks established knowledge.</li></ol></div>
+<style>.comments .giscus,.comments .giscus-frame{width:100%;max-width:none}.comments .giscus-frame{border:0;color-scheme:light dark;min-height:150px}</style><section class="comments" id="comments"><h2>Comments &amp; reactions</h2><p class="lead">Spotted a mistake, or know a better example? Leave a comment or a reaction. Sign-in with GitHub is required; comments are public.</p><script src="https://giscus.app/client.js" data-repo="Allo6600/Infolocacion" data-repo-id="R_kgDOVwc7rg" data-category="Announcements" data-category-id="DIC_kwDOVwc7rs4DLUXT" data-mapping="pathname" data-strict="1" data-reactions-enabled="1" data-emit-metadata="0" data-input-position="top" data-theme="preferred_color_scheme" data-lang="en" data-loading="lazy" crossorigin="anonymous" async></script></section></main>
+<footer><p>This page was built by AI to explain an idea as concept diagrams. The idea: "MBTIの代替となる性格傾向の説明と、脳のモード（DMN/CEN）との関連性に関する概念的なフレームワークの提示 [Requested format: map — build the page in this form.]".
+It runs in a sealed frame with no network access and stores nothing.</p>
+<p><a href="../">More pages</a></p></footer><script>(function(){var grows=0;addEventListener('message',function(e){var f=document.getElementById('stage');if(!f||e.source!==f.contentWindow||!e.data)return;var h=Number(e.data.infolocacionHeight);if(!isFinite(h)||h<200)return;h=Math.min(Math.ceil(h),30000);var cur=f.getBoundingClientRect().height;if(h>cur+1){if(++grows>60)return}f.style.height=h+'px'})})()</script></body></html>
